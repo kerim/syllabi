@@ -85,6 +85,24 @@
 * 期末考試: 20%
 (請見以下評分標準的說明)
 
+### 分析
+* 當週的閱讀分析書面作業約800-1600字(不包括引述的文字)。
+書面作業要包含以下格式：
+
+1. 作者的問題為何？
+2. 作者用什麼材料與研究方法來回答她/他所提的問題？
+3. 列出作者回答這些問題時的主要論點。(通常會有2-5個論點，依文章而定)
+4. 從其他書/電影/新聞訊息，或是自己的經驗中對每一個論點提供一個例子，用這個例子來說明作者的論點。所使用的例子必須要符合作者在這篇文章中要傳達的意圖。
+5. 最後要對作者提出幾個問題。比如是否有其他相反觀點是作者要注意的？作者所使用的研究方法是否有誤？或是妳/你希望作者能夠再多閱讀哪些不同的材料？
+
+* The reading analysis should be between 800 and 1600 characters of original writing (i.e. not including quoted material and citations).
+All analysis should follow the same format:
+
+1. What questions are posed by the author?
+2. What is the data and methodology used by the author to answer her questions?
+3. List the main points argued by the author in answering this question. (Usually 2-5 points, depending on the article.).
+4. For each point, provide one example from another book/film/news story, or from your own experience, illustrating the author's point. Your example must match the intentions of the author in the article. (Be sure to cite your sources.)
+5. End with some questions for the author. Be specific. Are there counter-arguments you wish she had considered? Is there something wrong with the author's methodology? Or do you wish she had looked at some other kinds of data?
 
 ### 報告
 * 分析作業是個人功課，而上台報告是小組的作業。報告時，小組的每一位同學都必須上台，在報告時請帶著你的講稿或筆記，別在台上翻書。
@@ -113,3 +131,28 @@
 ### 口頭考試
 * 學生重視口頭考試要如同筆試一樣。口試前要回顧課堂閱讀材料。
 * 口頭考試包含：上課所討論的議題內容、網路群組資料、各組課堂發表的報告，而非僅止於閱讀資料而已，所以整個學期都務必做好學習筆記。
+
+### 評分標準
+* What my grades mean:
+* "E" –妳/你就像鬼魂一樣。我甚至整個學期都沒看過妳/你，或是也許妳/你已被騙到地獄了？
+* "D" –妳/你就像個殭屍。我看到妳/你的肉體在教室內，但是妳/你的思緒在其他地方。
+* "C" –士兵。妳/你做了應該做的。不多也不少。
+* "B" –學者。妳/你很狂熱的學習新知識，但是要得到"A"還要再更努力，而非像做白日夢一樣。
+* "A" –英雄。妳/你不只是結合士兵與學者的品質，還完成本課程的要求，更是已經超越了所追求的知識。
+* "E" - You are a ghost. I either didn't see you all semester, or maybe you have been sent to hell for cheating?
+* "D" - You are a zombie. I see your body in class, but your brain is somewhere else.
+* "C" - Soldier. You do what you are told. No more, no less.
+* "B" - Scholar. You are enthusiastic about learning new ideas, but maybe you were daydreaming too much to get an "A"?
+* "A" - Hero. You not only combine the qualities of the soldier and the scholar, not only fulfilling the course requirements but also going beyond them in your pursuit of knowledge.
+
+## 什麼是抄襲？
+* 就是發表別人的作品或是想法時，好像是自己原創的。不管抄襲多寡，只要抄襲妳/你就會被當掉! (請參考這個網址,和Chicago 格式簡要範例 學習如何正確地引用參考書目)
+* It is presenting other people's work or ideas as if it were your own. It doesn't matter how much or how little you do this - if you do it you will be failed! (See the handout on plagiarism, for an explanation, and the Chicago 格式簡要範例to learn how to properly cite references.)
+
+## 課堂參與
+* 積極主動地參與課堂討論與網路線上群組，將有助於妳/你的整體成績。不要擔心我不同意妳/你所說的。我喜歡學生提出強而有力的觀點，即使和我的論點有所不 同。也許我在課堂上和你爭論時聽起來會很「嚴厲」，但是只要妳/你捍衛妳/你的論點，那妳/你將會獲得好成績，而非很差的成績。
+* Actively participating in class discussion and online will also help your overall score. Don't worry if I disagree with what you say. I prefer students to express strong opinions, even if they are different from my own. I may sound "harsh" if I argue with you in class, but you can be sure that if you stick up for your own ideas you will get a better grade, not a worse one!!!
+
+## 問題
+* 如果有任何疑問，請提問!我有固定的office hour、群組討論的email list、私人電子信箱。對妳/你被期待的課業要求沒有假裝不知道的藉口。
+* If in doubt, ask! I have regular office hours, an e-mail list for the class, and my private e-mail address. There is no excuse for not knowing what is expected of you.
