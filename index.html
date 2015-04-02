@@ -3,14 +3,17 @@ layout: default
 title: Home
 ---
 
+<div class="posts">
+	
 <h1>List of courses</h1>
 
-<div class="posts">
+<h2>General Information</h2>
+
 	
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
-          {% if node.layout == "page" %}
+          {% if node.layout == "general_info" %}
             <a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
