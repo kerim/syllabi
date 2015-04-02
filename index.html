@@ -16,6 +16,7 @@ published: true
         {% if node.title != null %}
           {% if node.layout == "general_info" %}
             <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+    <ul>{{node.notes}}</ul>
           {% endif %}
         {% endif %}
       {% endfor %}
@@ -43,6 +44,7 @@ published: true
         {% if node.title != null %}
           {% if node.layout == "undergraduate_courses" %}
             <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+    <ul>{{node.notes}}</ul>
           {% endif %}
         {% endif %}
       {% endfor %}
