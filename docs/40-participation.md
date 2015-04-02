@@ -1,0 +1,3 @@
+## 課堂參與
+* 積極主動地參與課堂討論與網路線上群組，將有助於妳/你的整體成績。不要擔心我不同意妳/你所說的。我喜歡學生提出強而有力的觀點，即使和我的論點有所不 同。也許我在課堂上和你爭論時聽起來會很「嚴厲」，但是只要妳/你捍衛妳/你的論點，那妳/你將會獲得好成績，而非很差的成績。
+* Actively participating in class discussion and online will also help your overall score. Don't worry if I disagree with what you say. I prefer students to express strong opinions, even if they are different from my own. I may sound "harsh" if I argue with you in class, but you can be sure that if you stick up for your own ideas you will get a better grade, not a worse one!!!
