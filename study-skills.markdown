@@ -1,7 +1,8 @@
 ---
 layout: undergraduate_courses
+title: 學習方法與技巧 Basic Study Skills
 category: undergraduate_courses
-notes: "Undergraduate course on Indigenous peoples in India, with a focus on Denotified and Nomadic Tribes."
+notes: "Core course teaching basic college survival skills to undergraduates. (Co-taught.)"
 warn: Spring 2014
 ---
 
