@@ -1,5 +1,5 @@
 ---
-layout: post_ct
+layout: undergraduate_courses
 title: 語言與社會 Language and Society
 category: undergraduate_courses
 notes: Undergraduate introduction to sociolinguistics and linguistic anthropology.

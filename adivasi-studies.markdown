@@ -1,5 +1,5 @@
 ---
-layout: post_ct
+layout: undergraduate_courses
 title: 印度原住民研究 Adivasi Studies
 category: undergraduate_courses
 notes: Undergraduate course on Indigenous peoples in India, with a focus on Denotified and Nomadic Tribes.

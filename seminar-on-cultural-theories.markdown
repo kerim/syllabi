@@ -1,5 +1,5 @@
 ---
-layout: post_ct
+layout: graduate_courses
 title: 文化理論專題 Seminar on Cultural Theories
 category: graduate_courses
 notes: Required course for Ph.D. students.

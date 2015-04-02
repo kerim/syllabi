@@ -1,5 +1,5 @@
 ---
-layout: post_ct
+layout: graduate_courses
 title: 語言、科技與社會變遷 Language, Technology and Social Change
 category: graduate_courses
 notes: Graduate seminar on the social effects of developments in communications technology, including writing, the printing press, the internet, and mobile communications. (Discontinued.)

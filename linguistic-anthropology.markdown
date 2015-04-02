@@ -1,5 +1,5 @@
 ---
-layout: post_ct
+layout: graduate_courses
 title: 語言人類學 Linguistic Anthropology
 category: graduate_courses
 notes: Introductory level graduate seminar on linguistic anthropology.

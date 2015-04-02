@@ -1,5 +1,5 @@
 ---
-layout: post_ct
+layout: graduate_courses
 title: 語言與政治經濟學 Language and Political Economy
 category: graduate_courses
 notes: Graduate seminar on contemporary work in linguistic anthropology. (Discontinued.)

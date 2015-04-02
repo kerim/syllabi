@@ -1,5 +1,5 @@
 ---
-layout: post_ct
+layout: undergraduate_courses
 title: 原住民教育 Aboriginal Education
 category: undergraduate_courses
 notes: Undergraduate course on issues of class, race, and gender in education, with a specific focus on indigenous education.

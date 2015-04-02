@@ -1,5 +1,5 @@
 ---
-layout: post_ct
+layout: undergraduate_courses
 title: 政治經濟學概論 Introduction to Political Economy
 category: undergraduate_courses
 notes: Undergraduate course on historical and contemporary inequality, focusing on the colonial encounter as well as issues pertaining to class, race, and gender.

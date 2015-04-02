@@ -1,5 +1,5 @@
 ---
-layout: post_ct
+layout: graduate_courses
 title: 影像民族誌的製作 Visual Ethnography Production
 category: graduate_courses
 notes: "Graduate seminar on production methods in visual anthropology."
