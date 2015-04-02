@@ -28,7 +28,8 @@ published: true
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "graduate_courses" %}
-  <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a> {{node.notes}}</li>
+  <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li> 
+  <ul>{{node.notes}}</ul>
           {% endif %}
         {% endif %}
       {% endfor %}
