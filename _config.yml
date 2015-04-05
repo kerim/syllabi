@@ -11,7 +11,7 @@ title:            Syllabi
 tagline:          'Courses taught by P. Kerim Friedman'
 description:      'A list of courses taught by <a href="http://kerim.oxus.net">P. Kerim Friedman 傅可恩</a>.'
 url:              http://kerim.oxus.net/
-baseurl:          /syllabi/
+baseurl:          /syllabi
 
 author:
   name:           'P. Kerim Friedman'
