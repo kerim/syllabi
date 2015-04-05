@@ -19,7 +19,7 @@ body, .content, .container {
 
 /* SECTION 2: Remove any elements not needed in print. 
    This would include navigation, ads, sidebars, etc. */
-.nav, .sidebar {
+.nav, .sidebar, .markdown-toc, .no_toc {
    display: none; 
 }
 
