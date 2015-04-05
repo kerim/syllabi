@@ -12,7 +12,7 @@ published: true
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
-          {% if node.layout == "syllabi" %}
+          {% if node.layout == "files" %}
             <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
           {% endif %}
         {% endif %}
