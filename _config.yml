@@ -13,6 +13,12 @@ description:      'A list of courses taught by <a href="http://kerim.oxus.net">P
 url:              http://kerim.github.io/
 baseurl:          /syllabi
 
+gems:
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
+
 author:
   name:           'P. Kerim Friedman'
   url:            https://twitter.com/kerim
