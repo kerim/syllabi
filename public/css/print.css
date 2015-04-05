@@ -12,7 +12,8 @@
    unnecessary background images from printing */
 body, .content, .container {
    width: 100%;
-   margin: 10px;
+   margin-left: 10px;
+   margin-right: 20px;
    float: none;
    background: #fff url(none);
 }
@@ -26,7 +27,7 @@ body, .content, .container {
 /* SECTION 3: Set body font face, size, and color.
    Consider using a serif font for readability. */
 body {
-   font: .9em "Times New Roman", Times, serif;
+   font: .8em "Times New Roman", Times, serif;
    color: #000; 
 }
 
