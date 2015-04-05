@@ -33,8 +33,6 @@ prose:
     - /_layouts
     - /_includes
     - /_posts
-    - /_pages
-    - CNAME
     - atom.xml
     - robots.txt
     - /public
