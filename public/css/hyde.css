@@ -250,9 +250,6 @@ a.sidebar-nav-item:focus {
 }
 
 @media print {
-/* Print styles go here */
-.sidebar {
-display: hidden;
+.sidebar {display: hidden;}
  }
- 
  
