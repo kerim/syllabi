@@ -25,16 +25,5 @@ version:          2.1.0
 github:
   repo:           https://github.com/poole/hyde
 
-prose:
-  siteurl: 'http://kerim.oxus.net/syllabi'
-  media: 'media'
-  ignore:
-    - _config.yml
-    - /_layouts
-    - /_includes
-    - /_posts
-    - atom.xml
-    - robots.txt
-    - /public
-    - 404.html
-    - LICENSE.md
+
+  
