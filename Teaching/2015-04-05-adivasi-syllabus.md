@@ -1,6 +1,6 @@
 ---
 title: Adivasi Studies 
-layout: page
+layout: post
 ---
 
 ## About Adivasi Studies 印度原住民研究 (CI__22100)
