@@ -1,6 +1,7 @@
 ---
 title: Adivasi Studies 
 layout: post
+category: syllabi
 ---
 
 ## About Adivasi Studies 印度原住民研究 (CI__22100)
