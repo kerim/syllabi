@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Student Films
-
+category: supplement
 ---
 
 Selected student films from the Visual Ethnography Production 影像民族誌的製作 class.
