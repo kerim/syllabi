@@ -10,7 +10,7 @@ This is a nuts and bolts course, which assumes that students already have a theo
 
 * [課程 Syllabus][syllabus]
 * [課堂大綱 Course Outline][course_outline]
-* [學生作品 Selected film projects]({{site.baseurl}}/student-films)
+* [學生作品 Selected film projects]({{site.baseurl}}/student-films.markdown)
 * [多媒體器材 Equipment List][equipment_list]
 
 [syllabus]:https://docs.google.com/document/d/1SyWAi0sJ4CkCnDMglL8dubPHN1RHTC2plYVBTA2vhpk/pub
