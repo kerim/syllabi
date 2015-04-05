@@ -12,7 +12,7 @@
    unnecessary background images from printing */
 body, .content, .container {
    width: 100%;
-   margin: 0;
+   margin: 10px;
    float: none;
    background: #fff url(none);
 }
@@ -26,7 +26,7 @@ body, .content, .container {
 /* SECTION 3: Set body font face, size, and color.
    Consider using a serif font for readability. */
 body {
-   font: 1em Georgia, "Times New Roman", Times, serif;
+   font: .9em "Times New Roman", Times, serif;
    color: #000; 
 }
 
@@ -37,12 +37,12 @@ h1,h2,h3,h4,h5,h6 {
    font-family: Helvetica, Arial, sans-serif;
    color: #000;
 }
-h1 { font-size: 250%; }
-h2 { font-size: 175%; }
-h3 { font-size: 135%; }
+h1 { font-size: 150%; }
+h2 { font-size: 125%; }
+h3 { font-size: 115%; }
 h4 { font-size: 100%; font-variant: small-caps; }
-h5 { font-size: 100%; }
-h6 { font-size: 90%; font-style: italic; }
+h5 { font-size: 90%; }
+h6 { font-size: 80%; font-style: italic; }
 
 /* SECTION 5: Make hyperlinks more usable.
    Ensure links are underlined, and consider appending
