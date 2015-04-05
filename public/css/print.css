@@ -10,7 +10,7 @@
    background. This prevents elements from extending 
    beyond the edge of the printed page, and prevents
    unnecessary background images from printing */
-body, #content, #container {
+body, .content, .container {
    width: 100%;
    margin: 0;
    float: none;
