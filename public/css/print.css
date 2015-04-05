@@ -11,7 +11,7 @@
    beyond the edge of the printed page, and prevents
    unnecessary background images from printing */
 body, .content, .container {
-   width: 90%;
+   width: 95%;
    margin-left: 10px;
    margin-right: 10px;
    float: none;
