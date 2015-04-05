@@ -4,6 +4,7 @@ title: Adivasi Studies 印度原住民研究
 category: syllabi
 ---
 ## Table of Contents
+{:.no_toc}
 
 - Contents
 {:toc}
