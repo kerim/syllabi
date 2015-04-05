@@ -13,14 +13,14 @@
 body, .content, .container {
    width: 100%;
    margin-left: 10px;
-   margin-right: 20px;
+   margin-right: 50px;
    float: none;
    background: #fff url(none);
 }
 
 /* SECTION 2: Remove any elements not needed in print. 
    This would include navigation, ads, sidebars, etc. */
-.nav, .sidebar, #markdown-toc, #no_toc {
+.nav, .sidebar, #markdown-toc, .table-of-contents {
    display: none; 
 }
 
