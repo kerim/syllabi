@@ -1,7 +1,7 @@
 ---
-layout: syllabi
+layout: files
 title: Student Films
-category: syllabi
+category: files
 ---
 
 Selected student films from the Visual Ethnography Production 影像民族誌的製作 class.
