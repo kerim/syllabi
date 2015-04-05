@@ -1,16 +1,18 @@
 ---
-title: Adivasi Studies 
 layout: files
+title: Adivasi Studies
 category: files
 ---
 
 ## About Adivasi Studies 印度原住民研究 (CI__22100)
+
 Adivasi研究探索印度原住民人口的歷史、文化、語言與傳統。印度每一億人口中就有超過8%的人是Adivasi，但是他們的歷史在近年來才開始被述說。在探索Adivasi人與印度社會相遇遭逢的早期歷史後，這門課程會審視殖民遭遇如何形塑Adivasi人的認同，課程後期會轉向探究近年的事件，包括Adivasi人權運動、全球化的影響。尤其會特別關注那些所謂的除名部落、遊牧部落或DNT，與他們的抗爭。
 
 Adivasi Studies explores the history, culture, languages and traditions of India’s indigenous population. Over eight percent of India’s one billion people are Adivasis, but their story has only recently begun to be told. After exploring the early history of Adivasi encounters with the rest of Indian society, the course then looks at how the colonial encounter shaped Adivasi identity, finally turning to recent events, including the Adivasi right movement, and the impact of globalization. Particular attention will be paid to the so-called De-notified and Nomadic Tribes or DNTs, and their struggles.
 
 ### Syllabus Website 課程網頁  
-* http://kerim.oxus.net/teaching/adivasi-studies/
+
+* [http://kerim.oxus.net/syllabi/adivasi-studies/](http://kerim.oxus.net/syllabi/adivasi-studies/)
 * [課堂大綱 Course Outline](https://docs.google.com/spreadsheet/pub?key=0AlIzY9pLiJVZdHZ5czhMM3hyd0lwUFdKemtqZ3cxaXc&single=true&gid=0&output=html) ([PDF](https://docs.google.com/spreadsheet/pub?key=0AlIzY9pLiJVZdHZ5czhMM3hyd0lwUFdKemtqZ3cxaXc&single=true&gid=0&output=pdf))
 
 ### Time and Location 時間與地點
