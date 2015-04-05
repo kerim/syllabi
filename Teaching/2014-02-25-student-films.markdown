@@ -1,5 +1,5 @@
 ---
-layout: post_ct
+layout: page
 title: Student Films
 
 ---
