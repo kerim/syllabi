@@ -10,7 +10,7 @@ relative_permalinks: true
 # Setup
 title:            Syllabi
 tagline:          'Courses taught by P. Kerim Friedman'
-description:      'A list of courses taught by <a href="http://kerim.oxus.net">P. Kerim Friedman 傅可恩</a>.'
+description:      'A list of courses taught by <a href="http://kerim.oxus.net">P. Kerim Friedman 傅可恩</a>..'
 url:              http://kerim.github.io/
 baseurl:          /syllabi
 
