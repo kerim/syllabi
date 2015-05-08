@@ -6,6 +6,12 @@ category: syllabi
 
 This is an independent study class for Ph.D. students. The course seeks to introduce students to debates and topics within contemporary foucauldian approaches to colonial studies. It is a truism to state that "knowledge is power" but what does this mean? How has colonial knowledge shaped race, gender, illness, language, sexuality, etc? What are the methodologies used in the study of knowledge/power? What are the criticisms and limitations of such discourse centered approaches? 
 
+## Table of Contents
+{:.no_toc}
+
+- Contents
+{:toc}
+
 ## Required Readings
 
 1. Dirks, Nicholas B. *The Scandal of Empire.* Harvard University Press, 2009.
