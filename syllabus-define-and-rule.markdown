@@ -1,6 +1,6 @@
 ---
 layout: syllabi
-title: Define and Rule: Race, Gender, and Colonial Knowledge
+title: Define and Rule - Race, Gender, and Colonial Knowledge
 category: syllabi
 ---
 
