@@ -15,7 +15,7 @@ This is an independent study class for Ph.D. students. The course seeks to intro
 ## Required Readings
 
 1. Dirks, Nicholas B. *The Scandal of Empire.* Harvard University Press, 2009.
-2. Fanon, Frantz. *Black Skin, White Masks.* Grove Press, 2008.
+2. (a) Nandy, Ashis. *The Intimate Enemy: Loss and Recovery of Self Under Colonialism.* Oxford University Press, 2010. & (b) Césaire, Aimé. *Discourse on Colonialism.* Monthly Review Press, 2000.
 3. Williams, Patrick, and Laura Chrisman, eds. *Colonial Discourse and Post-Colonial Theory: A Reader.* Columbia University Press, 1994.
 4. Stoler, Ann Laura. *Race and the Education of Desire: Foucault’s History of Sexuality and the Colonial Order of Things.* Duke University Press Books, 2012.
 5. Vaughan, Megan. *Curing Their Ills: Colonial Power and African Illness.* Stanford University Press, 1991.
