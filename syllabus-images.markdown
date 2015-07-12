@@ -81,5 +81,6 @@ Indigenous Images has three goals: 1. To train students in the art of critical f
 * The moment run through/走過千年 (66)
 * The Stories of Rainbow/彩虹的故事 (55)
 
-{% include coursematter.markdown %}
-
+{% include grading.markdown %}
+{% include plagiarism.markdown %}
+{% include cc.markdown %}
