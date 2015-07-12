@@ -13,7 +13,42 @@ Adivasi Studies explores the history, culture, languages and traditions of India
 
 * [課堂大綱 Course Outline][outline] [[PDF][pdf]]
 
-<iframe width="700" height="700" src="https://docs.google.com/spreadsheets/d/1CsEM2yE5rRws2M0BHbosRUsJQ4flJ0G2EzsRHkHWRLs/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+1. 2月20日 **Course introduction**
+2. 2月27日 **Ramayana vs. Ramanyi** 
+ - Gond Ramanyi Handout Film: Sita Sings the Blues
+3. 3月06日 **Buddhism and China**
+ - 印度人文之旅 2 (film and book) 
+ - Sen on India and China
+4. 3月13日 ** Islam before Colonialism ** 
+ - 印度人文之旅 5 (film and book)
+5. 3月20日 ** Colonialism and After ** 
+ - 印度人文之旅 6 (film and book) 
+6. 3月27日 ** Thuggies ** 
+ - 施瓦茨 《印第安納•瓊斯和罪惡之殿》
+ - Film: The Decievers《騙子們》
+7. 4月03日 ** 調整上課(放假) ** 
+8. 4月10日 ** "Criminal Tribes" ** 
+ - Friedman "Collaboration against Ethnography" Film:《請別打我，長官！》* 《布德漢》
+9. 4月17日 ** 期中考試 **  
+10. 4月24日 ** Adivasi ** 
+ - 傅可恩《多爾鼓(Dhol)的故事》
+11. 5月01日 ** Adivasi ** 
+ - Shah Prologue + 1 **(Group 1)**
+12. 5月08日 ** Film ** 
+ - Himself He Cooks 關於吃這件事 
+ - SAMA 神秘的莎瑪 
+13. 5月15日 ** Adivasi ** 
+ - Shah 2 ** Group 2 **
+14. 5月22日 ** Adivasi ** 
+ - Shah 3 ** Group 3 **
+15. 5月29日 ** Adivasi ** 
+ - Shah 4 ** Group 4 **
+16. 6月05日 ** Adivasi ** 
+ - Shah 5 ** Group 5 **
+17. 6月12日 ** Adivasi ** 
+ - Shah 6 + Epilogue ** Group 6 **
+18. 6月19日 ** 學期考試 ** 
 
 
 ## Table of Contents
