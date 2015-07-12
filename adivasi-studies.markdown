@@ -13,7 +13,7 @@ Adivasi Studies explores the history, culture, languages and traditions of India
 
 * [課堂大綱 Course Outline][outline] [[PDF][pdf]]
 
-<iframe src="https://docs.google.com/spreadsheets/d/1CsEM2yE5rRws2M0BHbosRUsJQ4flJ0G2EzsRHkHWRLs/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="500" height="500" src="https://docs.google.com/spreadsheets/d/1CsEM2yE5rRws2M0BHbosRUsJQ4flJ0G2EzsRHkHWRLs/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 ## Table of Contents
