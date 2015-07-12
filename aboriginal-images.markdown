@@ -3,7 +3,7 @@ layout: undergraduate_courses
 title: 原住民影像 Aboriginal Images
 category: undergraduate_courses
 notes: Undergraduate course exploring the representation of indigenous peoples in the media.
-warn: "Fall 2013"
+warn: "Fall 2015"
 ---
 
 
@@ -14,6 +14,6 @@ Indigenous Images has three goals: 1. To train students in the art of critical f
 * [課程 Syllabus][syllabas]
 * [課堂大綱 Course Outline][outline] [[PDF][pdf]]
 
-[syllabas]:http://kerim.pancakeapps.com/Indigenous%20Images%20Syllabus.md
+[syllabas]:http://kerim.oxus.net/syllabi/syllabus-images/
 [outline]:https://docs.google.com/spreadsheet/pub?key=0AlIzY9pLiJVZdGRCMk04eXFQaVFsRXMwM2JuM1BtUWc&single=true&gid=0&output=html
 [pdf]:https://docs.google.com/spreadsheet/pub?key=0AlIzY9pLiJVZdGRCMk04eXFQaVFsRXMwM2JuM1BtUWc&single=true&gid=0&output=html

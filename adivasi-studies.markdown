@@ -14,6 +14,6 @@ Adivasi Studies explores the history, culture, languages and traditions of India
 * [課程 Syllabus][syllabas]
 * [課堂大綱 Course Outline][outline] [[PDF][pdf]]
 
-[syllabas]:http://kerim.pancakeapps.com/Adivasi%20Syllabus
+[syllabas]:http://kerim.oxus.net/syllabi/syllabus-adivasi/
 [outline]:https://docs.google.com/spreadsheet/pub?key=0AlIzY9pLiJVZdHZ5czhMM3hyd0lwUFdKemtqZ3cxaXc&single=true&gid=0&output=html
 [pdf]:https://docs.google.com/spreadsheet/pub?key=0AlIzY9pLiJVZdHZ5czhMM3hyd0lwUFdKemtqZ3cxaXc&single=true&gid=0&output=pdf
