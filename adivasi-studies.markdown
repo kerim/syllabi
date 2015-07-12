@@ -11,9 +11,7 @@ Adivasi研究探索印度原住民人口的歷史、文化、語言與傳統。�
 
 Adivasi Studies explores the history, culture, languages and traditions of India’s indigenous population. Over eight percent of India’s one billion people are Adivasis, but their story has only recently begun to be told. After exploring the early history of Adivasi encounters with the rest of Indian society, the course then looks at how the colonial encounter shaped Adivasi identity, finally turning to recent events, including the Adivasi right movement, and the impact of globalization. Particular attention will be paid to the so-called De-notified and Nomadic Tribes or DNTs, and their struggles.
 
-* [課堂大綱 Course Outline][outline] [[PDF][pdf]]
-
-## Course Outline 
+## 課堂大綱 Course Outline (102學年下學期)
 
 1. 2月20日 **Course introduction**
 2. 2月27日 **Ramayana vs. Ramanyi**
@@ -30,7 +28,9 @@ Adivasi Studies explores the history, culture, languages and traditions of India
  - Film: The Decievers《騙子們》
 7. 4月03日 **調整上課(放假)**
 8. 4月10日 **"Criminal Tribes"**
- - Friedman "Collaboration against Ethnography" Film:《請別打我，長官！》* 《布德漢》
+ - Friedman "Collaboration against Ethnography" 
+ - Film:《請別打我，長官！》
+ - Supplementary:《布德漢》
 9. 4月17日 **期中考試** 
 10. 4月24日 **Adivasi**
  - 傅可恩《多爾鼓(Dhol)的故事》
@@ -52,6 +52,7 @@ Adivasi Studies explores the history, culture, languages and traditions of India
 18. 6月19日 **學期考試**
 
 
+
 ## Table of Contents
 {:.no_toc}
 
@@ -59,11 +60,6 @@ Adivasi Studies explores the history, culture, languages and traditions of India
 {:toc}
 
 ## Course Info
-
-### Syllabus Website 課程網頁  
-
-* [http://kerim.oxus.net/syllabi/adivasi-studies/](http://kerim.oxus.net/syllabi/adivasi-studies/)
-* [課堂大綱 Course Outline](https://docs.google.com/spreadsheet/pub?key=0AlIzY9pLiJVZdHZ5czhMM3hyd0lwUFdKemtqZ3cxaXc&single=true&gid=0&output=html) ([PDF](https://docs.google.com/spreadsheet/pub?key=0AlIzY9pLiJVZdHZ5czhMM3hyd0lwUFdKemtqZ3cxaXc&single=true&gid=0&output=pdf))
 
 ### Time and Location 時間與地點
 * 時間：星期四, 2:10pm-5:00pm
@@ -96,7 +92,3 @@ Adivasi Studies explores the history, culture, languages and traditions of India
 - 傅可恩 and (P. Kerim Friedman). 2007. 多爾鼓(dhol)的故事: 關於印度原住民(adivasis)為自己所做的口述雜誌 (the story of dhol: An "oral magazine" by, about, and for adivasis). In 瞭解當代印度政治. Ed. Jolan Hsieh Cheng-feng Shih. Trans. 林伯寰 台北：台灣: 台灣國際研究學會舉辦的「瞭解當代印度政治」學術研討會.
 
 {% include coursematter.markdown %}
-
-[syllabus]:http://kerim.oxus.net/syllabi/syllabus-adivasi/
-[outline]:https://docs.google.com/spreadsheet/pub?key=0AlIzY9pLiJVZdHZ5czhMM3hyd0lwUFdKemtqZ3cxaXc&single=true&gid=0&output=html
-[pdf]:https://docs.google.com/spreadsheet/pub?key=0AlIzY9pLiJVZdHZ5czhMM3hyd0lwUFdKemtqZ3cxaXc&single=true&gid=0&output=pdf
