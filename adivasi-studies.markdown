@@ -13,6 +13,12 @@ Adivasi Studies explores the history, culture, languages and traditions of India
 
 * [課堂大綱 Course Outline][outline] [[PDF][pdf]]
 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
 ## Table of Contents
 {:.no_toc}
 
