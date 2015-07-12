@@ -1,9 +1,4 @@
----
-title: About Plagiarism 
-header: 關於剽竊
----
-
-## 避免剽竊 <sup>1</sup>
+## 避免剽竊[^1]
 
 當你在寫研究論文時，你必須解釋你是由何處得到你的資料。你使用的一些想法可能是你自己的，但是很多可能來自你於閱讀過的資料，和你依照主題訪問過的人們中，為瞭解釋資訊從何而來，你必須提供引用來源。
 
@@ -39,7 +34,7 @@ header: 關於剽竊
 ### 解譯(解釋意思)
 許多學生不清楚什麼是解譯。將原來的一些措詞重新排置，產生的解譯是不被接受的；使用相同的敘述結構但在一些關鍵字上改變措詞也是不被接受的。
 
-### 一些例子 <sup>2</sup>
+### 一些例子[^2]
 
 #### 原稿:
 
@@ -69,8 +64,6 @@ header: 關於剽竊
 
 最後，抄襲對他人不公平。對其他做了這個作業的學生不公平。對浪費時間查  明抄襲材料的來源，以證實他們懷疑的老師也是不公平的。對該作品的原創作  者他們的想法沒有被計入也是不公平的。對整個班級也是不公平的，因為它孕  育著不信任的文化，對班級如何被授課產生負面的影響。
 
-## Footnotes:
+[^1]: Adapted from the [Student Learning Services](http://cdev.concordia.ca/CnD/studentlearn/Help/handouts/WritingHO/AvoidingPlagiarism.html), Concordia University. 
 
-1. Adapted from the [Student Learning Services](http://cdev.concordia.ca/CnD/studentlearn/Help/handouts/WritingHO/AvoidingPlagiarism.html), Concordia University. 
-
-2. These examples of paraphrasing are taken from the handout "[Paraphrase - Write it in your own words](http://owl.english/purdue.edu/handouts/research/r_paraphr.html)." 這些解譯的例子取自《解譯--在你自己的話中書寫》OWL Purdue University Writing Lab. (Accessed April 11, 2003.)
+[^2]: These examples of paraphrasing are taken from the handout "[Paraphrase - Write it in your own words](http://owl.english/purdue.edu/handouts/research/r_paraphr.html)." 這些解譯的例子取自《解譯--在你自己的話中書寫》OWL Purdue University Writing Lab. (Accessed April 11, 2003.)

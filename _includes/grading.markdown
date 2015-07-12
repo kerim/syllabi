@@ -55,16 +55,8 @@ After the first day of class students will be divided into groups. Each group wi
 * "B" –學者。妳/你很狂熱的學習新知識，但是要得到"A"還要再更努力，而非像做白日夢一樣。Scholar. You are enthusiastic about learning new ideas, but maybe you were daydreaming too much to get an "A"?
 * "A" –英雄。妳/你不只是結合士兵與學者的品質，還完成本課程的要求，更是已經超越了所追求的知識。Hero. You not only combine the qualities of the soldier and the scholar, not only fulfilling the course requirements but also going beyond them in your pursuit of knowledge.
 
-## 關於剽竊 About Plagiarism 
-[關於剽竊](http://kerim.pancakeapps.com/About%20Plagiarism.md) 
-
 ## Participation 課堂參與
 * 積極主動地參與課堂討論與網路線上群組，將有助於妳/你的整體成績。不要擔心我不同意妳/你所說的。我喜歡學生提出強而有力的觀點，即使和我的論點有所不 同。也許我在課堂上和你爭論時聽起來會很「嚴厲」，但是只要妳/你捍衛妳/你的論點，那妳/你將會獲得好成績，而非很差的成績。Actively participating in class discussion and online will also help your overall score. Don't worry if I disagree with what you say. I prefer students to express strong opinions, even if they are different from my own. I may sound "harsh" if I argue with you in class, but you can be sure that if you stick up for your own ideas you will get a better grade, not a worse one!!!
 
 ## Questions 問題
 * 如果有任何疑問，請提問!我有固定的office hour、群組討論的email list、私人電子信箱。對妳/你被期待的課業要求沒有假裝不知道的藉口。If in doubt, ask! I have regular office hours, an e-mail list for the class, and my private e-mail address. There is no excuse for not knowing what is expected of you.
-	
-
----
-###### This document is by [Kerim Friedman](http://kerim.oxus.net/) and is licensed under the [Creative Commons Attribution-Noncommercial-Share Alike 3.0 Taiwan License 姓名標示-非商業性-相同方式分享 3.0 台灣](http://creativecommons.org/licenses/by-nc-sa/3.0/tw/).
----
