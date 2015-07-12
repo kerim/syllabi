@@ -14,33 +14,26 @@ Adivasi Studies explores the history, culture, languages and traditions of India
 * [課堂大綱 Course Outline][outline] [[PDF][pdf]]
 
 
-|  Thu Feb 20 2014 01:00:00 GMT-0700 (MST) | Course introduction |  |  |
+|  Feb 20 2014 | Course introduction |  |  |
 |  ------- | ------- | ------- | ------- |
-|  Thu Feb 27 2014 01:00:00 GMT-0700 (MST) | Ramayana vs. Ramanyi | Gond Ramanyi Handout
-Film: Sita Sings the Blues |  |
-|  Thu Mar 06 2014 01:00:00 GMT-0700 (MST) | Buddhism and China | 印度人文之旅 2 (film and book)
-Sen on India and China |  |
-|  Thu Mar 13 2014 00:00:00 GMT-0700 (MST) | Islam before Colonialism | 印度人文之旅 5 (film and book)
- |  |
-|  Thu Mar 20 2014 00:00:00 GMT-0700 (MST) | Colonialism and After | 印度人文之旅 6 (film and book) |  |
-|  Thu Mar 27 2014 00:00:00 GMT-0700 (MST) | Thuggies | 施瓦茨 《印第安納•瓊斯和罪惡之殿》
-Film: The Decievers《騙子們》 |  |
-|  Thu Apr 03 2014 00:00:00 GMT-0700 (MST) | 調整上課(放假) |  |  |
-|  Thu Apr 10 2014 00:00:00 GMT-0700 (MST) | "Criminal Tribes" | Friedman "Collaboration against Ethnography"
-Film:《請別打我，長官！》
-* 《布德漢》 |  |
-|  Thu Apr 17 2014 00:00:00 GMT-0700 (MST) | 期中考試 |  |  |
-|  Thu Apr 24 2014 00:00:00 GMT-0700 (MST) | Adivasi | 傅可恩《多爾鼓(Dhol)的故事》
- |  |
-|  Thu May 01 2014 00:00:00 GMT-0700 (MST) | Adivasi | Shah Prologue + 1 | Group 1 |
-|  Thu May 08 2014 00:00:00 GMT-0700 (MST) | Film | Himself He Cooks 關於吃這件事
-SAMA 神秘的莎瑪 |  |
-|  Thu May 15 2014 00:00:00 GMT-0700 (MST) | Adivasi | Shah 2 | Group 2 |
-|  Thu May 22 2014 00:00:00 GMT-0700 (MST) | Adivasi | Shah 3 | Group 3 |
-|  Thu May 29 2014 00:00:00 GMT-0700 (MST) | Adivasi | Shah 4 | Group 4 |
-|  Thu Jun 05 2014 00:00:00 GMT-0700 (MST) | Adivasi | Shah 5 | Group 5 |
-|  Thu Jun 12 2014 00:00:00 GMT-0700 (MST) | Adivasi | Shah 6 + Epilogue | Group 6 |
-|  Thu Jun 19 2014 00:00:00 GMT-0700 (MST) | 學期考試 |  |  |
+|  Feb 27 2014 | Ramayana vs. Ramanyi | Gond Ramanyi Handout Film: Sita Sings the Blues |  |
+|  Mar 06 2014| Buddhism and China | 印度人文之旅 2 (film and book) Sen on India and China |  |
+|  Mar 13 2014 | Islam before Colonialism | 印度人文之旅 5 (film and book) |  |
+|  Mar 20 2014 | Colonialism and After | 印度人文之旅 6 (film and book) |  |
+|  Mar 27 2014 | Thuggies | 施瓦茨 《印第安納•瓊斯和罪惡之殿》Film: The Decievers《騙子們》 |  |
+|  Apr 03 2014 | 調整上課(放假) |  |  |
+|  Apr 10 2014 | "Criminal Tribes" | Friedman "Collaboration against Ethnography" Film:《請別打我，長官！》* 《布德漢》 |  |
+|  Apr 17 2014 | 期中考試 |  |  |
+|  Apr 24 2014 | Adivasi | 傅可恩《多爾鼓(Dhol)的故事》 |  |
+|  May 01 2014 | Adivasi | Shah Prologue + 1 | Group 1 |
+|  May 08 2014 | Film | Himself He Cooks 關於吃這件事 SAMA 神秘的莎瑪 |  |
+|  May 15 2014 | Adivasi | Shah 2 | Group 2 |
+|  May 22 2014 | Adivasi | Shah 3 | Group 3 |
+|  May 29 2014 | Adivasi | Shah 4 | Group 4 |
+|  Jun 05 2014 | Adivasi | Shah 5 | Group 5 |
+|  Jun 12 2014 | Adivasi | Shah 6 + Epilogue | Group 6 |
+|  Jun 19 2014 | 學期考試 |  |  |
+
 
 ## Table of Contents
 {:.no_toc}
