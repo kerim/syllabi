@@ -15,7 +15,7 @@ Adivasi Studies explores the history, culture, languages and traditions of India
 
 
 |  Date | Topic | Homework | Group |
-|  ------- | ------- | ------- | ------- |
+|:-------:|:-------|:-------|:-------|
 |  2月20日 | Course introduction |  |  |
 |  2月27日 | Ramayana vs. Ramanyi | Gond Ramanyi Handout Film: Sita Sings the Blues |  |
 |  3月06日  | Buddhism and China | 印度人文之旅 2 (film and book) Sen on India and China |  |
