@@ -1,7 +1,7 @@
 ### Teaching Method 教學方法
 * 在第一次上課後同學要分組。每一組要負責幾週的閱讀教材(請看課程綱要)。負責當週教材的該組成員，閱讀完資料後要在上課前一天的晚上將作業寄至TA信箱，並在隔天上課時交給TA一份紙本。在課堂討論當週教材時，負責的那一組成員每個人都需要準備，因為都有機會被其他同學提問。本課程分別各有一次期中考與期末考，都採取口試的方式。課堂參與以及線上參與都佔期末成績很重要的比例。
 
-After the first day of class students will be divided into groups. Each group will be responsible for the readings on the weeks assigned in the course outline (see attached). On those days, each member of group will be responsible for individually analyzing the readings according to the method described below. These assignments must be posted to the online discussion group before midnight on the day before class, and a hard copy should be given to the TA when you come to class. Group members should also be prepared to be called upon individually to discuss the reading in class. There will also be a midterm and final exams, both oral.. Classroom and online participation will be an important part of the course and will count towards final grades.
+* After the first day of class students will be divided into groups. Each group will be responsible for the readings on the weeks assigned in the course outline (see attached). On those days, each member of group will be responsible for individually analyzing the readings according to the method described below. These assignments must be posted to the online discussion group before midnight on the day before class, and a hard copy should be given to the TA when you come to class. Group members should also be prepared to be called upon individually to discuss the reading in class. There will also be a midterm and final exams, both oral.. Classroom and online participation will be an important part of the course and will count towards final grades.
 
 ## Grading and Assignments
 
