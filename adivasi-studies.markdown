@@ -13,12 +13,12 @@ Adivasi Studies explores the history, culture, languages and traditions of India
 
 * [課堂大綱 Course Outline][outline] [[PDF][pdf]]
 
-
+<small>
 |  Date | Topic | Homework | Group |
 |:-------:|:-------|:-------|:-------|
 |  2月20日 | Course introduction |  |  |
 |  2月27日 | Ramayana vs. Ramanyi | Gond Ramanyi Handout Film: Sita Sings the Blues |  |
-|  3月06日  | Buddhism and China | 印度人文之旅 2 (film and book) Sen on India and China |  |
+|  3月06日 | Buddhism and China | 印度人文之旅 2 (film and book) Sen on India and China |  |
 |  3月13日 | Islam before Colonialism | 印度人文之旅 5 (film and book) |  |
 |  3月20日 | Colonialism and After | 印度人文之旅 6 (film and book) |  |
 |  3月27日 | Thuggies | 施瓦茨 《印第安納•瓊斯和罪惡之殿》Film: The Decievers《騙子們》 |  |
@@ -34,7 +34,7 @@ Adivasi Studies explores the history, culture, languages and traditions of India
 |  6月05日 | Adivasi | Shah 5 | Group 5 |
 |  6月12日 | Adivasi | Shah 6 + Epilogue | Group 6 |
 |  6月19日 | 學期考試 |  |  |
-
+</small>
 
 ## Table of Contents
 {:.no_toc}
