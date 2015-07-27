@@ -61,4 +61,4 @@
 
 [^1]: Adapted from the [Student Learning Services](https://web.archive.org/web/20111022002834/http://cdev.concordia.ca/CnD/studentlearn/Help/handouts/WritingHO/AvoidingPlagiarism.html), Concordia University. 
 
-[^2]: These examples of paraphrasing are taken from the handout "[Paraphrase - Write it in your own words](http://owl.english/purdue.edu/handouts/research/r_paraphr.html)." 這些解譯的例子取自《解譯--在你自己的話中書寫》OWL Purdue University Writing Lab. (Accessed April 11, 2003.)
+[^2]: These examples of paraphrasing are taken from the handout "[Paraphrase - Write it in your own words](https://owl.english.purdue.edu/owl/resource/619/1/)." 這些解譯的例子取自《解譯--在你自己的話中書寫》OWL Purdue University Writing Lab.
