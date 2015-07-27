@@ -43,18 +43,18 @@ In addition to developing a broad understanding of the key topics taught in this
 
 ### Handing in the written reports and oral presentations
 * Written Reports
- * Written reports are due at the start of class one week prior to the date that text will be discussed in class. (If there is no class that week, then discuss with the TA how to hand in the homework. If the first presentation is due on the second week of class, then it can be handed in one day before the class.) This is so that groups have one week to prepare for their oral presentations after having finished writing their individual reports.
- * In addition to hading in a paper copy of the report, all students should email a copy of the report to the TA on the same day.
- * The top of the report should contain the following information: name, student number, email address, date the assignment was due, and the date the assignment as completed (this last item is only required if the completion date is different from due date). 
- * The title of the report should be the name and author of the text being discussed.
- * When emailing documents please include your name and group number in the filename.
-* Presentations
- * The PPT file and the written lecture notes should be emailed to the TA the same day as the presentation. (They can be sent after class.)
- * Both documents should contain the the following information at the top of the first page (or on a cover page): group number, names and student numbers of all students in the group, date the assignment was due, and the title and author of the work being discussed.
- * When emailing documents please include your name and group number in the filename.
+  * Written reports are due at the start of class one week prior to the date that text will be discussed in class. (If there is no class that week, then discuss with the TA how to hand in the homework. If the first presentation is due on the second week of class, then it can be handed in one day before the class.) This is so that groups have one week to prepare for their oral presentations after having finished writing their individual reports.
+  * In addition to hading in a paper copy of the report, all students should email a copy of the report to the TA on the same day.
+  * The top of the report should contain the following information: name, student number, email address, date the assignment was due, and the date the assignment as completed (this last item is only required if the completion date is different from due date). 
+  * The title of the report should be the name and author of the text being discussed.
+  * When emailing documents please include your name and group number in the filename.
+* Oral Presentations
+  * The PPT file and the written lecture notes should be emailed to the TA the same day as the presentation. (They can be sent after class.)
+  * Both documents should contain the the following information at the top of the first page (or on a cover page): group number, names and student numbers of all students in the group, date the assignment was due, and the title and author of the work being discussed.
+  * When emailing documents please include your name and group number in the filename.
  
 ### Participation 
-* Actively participating in class discussion is an essential part of your overall score. Don't worry if I disagree with what you say. I prefer students to express strong opinions, even if they are different from my own. If you are shy in front of other students you can participate online instead. There is no distinction made between online and in-class participation.
+Actively participating in class discussion is an essential part of your overall score. Don't worry if I disagree with what you say. I prefer students to express strong opinions, even if they are different from my own. If you are shy in front of other students you can participate online instead. There is no distinction made between online and in-class participation.
 
 ### Oral Exams 
 * Students should treat oral exams as seriously as they do written ones. 
@@ -70,4 +70,4 @@ In addition to developing a broad understanding of the key topics taught in this
 * Students who are absent from the written exam, or fail to answer any of the questions, will fail the class. 
 
 ### Questions
-* If in doubt, ask! I have regular office hours, an e-mail list for the class, and students have my private e-mail address. There is no excuse for not knowing what is expected of you.
+If in doubt, ask! I have regular office hours, an e-mail list for the class, and students have my private e-mail address. There is no excuse for not knowing what is expected of you.
