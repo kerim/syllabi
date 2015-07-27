@@ -1,6 +1,6 @@
 ---
 layout: syllabi
-title: English Version of Teaching Notes
+title: Teaching Method, Grading, and Assignments in English
 category: syllabi
 ---
 
