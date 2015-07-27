@@ -51,14 +51,7 @@ Adivasi Studies explores the history, culture, languages and traditions of India
  * Shah 6 + Epilogue **(Group 6)**
 18. 6月19日 **學期考試**
 
-[下載課堂大綱XLS檔案的PDF版本](https://docs.google.com/spreadsheets/d/1CsEM2yE5rRws2M0BHbosRUsJQ4flJ0G2EzsRHkHWRLs/pub?gid=0&single=true&output=pdf)
-
-
-## Table of Contents
-{:.no_toc}
-
-- Contents
-{:toc}
+[課堂大綱XLS檔案](https://docs.google.com/spreadsheets/d/1CsEM2yE5rRws2M0BHbosRUsJQ4flJ0G2EzsRHkHWRLs/pubhtml?gid=0&single=true) ([下載PDF版本](https://docs.google.com/spreadsheets/d/1CsEM2yE5rRws2M0BHbosRUsJQ4flJ0G2EzsRHkHWRLs/pub?gid=0&single=true&output=pdf))
 
 ## Course Info
 
