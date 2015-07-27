@@ -80,5 +80,4 @@ Adivasi Studies explores the history, culture, languages and traditions of India
 - 傅可恩 and (P. Kerim Friedman). 2007. 多爾鼓(dhol)的故事: 關於印度原住民(adivasis)為自己所做的口述雜誌 (the story of dhol: An "oral magazine" by, about, and for adivasis). In 瞭解當代印度政治. Ed. Jolan Hsieh Cheng-feng Shih. Trans. 林伯寰 台北：台灣: 台灣國際研究學會舉辦的「瞭解當代印度政治」學術研討會.
 
 {% include grading.markdown %}
-{% include plagiarism.markdown %}
 {% include cc.markdown %}
