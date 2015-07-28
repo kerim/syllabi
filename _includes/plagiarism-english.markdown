@@ -1,4 +1,4 @@
-When you write a research paper, you have to explain where you got your information. Some of the ideas you use will be your own, but many will have come from information you have read and people you have interviewed about the topic. To explain where the information comes from, you have to give (cite) the source.   
+When you write a research paper, you have to explain where you got your information. Some of the ideas you use will be your own, but many will have come from information you have read and people you have interviewed about the topic. To explain where the information comes from, you have to give (cite) the source.[^1]   
   
 ## Why cite your sources?
 
@@ -30,7 +30,7 @@ When you are using someone else's exact words, you need to place quotations mark
 ## Paraphrasing
 Many students are unclear about what it means to paraphrase. It is not acceptable to take the original phrasing and just rearrange a few of the original words in order to produce a paraphrase; neither is it acceptable to use the same sentence structure but just rephrase a few key words.  
   
-## Examples:  
+## Examples:[^2]  
 
 ### Original:  
 > Students frequently overuse direct quotation in taking notes, and as a result they overuse quotation in the final research paper. Probably only about 10% of your final manuscript should appear as directly quoted matter. Therefore, you should strive to limit the amount of exact transcribing of source materials while taking notes.  
@@ -45,6 +45,5 @@ Lester, J. D._Writing Research Papers_. 2nd ed. (1976) 46-47
   
 When you paraphrase, make sure to understand what the original is saying, then close the book and write the passage in your own words. **Also, note that you need to cite a source for a paraphrase even though you did not quote from the source directly.** In the examples above, the source, Lester, is given after the paraphrase. When youare paraphrasing rather than using exact words, mentioning the page number in the source parentheses is optional, but check with your professor as some may prefer you to include it.
 
-## Sources
-* These examples of paraphrasing are taken from the handout "Paraphrase - Write it in your own words." [OWL Purdue University Writing Lab](https://owl.english.purdue.edu/owl/resource/619/1/).
-* This page is adopted from [Avoiding Plagiarism](https://web.archive.org/web/20111022002834/http://cdev.concordia.ca/CnD/studentlearn/Help/handouts/WritingHO/AvoidingPlagiarism.html) by Student Learning Services, Concordia University. (The original page is no longer available online, so I have copied it here. The link goes to a cached version of the original page at the Internet Archive.) I have slightly altered the text.
+[^1]: This page is adopted from [Avoiding Plagiarism](https://web.archive.org/web/20111022002834/http://cdev.concordia.ca/CnD/studentlearn/Help/handouts/WritingHO/AvoidingPlagiarism.html) by Student Learning Services, Concordia University. (The original page is no longer available online, so I have copied it here. The link goes to a cached version of the original page at the Internet Archive.) I have slightly altered the text.
+[^2]: These examples of paraphrasing are taken from the handout "Paraphrase - Write it in your own words." [OWL Purdue University Writing Lab](https://owl.english.purdue.edu/owl/resource/619/1/).
