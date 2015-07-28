@@ -12,5 +12,5 @@ warn: Spring 2014
 
 * [課程 Syllabus][syllabus]([PDF][pdf])
 
-[syllabus]:https://docs.google.com/spreadsheet/pub?key=0AlIzY9pLiJVZdGljVmtGUXgxblp3RnppQXpzaWRER2c&single=true&gid=0&output=html
-[pdf]:https://docs.google.com/spreadsheet/pub?key=0AlIzY9pLiJVZdGljVmtGUXgxblp3RnppQXpzaWRER2c&single=true&gid=0&output=pdf
+[syllabus]:https://docs.google.com/spreadsheets/d/1ryO-fKvXf3mp4YZe1hlD5jEbw7IKArcwGxuOH6BB_hI/pubhtml?gid=0&single=true
+[pdf]:https://docs.google.com/spreadsheets/d/1ryO-fKvXf3mp4YZe1hlD5jEbw7IKArcwGxuOH6BB_hI/pub?gid=0&single=true&output=pdf
