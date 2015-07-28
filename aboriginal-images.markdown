@@ -87,20 +87,20 @@ Indigenous Images has three goals: 1. To train students in the art of critical f
 
 ### Readings 閱讀書目
 * 全書
- * 蔡政良。《從都蘭到新幾內亞》。出版社：玉山社。2011. 
+  * 蔡政良。《從都蘭到新幾內亞》。出版社：玉山社。2011. 
 * 文章
- * Chang, Anita Wen-shin. "In the Realm of the Indigenous: Local, National, and Global Articulations in Fishing Luck." Positions: East Asia Cultures Critique* 17.3 (2009): 643-653.
- * Ginsburg, Faye D., Lila Abu-Lughod and Brian Larkin ed. 2008(2002) 媒體世界：人類學的新領域，楊雅婷等譯。臺北：巨流。
- * Green, Rayna. "The Pocahontas Perplex: Images of American Indian Women in American Culture." In *Native American Voices: A Reader* (2nd Edition), edited by Susan Lobo, and Steve Talbot, Prentice Hall, 2000.
- * Huhndorf, Shari. "Atanarjuat, the Fast Runner: Culture, History, and Politics in Inuit Media." *American Anthropologist* 105, no. 4 (2003): 822-26.
- * MacDougall, David. Transcultural Cinema. Princeton, N.J: Princeton University Press, 1998. 大衛•馬杜格. 邁向跨文化電影. 台北: 麥田, 2006.
- * Nichols, Bill. 2001. *Introduction to Documentary.* Indiana University Press.
- * Pramaggiore, Maria and Tom Wallis. 2008. Film : A critical introduction . Boston : Pearson.
- * Kilpatrick, Jacquelyn. 2003. "Native Americans." In *The Columbia Companion to American History on Film: How the Movies Have Portrayed the American Past*. Edited by Peter C. Rollins. p. 277-87. New York : Columbia University Press.
+  * Chang, Anita Wen-shin. "In the Realm of the Indigenous: Local, National, and Global Articulations in Fishing Luck." Positions: East Asia Cultures Critique* 17.3 (2009): 643-653.
+  * Ginsburg, Faye D., Lila Abu-Lughod and Brian Larkin ed. 2008(2002) 媒體世界：人類學的新領域，楊雅婷等譯。臺北：巨流。
+  * Green, Rayna. "The Pocahontas Perplex: Images of American Indian Women in American Culture." In *Native American Voices: A Reader* (2nd Edition), edited by Susan Lobo, and Steve Talbot, Prentice Hall, 2000.
+  * Huhndorf, Shari. "Atanarjuat, the Fast Runner: Culture, History, and Politics in Inuit Media." *American Anthropologist* 105, no. 4 (2003): 822-26.
+  * MacDougall, David. Transcultural Cinema. Princeton, N.J: Princeton University Press, 1998. 大衛•馬杜格. 邁向跨文化電影. 台北: 麥田, 2006.
+  * Nichols, Bill. 2001. *Introduction to Documentary.* Indiana University Press.
+  * Pramaggiore, Maria and Tom Wallis. 2008. Film : A critical introduction . Boston : Pearson.
+  * Kilpatrick, Jacquelyn. 2003. "Native Americans." In *The Columbia Companion to American History on Film: How the Movies Have Portrayed the American Past*. Edited by Peter C. Rollins. p. 277-87. New York : Columbia University Press.
 * 部落格
- * Sterk, Darryl. 《真的不一樣：台灣「首部」原住民電影》。 芭樂人類學。 http://guavanthropology.tw/article/2358
- * 趙恩潔. 《選擇死亡的方式：賽德克巴萊與台灣新記憶》。芭樂人類學。http://guavanthropology.tw/article/3512
- * 郭佩宜. 《看賽德克‧巴萊評論的七個問題》。芭樂人類學。http://guavanthropology.tw/article/3512
+  * Sterk, Darryl. 《真的不一樣：台灣「首部」原住民電影》。 芭樂人類學。 http://guavanthropology.tw/article/2358
+  * 趙恩潔. 《選擇死亡的方式：賽德克巴萊與台灣新記憶》。芭樂人類學。http://guavanthropology.tw/article/3512
+  * 郭佩宜. 《看賽德克‧巴萊評論的七個問題》。芭樂人類學。http://guavanthropology.tw/article/3512
 
 
 ### Films 影片
