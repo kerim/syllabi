@@ -16,22 +16,23 @@ Indigenous Images has three goals: 1. To train students in the art of critical f
 1. **Course Overview**
     * Introduce syllabus, topic, & expectations for student work.
 2. **Narrative**
-    * Narrative	Pramaggiore & Wallis - Chapter  4
+    * Pramaggiore, Maria and Tom Wallis. 2008. *Film: A critical introduction*. Boston:Pearson. (Pramaggiore & Wallis) - Chapter  4
     * [Film] Pocahontas/風中奇緣 (81)
 3. **Mise en Scene**
     * Pramaggiore & Wallis - Chapter 5
     * [Film] The Searchers/搜索者 (119) 
 4. **Indigenous Narrative Film I**
-    * [Film]The Fast Runner/冰原快跑人 (172)
+    * Huhndorf, Shari. "Atanarjuat, the Fast Runner: Culture, History, and Politics in Inuit Media." *American Anthropologist* 105, no. 4 (2003): 822-26.
+    * [Film] The Fast Runner/冰原快跑人 (172)
 5. **Editing**
     * Pramaggiore & Wallis - Chapter 7
-    * [Film] "The Last Of The Mohicans/大地英豪 (117)
+    * [Film] The Last Of The Mohicans/大地英豪 (117)
 6. **Native Americans in Film**
-    * Kilpatrick - Native Americans
-    * Green - "The Pocahontas Perplex"
+    * Kilpatrick, Jacquelyn. 2003. "Native Americans." In *The Columbia Companion to American History on Film: How the Movies Have Portrayed the American Past*. Edited by Peter C. Rollins. p. 277-87. New York: Columbia University Press.
+    * Green, Rayna. "The Pocahontas Perplex: Images of American Indian Women in American Culture." In *Native American Voices: A Reader* (2nd Edition), edited by Susan Lobo, and Steve Talbot, Prentice Hall, 2000.
     * [Film] Reel Injun/英雄本色 (51) 
 7. **Indigenous Narrative Film II**
-    * Chang - "In the Realm of the Indigenous"
+    * Chang, Anita Wen-shin. "In the Realm of the Indigenous: Local, National, and Global Articulations in Fishing Luck." *Positions: East Asia Cultures Critique* 17.3 (2009): 643-653.
     * Huhndorf - "Atanarjuat"
     * [Film] Fishing Luck/等待飛魚 (96)
 8. **期中考試**
@@ -80,48 +81,6 @@ Indigenous Images has three goals: 1. To train students in the art of critical f
 ### TA 助教
 * 課程助教: 盧姵岑 kc0206260006@gmail.com
 
-### Readings 閱讀書目
-* 全書
-  * 蔡政良。《從都蘭到新幾內亞》。出版社：玉山社。2011. 
-* 文章
-  * Chang, Anita Wen-shin. "In the Realm of the Indigenous: Local, National, and Global Articulations in Fishing Luck." Positions: East Asia Cultures Critique* 17.3 (2009): 643-653.
-  * Ginsburg, Faye D., Lila Abu-Lughod and Brian Larkin ed. 2008(2002) 媒體世界：人類學的新領域，楊雅婷等譯。臺北：巨流。
-  * Green, Rayna. "The Pocahontas Perplex: Images of American Indian Women in American Culture." In *Native American Voices: A Reader* (2nd Edition), edited by Susan Lobo, and Steve Talbot, Prentice Hall, 2000.
-  * Huhndorf, Shari. "Atanarjuat, the Fast Runner: Culture, History, and Politics in Inuit Media." *American Anthropologist* 105, no. 4 (2003): 822-26.
-  * MacDougall, David. Transcultural Cinema. Princeton, N.J: Princeton University Press, 1998. 大衛•馬杜格. 邁向跨文化電影. 台北: 麥田, 2006.
-  * Nichols, Bill. 2001. *Introduction to Documentary.* Indiana University Press.
-  * Pramaggiore, Maria and Tom Wallis. 2008. Film : A critical introduction . Boston : Pearson.
-  * Kilpatrick, Jacquelyn. 2003. "Native Americans." In *The Columbia Companion to American History on Film: How the Movies Have Portrayed the American Past*. Edited by Peter C. Rollins. p. 277-87. New York : Columbia University Press.
-* 部落格
-  * Sterk, Darryl. 《真的不一樣：台灣「首部」原住民電影》。 芭樂人類學。 http://guavanthropology.tw/article/2358
-  * 趙恩潔. 《選擇死亡的方式：賽德克巴萊與台灣新記憶》。芭樂人類學。http://guavanthropology.tw/article/3512
-  * 郭佩宜. 《看賽德克‧巴萊評論的七個問題》。芭樂人類學。http://guavanthropology.tw/article/3512
-
-
-### Films 影片
-* Please Don't Beat Me, Sir!/請別打我，長官！ (75)
-* When Harry Met Sally/當哈利碰上莎莉 (96)
-* Citizen Kane/大國民 (119)
-* Battleship Potemkin/波坦金戰艦 (clip)
-* Breathless/斷了氣 (87)
-* The Fast Runner/冰原快跑人 (172)
-* Reel Injun/英雄本色 (51)
-* Pocahontas/風中奇緣 (81)
-* Fishing Luck/等待飛魚 (96)
-* Nanook of the North/北方的南努克 (79)
-* Man with a Movie Camera/持攝影機的人 (clip)
-* From Here to PNG/從新幾內亞到台北 (55)
-* Last Train Home/歸途列車 (85)
-* The Ax Fight/斧戰 (clip)
-* Lorang's Way/洛倫的故事 (70)
-* Dead Birds/死鳥 (83)
-* Marangmotxingmo Mirang/伊邦小孩的影像信 (35)
-* Video in the Villages Presents Itself/村落影像秀自己 (33)
-* Dear Rice Wine, You are Defeated/親愛的米酒妳被我打敗了 (24)
-* Amis Hiphop/阿美嘻哈 (55)
-* Msgamil Once upon a time/泰雅千年 (24)
-* The moment run through/走過千年 (66)
-* The Stories of Rainbow/彩虹的故事 (55)
 
 {% include grading.markdown %}
 {% include cc.markdown %}
