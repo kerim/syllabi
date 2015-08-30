@@ -37,30 +37,30 @@ Indigenous Images has three goals: 1. To train students in the art of critical f
     * [Film] Fishing Luck/等待飛魚 (96)
 8. **期中考試**
 9. **Indigenous Narrative Film III**
-    * Sterk - “Ironic Indigenous Primitivism"
+    * Sterk, Darryl. 2014. “Ironic Indigenous Primitivism: Taiwan’s First ‘native Feature’ in an Era of Ethnic Tourism.” *Journal of Chinese Cinemas* 8, no. 3: 209–25.
     * [Film] Finding Sayun/不一樣的月光 (100)
 10. **Guest Lecture: 蔡政良** 
     * 蔡政良《從都蘭到新幾內亞》
     * From Here to PNG/從新幾內亞到台北 (55)
 11. **Documentary Ethics I**
-    * Nichols - Chapter 1 
+    * Nichols, Bill. 2007. 紀錄片導論. Translated by 陳犀禾, 劉宇清, and 鄭潔. 北京: 中國電影出版社. (Nichols) - Chapter 1
     * [Film] Nanook of the North/北方的南努克 (79)
 12. **Documentary Ethics II**
-    * Peterson - "The Chaninging Photographic Contract"
+* Peterson, Nicolas. 2003. “The Changing Photographic Contract.” In *Photography’s Other Histories*, edited by Nicholas Thomas, Jo-Anne Driessens, Michael Aird, Christopher Pinney, and Nicolas Peterson, 119–45. Durham, NC: Duke University Press.
     * [Film] Marangmotxingmo Mirang/伊邦小孩的影像信 (35)
     * [Film] Born into Brothels/小小攝影師 (85)
 13. **Tradition and Change**
-    * Michaels - "For a Cultural Future"
+    * Michaels, Eric. 1994. “For a Cultural Future: Francis Jupurrurla Makes TV at Yuendumu.” In *Bad Aboriginal Art: Tradition, Media, and Technological Horizons*, 99–126. Minneapolis: University of Minnesota Press.
     * [Film] The Stories of Rainbow/彩虹的故事 (55)
     * [Film] Amis Hiphop/阿美嘻哈 (55）
 14. **Who Owns Native Culture?**
-    * Brown - Who Owns Native Culture Chapter 1
+    * Brown, Michael F. 2009. *Who Owns Native Culture?* Harvard University Press. - Chapter 1
     * Returning Souls/讓靈魂回家 (85)
 15. **Documenatry Film Generes**
     * Nichols - Chapter 6
     * [Film]Voices of Orchid Island/蘭嶼觀點 (73)
 16. **Collaborative Ethnography**
-    * Friedman - "Collaboration against Ethnography"
+    * Friedman, P Kerim. “Collaboration against Ethnography: Filming an Unwanted ‘cultural Heritage.” *Critique of Anthropology* 33, no. 4 (2013): 390–411.
     * Please Don't Beat Me, Sir!/請別打我，長官！ (75)
 17. **期末考試**
 
