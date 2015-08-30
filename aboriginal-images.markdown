@@ -14,58 +14,53 @@ Indigenous Images has three goals: 1. To train students in the art of critical f
 ## 課堂大綱 Course Outline (104學年下學期)
 
 1. **Course Overview**
- * Introduce subject, texts, expectations, online tools.
- * [Film] Please Don't Beat Me, Sir!/請別打我，長官！ (75)	
+    * Introduce syllabus, topic, & expectations for student work.
 2. **Narrative**
- * Narrative	Pramaggiore & Wallis - Chapter  4
- * [Film] When Harry Met Sally/當哈利碰上莎莉 (96)
+    * Narrative	Pramaggiore & Wallis - Chapter  4
+    * [Film] Pocahontas/風中奇緣 (81)
 3. **Mise en Scene**
- * Pramaggiore & Wallis - Chapter 5
- * [Film] Citizen Kane/大國民 (119)
+    * Pramaggiore & Wallis - Chapter 5
+    * [Film] The Searchers/搜索者 (119) 
 4. **Indigenous Narrative Film I**
- * [Film]The Fast Runner/冰原快跑人 (172)	--
+    * [Film]The Fast Runner/冰原快跑人 (172)
 5. **Editing**
- * Pramaggiore & Wallis - Chapter 7
- * [Film] "Battleship Potemkin/波坦金戰艦 (clip)
- * [Film] Breathless/斷了氣 (87)"
+    * Pramaggiore & Wallis - Chapter 7
+    * [Film] "The Last Of The Mohicans/大地英豪 (117)
 6. **Native Americans in Film**
- * Kilpatrick - Native Americans
- * Green - "The Pocahontas Perplex"
- * [Film] Reel Injun/英雄本色 (51)  
- * [Film] Pocahontas/風中奇緣 (81)"
+    * Kilpatrick - Native Americans
+    * Green - "The Pocahontas Perplex"
+    * [Film] Reel Injun/英雄本色 (51) 
 7. **Indigenous Narrative Film II**
- * Chang - "In the Realm of the Indigenous"
- * Huhndorf - "Atanarjuat"
- * [Film] Fishing Luck/等待飛魚 (96)
+    * Chang - "In the Realm of the Indigenous"
+    * Huhndorf - "Atanarjuat"
+    * [Film] Fishing Luck/等待飛魚 (96)
 8. **期中考試**
-9. **Documentary Film Ethics**
- * Nichols 1
- * [Film] Nanook of the North/北方的南努克 (79)
- * [Film] Man with a Movie Camera/持攝影機的人 (clip)
-10. **Guest Lecture** 
- * 蔡政良《從都蘭到新幾內亞》
- * From Here to PNG/從新幾內亞到台北 (55)
-11. **Indigenous Narrative Film III**
- * 芭樂人類學部落格：《真的不一樣》,《選擇死亡的方式》與《看賽德克‧巴萊評論的七個問題》
- * [Film] Finding Sayun/不一樣的月光 (100)	
-12. **Documentary Film Genres**
- * Nichols 6
- * [Film] Last Train Home/歸途列車 (85)
-13. **Ethnographic Film**
- * 馬杜格 MacDougall Ch 3
- * [Film] "The Ax Fight/斧戰 (clip) 
- * Lorang's Way/洛倫的故事 (70)"
-14. **Ethnographic Film 2**
- * 馬杜格 MacDougall Ch 8
- * Dead Birds/死鳥 (83)
-15. **Indigegnous documentary**
- * Turner - (媒體世界 Ch 3)
- * [Film]"Marangmotxingmo Mirang/伊邦小孩的影像信 (35)
- * [Film] Video in the Villages Presents Itself/村落影像秀自己 (33)"
-16. **Taiwanese Aborigines Docs**
- * Prins - (媒體世界 Ch. 2)
- * [Film] The Stories of Rainbow/彩虹的故事 (55)
- * Amis Hiphop/阿美嘻哈 (55）
+9. **Indigenous Narrative Film III**
+    * Sterk - “Ironic Indigenous Primitivism"
+    * [Film] Finding Sayun/不一樣的月光 (100)
+10. **Guest Lecture: 蔡政良** 
+    * 蔡政良《從都蘭到新幾內亞》
+    * From Here to PNG/從新幾內亞到台北 (55)
+11. **Documentary Ethics I**
+    * Nichols - Chapter 1 
+    * [Film] Nanook of the North/北方的南努克 (79)
+12. **Documentary Ethics II**
+    * Peterson - "The Chaninging Photographic Contract"
+    * [Film] Marangmotxingmo Mirang/伊邦小孩的影像信 (35)
+    * [Film] Born into Brothels/小小攝影師 (85)
+13. **Tradition and Change**
+    * Michaels - "For a Cultural Future"
+    * [Film] The Stories of Rainbow/彩虹的故事 (55)
+    * [Film] Amis Hiphop/阿美嘻哈 (55）
+14. **Who Owns Native Culture?**
+    * Brown - Who Owns Native Culture Chapter 1
+    * Returning Souls/讓靈魂回家 (85)
+15. **Documenatry Film Generes**
+    * Nichols - Chapter 6
+    * [Film]Voices of Orchid Island/蘭嶼觀點 (73)
+16. **Collaborative Ethnography**
+    * Friedman - "Collaboration against Ethnography"
+    * Please Don't Beat Me, Sir!/請別打我，長官！ (75)
 17. **期末考試**
 
 [課堂大綱XLS檔案](https://docs.google.com/spreadsheets/d/1FB7TCbIHCnW1K0fY6BUYl_37a0LCLejUZd6BUpvSK3o/pubhtml?gid=0&single=true) ([下載PDF版本](https://docs.google.com/spreadsheets/d/1FB7TCbIHCnW1K0fY6BUYl_37a0LCLejUZd6BUpvSK3o/pub?gid=0&single=true&output=pdf))
