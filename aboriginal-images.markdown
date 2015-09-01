@@ -69,7 +69,7 @@ Indigenous Images has three goals: 1. To train students in the art of critical f
 ## Course Info
 
 ### Time and Location 時間與地點
-* 時間：星期四, 2:10pm-5:00pm
+* 時間：星期二, 1:10pm-5:00pm
 * 地點：原A206
 
 ### Requirements and Credits
