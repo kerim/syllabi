@@ -10,7 +10,7 @@ This course draws on economic anthropology, development studies, social history,
 
 本課程關注於經濟人類學、發展研究、社會史、性別研究，用以探討三個重疊的問題：文化與經濟間的連結為何？殖民主義對原住民的影響為何？現代全球化經濟體系如何影響全世界的原初家庭？不管什麼時候，都需要在這些議題中運用個案研究，以促進課堂討論。
 
-## 課堂大綱 Course Outline (104學年下學期)
+## 課堂大綱 Course Outline (104學年上學期)
 
 1. **Course Overview**
     * Introduce syllabus, topic, & expectations for student work.
