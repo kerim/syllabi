@@ -31,8 +31,8 @@ This course draws on economic anthropology, development studies, social history,
 9. **期中考試**
 10. **Capital, Colony, Nations** 
     * Fulcher, James. 2004. Capitalism: A Very Short Introduction. New York: Oxford University Press. (Chapters 1 & 2)
-11. **Film**
-    * 《教會》The Mission
+11. **運動會**
+    * 停課
 12. **Capital, Colony, Nations** 
     * Howe, Stephen. 2002. Empire: A Very Short Introduction. New York: Oxford University Press. (Chapter 3)
 13. **Development**
