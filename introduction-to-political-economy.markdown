@@ -14,48 +14,47 @@ This course draws on economic anthropology, development studies, social history,
 
 1. **Course Overview**
     * Introduce syllabus, topic, & expectations for student work.
-2. **關係學**
-    * 楊美惠 Yang, Mayfair M. 《禮物,關係學,與國家》 Gifts, Favors, and Banquets: The Art of Social Relationships in China. Ithica: Cornell University Press, 1994. (Chapter 3)
-3. **庫拉圈**
-    * 馬凌諾斯基 Malinowski, Bronislaw. 1920. "Kula; the Circulating Exchange of Valuables in the Archipelagoes of Eastern New Guinea." In Man. Vol. 20:97-105.《庫拉圈》
-4. **The Myth of Barter**
-    * 格雷伯 Graeber, David. 《債︰第一個5000年》 Debt: The First 5000 Years. London: Penguin UK, 2012. (Chapter 2) 
-5. **Film**
-    * [Film] TBA
-6. **Economic Morality**
-    * 格雷伯，《債︰第一個5000年》 (Chapter 5)
-7. **Sex and Death**
-    * 格雷伯，《債︰第一個5000年》 (Chapter 6)
-8. **Honor and Degradation**
-    * 格雷伯，《債︰第一個5000年》 (Chapter 7)
+2. **Capitalism**
+    *《資本主義沒告訴你的23件事》件事1,4,5,7,8,13,16,18,20,22
+3. **Slavery**
+    *《Empire of Cotton》Ch. 5 "Slavery Takes Command"
+4. **Film**
+    * 《自由之心
+5. **Labor**
+    *《Empire of Cotton》Ch. 7 "Mobilizing Industrial Labor"
+6. **Reconstruction**
+    *《Empire of Cotton》Ch. 10 "Global Reconstruction"
+7. **Destruction**
+    *《Empire of Cotton》Ch. 11 "Destructions"
+8. **Women and "Globalization"**
+    * 藍佩嘉 Lan, P C. 《跨國灰姑娘》 Global Cinderellas: Migrant Domestics and Newly Rich Employers in Taiwan. Durham: Duke Univ. Press, 2006. (Chapters 2 & 3)    《跨國灰姑娘》
 9. **期中考試**
-10. **Capital, Colony, Nations** 
-    * Fulcher, James. 2004. Capitalism: A Very Short Introduction. New York: Oxford University Press. (Chapters 1 & 2)
-11. **運動會**
-    * 停課
-12. **Capital, Colony, Nations** 
-    * Howe, Stephen. 2002. Empire: A Very Short Introduction. New York: Oxford University Press. (Chapter 3)
-13. **Development**
-    * 埃斯科瓦爾 Escobar, Arturo. 《遭遇發展》Encountering Development: The Making and Unmaking of the Third World (New in Paper). N.p.: Princeton University Press, 2011. (Chapter 2)
-14. **Alternatives (吳明季)**
-    * Nash, June. "Indigenous Development Alternatives." Urban Anthropology and Studies of Cultural Systems and World Economic Development (2003): 57-98.
-15. **Women and "Globalization"**
-    * 藍佩嘉 Lan, P C. 《跨國灰姑娘》 Global Cinderellas: Migrant Domestics and Newly Rich Employers in Taiwan. Durham: Duke Univ. Press, 2006. (Chapters 2 & 3)
-16. **Film**
-    * TBA
-17. **新自由主義**
+10. **Film**
+    * [Film] TBA
+11. **新自由主義**
     * 哈維 Harvey, David. 《新自由主義簡史》 A Brief History of Neoliberalism. New York: Oxford University Press, 2005.
     (Chapter 1)
+12. **Economic Morality**
+    * 格雷伯，《債︰第一個5000年》 (Chapter 5)
+13. **庫拉圈**
+    * 馬凌諾斯基 Malinowski, Bronislaw. 1920. "Kula; the Circulating Exchange of Valuables in the Archipelagoes of Eastern New Guinea." In Man. Vol. 20:97-105.《庫拉圈》
+14. **Money**
+    * "The Impact of Money on an African…"
+15. **關係學**
+    * 楊美惠 Yang, Mayfair M. 《禮物,關係學,與國家》 Gifts, Favors, and Banquets: The Art of Social Relationships in China. Ithica: Cornell University Press, 1994. (Chapter 3)
+16. **端午節(放假)**	
+17. **Alternatives (吳明季)**
+    * Nash, June. "Indigenous Development Alternatives." Urban Anthropology and Studies of Cultural Systems and World Economic Development (2003): 57-98.
 18. **期末考試**
 
 
-[課堂大綱XLS檔案](https://docs.google.com/spreadsheets/d/1KuC6jkjB_PYpFfdzK6-ovhxumNZPF0qofDhpwaju_ZE/pubhtml?gid=0&single=true) ([下載PDF版本](https://docs.google.com/spreadsheets/d/1KuC6jkjB_PYpFfdzK6-ovhxumNZPF0qofDhpwaju_ZE/pub?gid=0&single=true&output=pdf))
+[課堂大綱XLS檔案](https://docs.google.com/spreadsheets/d/1dGlTQcOMS2agFvcLAViTPMQDf6zBNREX3aey5x7VMQ0/pubhtml?gid=0&single=true) ([下載PDF版本](https://docs.google.com/spreadsheets/d/1dGlTQcOMS2agFvcLAViTPMQDf6zBNREX3aey5x7VMQ0/pub?gid=0&single=true&output=pdf))
 
 
 ## Course Info
 
 ### Time and Location 時間與地點
-* 時間：星期三, 2:10pm-5:00pm
+* 時間：星期四, 9:10am-12:00pm
 * 地點：原A213
 
 ### Requirements and Credits
