@@ -12,7 +12,7 @@ This course draws on economic anthropology, development studies, social history,
 
 ## 課堂大綱 Course Outline (104學年上學期)
 
-1. **Course Overview**
+1. **Course Overview**    
     * Introduce syllabus, topic, & expectations for student work.
 2. **Capitalism**
     *《資本主義沒告訴你的23件事》件事1,4,5,7,8,13,16,18,20,22
