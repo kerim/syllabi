@@ -15,17 +15,17 @@ This course draws on economic anthropology, development studies, social history,
 1. **Course Overview**    
     * Introduce syllabus, topic, & expectations for student work.
 2. **Capitalism**
-    *《資本主義沒告訴你的23件事》件事1,4,5,7,8,13,16,18,20,22
+    * 《資本主義沒告訴你的23件事》件事1,4,5,7,8,13,16,18,20,22
 3. **Slavery**
-    *《Empire of Cotton》Ch. 5 "Slavery Takes Command"
+    * 《Empire of Cotton》Ch. 5 "Slavery Takes Command"
 4. **Film**
     * 《自由之心
 5. **Labor**
-    *《Empire of Cotton》Ch. 7 "Mobilizing Industrial Labor"
+    * 《Empire of Cotton》Ch. 7 "Mobilizing Industrial Labor"
 6. **Reconstruction**
-    *《Empire of Cotton》Ch. 10 "Global Reconstruction"
+    * 《Empire of Cotton》Ch. 10 "Global Reconstruction"
 7. **Destruction**
-    *《Empire of Cotton》Ch. 11 "Destructions"
+    * 《Empire of Cotton》Ch. 11 "Destructions"
 8. **Women and "Globalization"**
     * 藍佩嘉 Lan, P C. 《跨國灰姑娘》 Global Cinderellas: Migrant Domestics and Newly Rich Employers in Taiwan. Durham: Duke Univ. Press, 2006. (Chapters 2 & 3)    《跨國灰姑娘》
 9. **期中考試**
