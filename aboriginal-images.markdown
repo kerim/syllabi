@@ -1,6 +1,6 @@
 ---
 layout: undergraduate_courses
-title: 原住民影像 Aboriginal Images
+title: 原住民影像 Indigenous Images
 category: undergraduate_courses
 notes: Undergraduate course exploring the representation of indigenous peoples in the media.
 warn: "Fall 2015"
