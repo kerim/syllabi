@@ -86,5 +86,5 @@ This course will explore the ethnographic use of film, photography, and new medi
 {% include cc.markdown %}
 
 [production_course]:{{site.baseurl}}/visual-ethnography-production
-[outline]:https://docs.google.com/spreadsheets/d/1FB7TCbIHCnW1K0fY6BUYl_37a0LCLejUZd6BUpvSK3o/pubhtml?gid=0&single=true
-[outline_pdf]:https://docs.google.com/spreadsheets/d/1FB7TCbIHCnW1K0fY6BUYl_37a0LCLejUZd6BUpvSK3o/pub?gid=0&single=true&output=pdf
+[outline]:https://docs.google.com/spreadsheets/d/1ztYcTSEthOTwpw6f-NMLrbYxF93b1vsssaUUvMWOKvA/pubhtml?gid=0&single=true
+[outline_pdf]:https://docs.google.com/spreadsheets/d/1ztYcTSEthOTwpw6f-NMLrbYxF93b1vsssaUUvMWOKvA/pub?gid=0&single=true&output=pdf
