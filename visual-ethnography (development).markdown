@@ -6,7 +6,7 @@ notes: Graduate seminar on the theory and history of visual anthropology.
 ---
 
 
-影像民族誌」這一課程探討使用電影、照片與新媒體的民族誌。本課程是修習「[影像民族誌製作]({{site.baseurl}}/visual-ethnography-production)」的必備先修課。課程議題涵括：學習如何批判性的「閱讀」視覺媒體、民族誌電影史、原住民媒體、影像倫理、新媒體與相關社會學理論。
+影像民族誌」這一課程探討使用電影、照片與新媒體的民族誌。本課程是修習「[影像民族誌製作][production_course]」的必備先修課。課程議題涵括：學習如何批判性的「閱讀」視覺媒體、民族誌電影史、原住民媒體、影像倫理、新媒體與相關社會學理論。
 
 This course will explore the ethnographic use of film, photography, and new media. It is a required course for those students who wish to take the ethnographic film production course. Topics covered in this course will include: learning how to critically “read” visual media, the history of ethnographic film, indigenous media, image ethics, new media, and relevant social theories.
 
@@ -64,12 +64,12 @@ This course will explore the ethnographic use of film, photography, and new medi
     * Please Don't Beat Me, Sir!/請別打我，長官！ (75)
 17. **期末考試**
 
-[課堂大綱XLS檔案](https://docs.google.com/spreadsheets/d/1FB7TCbIHCnW1K0fY6BUYl_37a0LCLejUZd6BUpvSK3o/pubhtml?gid=0&single=true) ([下載PDF版本](https://docs.google.com/spreadsheets/d/1FB7TCbIHCnW1K0fY6BUYl_37a0LCLejUZd6BUpvSK3o/pub?gid=0&single=true&output=pdf))
+[課堂大綱XLS檔案][outline]([下載PDF版本][outline_pdf])
 
 ## Course Info
 
 ### Time and Location 時間與地點
-* 時間：星期二, 1:10pm-5:00pm
+* 時間：星期三, 6:10pm-9:00pm
 * 地點：原A206
 
 ### Requirements and Credits
@@ -84,3 +84,7 @@ This course will explore the ethnographic use of film, photography, and new medi
 
 {% include grading.markdown %}
 {% include cc.markdown %}
+
+[production_course]:{{site.baseurl}}/visual-ethnography-production
+[outline]:https://docs.google.com/spreadsheets/d/1FB7TCbIHCnW1K0fY6BUYl_37a0LCLejUZd6BUpvSK3o/pubhtml?gid=0&single=true
+[outline_pdf]:https://docs.google.com/spreadsheets/d/1FB7TCbIHCnW1K0fY6BUYl_37a0LCLejUZd6BUpvSK3o/pub?gid=0&single=true&output=pdf
