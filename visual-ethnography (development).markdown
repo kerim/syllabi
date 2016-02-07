@@ -6,9 +6,10 @@ notes: Graduate seminar on the theory and history of visual anthropology.
 ---
 
 
-Indigenous Images has three goals: 1. To train students in the art of critical film analysis. 2. Introduce students to the history and theory of ethnographic film. And, 3. To discuss issues pertaining to media produced by indigenous peoples. Wherever possible this course uses films relating to Taiwanese Aborigines, but we will also watch and discuss a wide range of films from around the world.
+影像民族誌」這一課程探討使用電影、照片與新媒體的民族誌。本課程是修習「[影像民族誌製作]({{site.baseurl}}/syllabi/visual-ethnography-production)」的必備先修課。課程議題涵括：學習如何批判性的「閱讀」視覺媒體、民族誌電影史、原住民媒體、影像倫理、新媒體與相關社會學理論。
 
-原住民影像有三個目標：1.訓練學生的批判影像分析能力 2.介紹學生認識民族誌電影的歷史與理論 3.討論原住民自己創作影像的議題 . 這門課所使用的電影跟台灣原住民相關, 但我們會從寬廣的角度來觀看與討論台灣原住民電影.
+This course will explore the ethnographic use of film, photography, and new media. It is a required course for those students who wish to take the ethnographic film production course. Topics covered in this course will include: learning how to critically “read” visual media, the history of ethnographic film, indigenous media, image ethics, new media, and relevant social theories.
+
 
 ## 課堂大綱 Course Outline (104學年上學期)
 
