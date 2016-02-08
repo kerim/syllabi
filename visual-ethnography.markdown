@@ -1,6 +1,6 @@
 ---
 layout: graduate_courses
-title: 影像民族誌 Visual Ethnography (development)
+title: 影像民族誌 Visual Ethnography
 category: graduate_courses
 notes: Graduate seminar on the theory and history of visual anthropology.
 ---
