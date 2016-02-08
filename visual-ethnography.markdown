@@ -16,15 +16,15 @@ This course will explore the ethnographic use of film, photography, and new medi
 1. **Course Overview**
     * Introduce syllabus, topic, & expectations for student work.
 2. **Narrative**
-    * Pramaggiore, Maria and Tom Wallis. 2008. *Film: A critical introduction*. Boston:Pearson. (Pramaggiore & Wallis) - Chapter  4
+    * Chapter 4 - Pramaggiore, Maria and Tom Wallis. 2008. *Film: A critical introduction*. Boston:Pearson. (Pramaggiore & Wallis) 
     * [Film] When Harry Met Sally/當哈利碰上莎莉 (96)
     * [Film] Boys Don't Cry/男孩別哭 (118)
 3. **Mise en Scene**
-    * Pramaggiore & Wallis - Chapter 5
+    * Chapter 5 - Pramaggiore & Wallis 
     * [Film] Citizen Kane/大國民 (119)
     * [Film] Goodfellas/盜亦有道 (145)
 4. **Editing**
-    * Pramaggiore & Wallis - Chapter 7
+    * Chapter 7 - Pramaggiore & Wallis
     * [Film] Breathless/斷了氣 (87)
     * [Film] The Cutting Edge/电影剪接的魔力 (139)
     * [in class] Battleship Potemkin/波坦金戰艦 (clips)
