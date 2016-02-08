@@ -42,8 +42,8 @@ This course will explore the ethnographic use of film, photography, and new medi
     * Sterk, Darryl. 2014. “Ironic Indigenous Primitivism: Taiwan’s First ‘native Feature’ in an Era of Ethnic Tourism.” Journal of Chinese Cinemas 8, no. 3: 209–25.
     * Chapter 3 - Turner - in 金斯伯, Lughod, L. A., Larkin, B., 國立編譯館, & 楊雅婷 (2008). 媒體世界: 人類學的新領域 media worlds: Anthropology on new terrain (初版 ed.). 臺北市: 巨流, 編譯館.
     * [Film] Reel Injun/英雄本色 (51) 
-    * Finding Sayon/《不一樣的月光》(93)
-    * Marangmotxingmo Mirang/伊邦小孩的影像信 (35)
+    * [Film] Finding Sayon/《不一樣的月光》(93)
+    * [Film] Marangmotxingmo Mirang/伊邦小孩的影像信 (35)
     * [in class] Video in the Villages Presents Itself/村落影像秀自己 (33)
 
 8. **Filming "Truth"**
