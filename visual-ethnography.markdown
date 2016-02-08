@@ -39,11 +39,18 @@ This course will explore the ethnographic use of film, photography, and new medi
     * [Film] Red Road/紅路 (113)
 7. **Filming "Natives"**
     * Kilpatrick, Jacquelyn. 2003. "Native Americans." In *The Columbia Companion to American History on Film: How the Movies Have Portrayed the American Past*. Edited by Peter C. Rollins. p. 277-87. New York: Columbia University Press.
-    * Chapter 2- Prins - in 金斯伯, Lughod, L. A., Larkin, B., 國立編譯館, & 楊雅婷 (2008). 媒體世界: 人類學的新領域 media worlds: Anthropology on new terrain (初版 ed.). 臺北市: 巨流, 編譯館.
+    * Sterk, Darryl. 2014. “Ironic Indigenous Primitivism: Taiwan’s First ‘native Feature’ in an Era of Ethnic Tourism.” Journal of Chinese Cinemas 8, no. 3: 209–25.
     * Chapter 3 - Turner - in 金斯伯, Lughod, L. A., Larkin, B., 國立編譯館, & 楊雅婷 (2008). 媒體世界: 人類學的新領域 media worlds: Anthropology on new terrain (初版 ed.). 臺北市: 巨流, 編譯館.
+    * [Film] Reel Injun/英雄本色 (51) 
+    * Finding Sayon/《不一樣的月光》(93)
+    * Marangmotxingmo Mirang/伊邦小孩的影像信 (35)
+    * [in class] Video in the Villages Presents Itself/村落影像秀自己 (33)
+
 8. **Filming "Truth"**
     * (selections) Morris, E. (2011). Believing is seeing : Observations on the mysteries of photography. New York: Penguin Press.
     * (selections) Hammersley, M. & Atkinson, P. (2007). What is ethnography? In Ethnography : Principles in practice. London ; New York: Routledge.
+    * [Film] Roshomon/羅生門 (88)
+    * [Film] Thin Blue Line/正義難伸 (103)
 9. **Midterm Presentations**
 10. **台灣國際民族誌影展**
 11. **Image ethics**
