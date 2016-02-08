@@ -99,7 +99,7 @@ This course will explore the ethnographic use of film, photography, and new medi
 {% include instructor.markdown %}
 
 
-{% include grading.markdown %}
+{% include grading-visualethnography.markdown %}
 {% include cc.markdown %}
 
 [production_course]:{{site.baseurl}}/visual-ethnography-production
