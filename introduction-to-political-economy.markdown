@@ -35,7 +35,7 @@ This course draws on economic anthropology, development studies, social history,
     * 哈維 Harvey, David. 《新自由主義簡史》 A Brief History of Neoliberalism. New York: Oxford University Press, 2005.
     (Chapter 1)
 12. **Economic Morality**
-    * 格雷伯，《債︰第一個5000年》 (Chapter 5)
+    * 格雷伯，《債︰第一個5000年》第二章 《以物易物的經濟學神話》
 13. **庫拉圈**
     * 馬凌諾斯基 Malinowski, Bronislaw. 1920. "Kula; the Circulating Exchange of Valuables in the Archipelagoes of Eastern New Guinea." In Man. Vol. 20:97-105.《庫拉圈》
 14. **Money**
