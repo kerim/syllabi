@@ -23,11 +23,8 @@ This is an independent study class for Ph.D. students. The course seeks to intro
 7. Errington, Joseph. *Linguistics in a Colonial World: A Story of Language, Meaning, and Power.* Wiley-Blackwell, 2010.
 8. Thomas, Nicholas. *Colonialism’s Culture.* Princeton University Press, 1994.
 9. Mamdani, Mahmood. *Citizen and Subject: Contemporary Africa and the Legacy of Late Colonialism.* Princeton University Press, 1996.
-10. O’Hara, Matthew D., ed. *Imperial Subjects: Race and Identity in Colonial Latin America.* Duke University Press Books, 2009.
-11. Wolfe, Patrick. Traces of History: Elementary Structures of Race. Verso, 2016.
-12. Chakrabarty, Dipesh. *Provincializing Europe: Postcolonial Thought and Historical Difference.* Princeton University Press, 2007.
+10. Wolfe, Patrick. Traces of History: Elementary Structures of Race. Verso, 2016.
 
-This list is not complete. Since this is a seminar the list has been kept deliberately short so that more can be added as needed, depending on potential guest lecturers as well as student needs. Also, just the required readings are listed here for simplicity's sake. A document will be shared with the class containing additional recommended readings for each week. 
 
 ## Teaching Method and Requirements
 
