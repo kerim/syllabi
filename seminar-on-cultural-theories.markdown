@@ -147,7 +147,7 @@ Required course for Ph.D. students. 博士班學生必修.
 ## Finals
 - WEEK 18 (1/10) - **Final Debate**
 
-* [課堂大綱 Outline][outline] [[PDF][pdf]]
+[課堂大綱 Outline][outline] [[PDF][pdf]]
 
 ## Course Info
 
