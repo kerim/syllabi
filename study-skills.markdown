@@ -17,8 +17,8 @@ warn: Spring 2014
 
 1. **課程介紹：大學學什麼?你大學生了嗎? What do I want from University?** 
 2. **如何與他人共學合作 Working with Others** (葉)
-3. **閱讀技巧：做個聰明的讀者 Reading Techniques: Be a Smart Reader** (葉)
-4. **社會科學家思考（與閱讀）的方式 How social scientists think (and read)** (傅)
+3. **社會科學家思考（與閱讀）的方式 How social scientists think (and read)** (傅)
+4. **閱讀技巧：做個聰明的讀者 Reading Techniques: Be a Smart Reader** 
 5. **研究技巧：圖書館導覽與資料蒐集 Research Skills: Making the Most of the Library** (葉、陳昱佐老師)
 6. **繳交作業（一）+分組討論** 
 7. **如何避免抄襲與正確的引用文獻與書目** (葉)
@@ -26,15 +26,15 @@ warn: Spring 2014
 9. **期中考周 (自我學習/小組時間)**
 10. **PowerPoint Dos and Don'ts** (傅)
 11. **運動會-停課**
-12. **Lifehacking for Students** (傅)
+12. **口頭報告技巧 Mastering oral presentations** (葉)
 13. **作業+分組討論（三）**
-14. **分組討論**
+14. **Lifehacking for Students** (傅)
 15. **小組討論**
 16. **期末報告（一）**
 17. **期末報告（二）**
 18. **期末報告（三）**　
 
-[課堂大綱XLS檔案](https://docs.google.com/spreadsheets/d/1CoyCZd_rWECu2xnCrWfcKe3tq4TJNctrSm8vDO6Wcgw/pubhtml?gid=0&single=true) ([下載PDF版本](https://docs.google.com/spreadsheets/d/1CoyCZd_rWECu2xnCrWfcKe3tq4TJNctrSm8vDO6Wcgw/pub?gid=0&single=true&output=pdf))
+[課堂大綱XLS檔案](https://docs.google.com/spreadsheets/d/1EzsRkzijWrTpt-JBwcdCw2nokjZV-Fb_j_OMD-UP3oI/pubhtml?gid=0&single=true) ([下載PDF版本](https://docs.google.com/spreadsheets/d/1EzsRkzijWrTpt-JBwcdCw2nokjZV-Fb_j_OMD-UP3oI/pub?gid=0&single=true&output=pdf))
 
 ## Course Info
 * 中文科目名稱: 學習方法與技巧
@@ -42,8 +42,8 @@ warn: Spring 2014
 * 科目代碼: CIS_11100
 
 ### Time and Location 時間與地點
-* 時間：星期二, 1:10pm-5:00pm
-* 地點：原A206
+* 時間：星期三, 9:10pm-12:00pm
+* 地點：原A？？？
 
 ### Requirements and Credits
 * 授課時數: 3
@@ -64,7 +64,7 @@ warn: Spring 2014
     * 晤談時間: 周三 12-2pm
    
 ### TA 助教
-   * 課程助教: 謝吳泯 u92351013@gmail.com  
+   * 課程助教: 	盧姵岑 kc0206260006@gmail.com  
    * 請假請事先告之、email或電話連絡。
 
 ### 授課方式：
