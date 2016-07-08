@@ -58,6 +58,8 @@ Required course for Ph.D. students. 博士班學生必修.
 		- 中文：褚建芳譯 2002 《努爾人-對尼羅河畔一個人群的生活方式和政治制度的描述》現代人類學經典譯叢。上海：華夏。
 	- Malinowski, B.
 		- *Argonauts of the Western Pacific*. Waveland Pr Inc, 1984.(Introduction, Chs. 2-4, 6, 11-12, 14-17, & 22)
+	- * Stocking, George W.
+		-  “The Ethnographer’s Magic.” In *The Ethnographer’s Magic and Other Essay's in the History of Anthropology*, edited by George W. Stocking, 12–59. Wisconsin University Press, 1992.
 		
 - WEEK 7 - Levi-Strauss
 	- Levi-Strauss, Claude
@@ -87,10 +89,8 @@ Required course for Ph.D. students. 博士班學生必修.
 
 ## Cultural Critique: Feminism & Postcolonialism
 - WEEK 10 - Feminist Critique
-	- Ortner, S B
-		- 1972 "Is female to male as nature is to culture?" *Feminist Studies* 1 (2): 5-31.
-	- Rosaldo, M Z
-		- 1980. "The use and abuse of anthropology: Reflections on feminism and cross-cultural understanding." *Signs* 5 (3): 389-417.
+	- Mascia-Lee, Frances E., and Nancy Johnson Black. 
+		- 1999. *Gender and Anthropology*. Waveland Pr Inc.
 	- Rubin, G
 		- 2006 "The traffic in women: Notes on the political economy of sex.". *Feminist Anthropology: A Reader*. E. Lewin ed. Oxford: Wiley-Blackwell.
 		- 中文：張娟芬譯，1999〈交易女人：性的「政治經濟學」〉，收錄於顧燕翎、鄭至慧編，《女性主義經典》，頁167-177，台北：女書。
