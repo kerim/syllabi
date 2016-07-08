@@ -46,9 +46,11 @@ Required course for Ph.D. students. 博士班學生必修.
 		- 中文：張乃烈譯《馬克思主義經濟學簡論》臺灣社會研究叢刊：7。台北：台研季刊社
 		- 簡體字版：http://goo.gl/PeKfSN
 - WEEK 5 - Gramsci
+	- Sperber, Nathan, and George Hoare
+		- 2015 *An Introduction to Antonio Gramsci: His Life, Thought and Legacy*. Bloomsbury Academic.
 	- Crehan, Kate A F.
 		- 2002. *Gramsci, Culture, and Anthropology*. Berkeley: University of California Press.
-	- Gramsci, Antonio
+	- * Gramsci, Antonio
 		- 1990 "Some aspects of the southern question." *Antonio Gramsci: Selections From Political Writings (1921-1926)*. Minneapolis: University of Minnesota Press. 《 南方問題札記》
 
 ## Strucuralism & Functionalism   
