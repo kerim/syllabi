@@ -25,8 +25,9 @@ Required course for Ph.D. students. 博士班學生必修.
 	- Durkheim, Emile
 		- 1995 *The Elementary Forms of Religious Life.*  Karen E Fields trans. New York: Simon & Schuster. [Selections: Book I: Chapter 1. Book II: Chapters 6 & 7. Book III: Chapter 3 & Conclusion]
 		- 中文：芮傳明 譯 1992 《宗教生活的基本方式》，台北：桂冠。
-	- *Thompson, Ken (Items with a * are for reference only. Students are not required to discuss these works)
-		- 2002 *Emile Durkheim*. New York: Routledge.
+	- Suggested Readings
+		- Thompson, Ken (Items with a * are for reference only. Students are not required to discuss these works)
+			- 2002 *Emile Durkheim*. New York: Routledge.
 - WEEK 3 - Weber
 	- Weber, Max
 		- 1985 *The Protestant Ethic and the Spirit of Capitalism*. London ; Boston: Unwin Paperbacks.
@@ -35,23 +36,26 @@ Required course for Ph.D. students. 博士班學生必修.
 		- 中文：顧忠華 譯 2002 《社會學的基本概念》，台北：桂冠。
 		- 1958 "Science as a vocation." *Daedalus* 87 (1): 111-134. 《學術作為一種志業》
 		- 中文：錢永祥 譯 1991 《學術與政治：韋伯選集 I》，台北：桂冠。
-	- *Poggi, Gianfranco
-		- 2005 *Weber: A Short Introduction*. London: Polity Press
+	- Suggested Readings
+		- Poggi, Gianfranco
+			- 2005 *Weber: A Short Introduction*. London: Polity Press
 - WEEK 4 - Marx
 	- Marx
 		- 1977 *Capital: A Critique of Political Economy*. New York: Vintage Books. (Volume 1) [Selections: Preface 1st edition & Postface 2nd edition, Chapter 1 (Sec. 1,2 & 4), Chapter 4, Chapters 6 & 7,  Chapter 10, Chapter 25 Sec. 1-4, Part 8 (Chs. 26-33). Appendix sections: "formal subsumption of labor under capital" and "real subsumption of labor under capital."]
 		- 中文：馬克思 2004 《資本論第一卷》，上海：人民出版社。
-	- *Mandel, Ernest.
-		- 2002 *An Introduction to Marxist Economic Theory*. Chippendale, N.S.W.: Resistance Books.
-		- 中文：張乃烈譯《馬克思主義經濟學簡論》臺灣社會研究叢刊：7。台北：台研季刊社
-		- 簡體字版：http://goo.gl/PeKfSN
+	- Suggested Readings
+		- Mandel, Ernest.
+			- 2002 *An Introduction to Marxist Economic Theory*. Chippendale, N.S.W.: Resistance Books.
+			- 中文：張乃烈譯《馬克思主義經濟學簡論》臺灣社會研究叢刊：7。台北：台研季刊社
+			- 簡體字版：http://goo.gl/PeKfSN
 - WEEK 5 - Gramsci
 	- Sperber, Nathan, and George Hoare
 		- 2015 *An Introduction to Antonio Gramsci: His Life, Thought and Legacy*. Bloomsbury Academic.
 	- Crehan, Kate A F.
 		- 2002. *Gramsci, Culture, and Anthropology*. Berkeley: University of California Press.
-	- * Gramsci, Antonio
-		- 1990 "Some aspects of the southern question." *Antonio Gramsci: Selections From Political Writings (1921-1926)*. Minneapolis: University of Minnesota Press. 《 南方問題札記》
+	- Suggested Readings
+		- Gramsci, Antonio
+			- 1990 "Some aspects of the southern question." *Antonio Gramsci: Selections From Political Writings (1921-1926)*. Minneapolis: University of Minnesota Press. 《 南方問題札記》
 
 ## Strucuralism & Functionalism   
 - WEEK 6 - Functionalism
@@ -60,15 +64,17 @@ Required course for Ph.D. students. 博士班學生必修.
 		- 中文：褚建芳譯 2002 《努爾人-對尼羅河畔一個人群的生活方式和政治制度的描述》現代人類學經典譯叢。上海：華夏。
 	- Malinowski, B.
 		- *Argonauts of the Western Pacific*. Waveland Pr Inc, 1984.(Introduction, Chs. 2-4, 6, 11-12, 14-17, & 22)
-	- * Stocking, George W.
-		-  “The Ethnographer’s Magic.” In *The Ethnographer’s Magic and Other Essay's in the History of Anthropology*, edited by George W. Stocking, 12–59. Wisconsin University Press, 1992.
+	- Suggested Readings
+		- Stocking, George W.
+			-  “The Ethnographer’s Magic.” In *The Ethnographer’s Magic and Other Essay's in the History of Anthropology*, edited by George W. Stocking, 12–59. Wisconsin University Press, 1992.
 		
 - WEEK 7 - Levi-Strauss
 	- Levi-Strauss, Claude
 		- 1963 *Structural Anthropology*. New York: Basic Books. (Chapters 1-7, 9-13.)
 		- 中文：張祖建譯 2006《列維-斯特勞斯文集: 結構人類學 1-2 》上海：中國人民大學出版社。
-	- *Matthews, Peter
-		- 2003 *A Short History of Structural Linguistics*. New York: Cambridge University Press
+	- Suggested Readings
+		- Matthews, Peter
+			- 2003 *A Short History of Structural Linguistics*. New York: Cambridge University Press
 		
 
 - WEEK 8 - The Culture Concept
@@ -132,8 +138,9 @@ Required course for Ph.D. students. 博士班學生必修.
 		- 中文：劉北成譯1992 《規訓與懲罰--監獄的誕生》，台北：桂冠
 		- 2012 The History of Sexuality: An Introduction: 1. Reissue edition. Vintage, .
 		- 1991 "Questions of method." in *The Foucault Effect: Studies in Governmental Nationality : With Two Lectures by and An Interview with Michel Foucault*. G Burchell, C Gordon, and P M Miller eds. 1991. London: Harvester Wheatsheaf. pp. 73-86.
-		- * 2007 [1972] “The discourse on language.” Appendix: *Archaeology of Knowledge*. London ; New York: Routledge. pp 215-37.
-		- 中文：許寶強、袁偉選編2001《語言與翻譯的政治》，北京：中央編譯出版社。（英譯版本”The Order of Discourse” in Untying the Text, edited by Robert Young. London: RKP, 1981)
+		- Suggested Readings
+			- 2007 [1972] “The discourse on language.” Appendix: *Archaeology of Knowledge*. London ; New York: Routledge. pp 215-37.
+			- 中文：許寶強、袁偉選編2001《語言與翻譯的政治》，北京：中央編譯出版社。（英譯版本”The Order of Discourse” in Untying the Text, edited by Robert Young. London: RKP, 1981)
 		
     
 - WEEK 16 - Postcolonialism
