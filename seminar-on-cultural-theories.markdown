@@ -138,11 +138,12 @@ Required course for Ph.D. students. 博士班學生必修.
   
 ## Neoliberalism
 - WEEK 17 - Neoliberalism
+	- Ortner, Sherry. 
+		- 2011 “On Neoliberalism.” *Anthropology of This Century*. http://aotcpress.com/articles/neoliberalism/.
 	- Harvey, David
-		- 2005 *A Brief History of Neoliberalism*. New York: Oxford University Press.
-		- 中文：大衛·哈維 2010 《新自由主義簡史》，上海：譯文出版社
-	- *Ortner, Sherry B
-		- "On Neoliberalism": http://aotcpress.com/articles/neoliberalism/
+		- 2007 “Neoliberalism as Creative Destruction.” The Annals of the American Academy of Political and Social Science 610, no. 1 (March 1): 21–44.
+	- Ong, Aihwa
+		- 2006 *Neoliberalism as Exception: Mutations in Citizenship and Sovereignty*. Duke University Press Books.
     
 ## Finals
 - WEEK 18 (1/10) - **Final Debate**
