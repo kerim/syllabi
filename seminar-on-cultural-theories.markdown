@@ -54,10 +54,10 @@ Required course for Ph.D. students. 博士班學生必修.
 ## Strucuralism & Functionalism   
 - WEEK 6 - Functionalism
 	- Evans-Pritchard, Edward Evan
-		- 1969 *The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People*. Cambridge, UK: Oxford University Press.
+		- 1969 *The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People*. Cambridge, UK: Oxford University Press. (Introduction, Chs. 1, 3, & 5)
 		- 中文：褚建芳譯 2002 《努爾人-對尼羅河畔一個人群的生活方式和政治制度的描述》現代人類學經典譯叢。上海：華夏。
 	- Malinowski, B.
-		- 1939 "The group and the individual in functional analysis." *The American Journal of Sociology* 44 (6): 938-964.
+		- *Argonauts of the Western Pacific*. Waveland Pr Inc, 1984.(Introduction, Chs. 2-4, 6, 11-12, 14-17, & 22)
 		
 - WEEK 7 - Levi-Strauss
 	- Levi-Strauss, Claude
@@ -75,10 +75,12 @@ Required course for Ph.D. students. 博士班學生必修.
 		- 中文：高丙中 吳曉黎 李霞 等2008《寫文化︰民族志的詩學與政治學》，北京：商務印書館。
 	- Sahlins, M
 		- 1999 “Two or three things that I know about culture.” *The Journal of the Royal Anthropological Institute* 5 (3): 399-421.
-	- Tannen, D
-		- 1992 “Response to Senta Troemel-Ploetz's' Selling the Apolitical'. *Discourse and Society* 3 (2): 249-254.
-		- 1998 “Talk in the intimate relationship: His and hers.” *Language and Gender: A Reader*. Oxford: Blackwell Publishers Ltd.
-		- Troemel-Ploetz, S. 1991. Review essay: “Selling the apolitical.” *Discourse & Society* 2 (4): 489.
+	- Gupta, Akhil, and James Ferguson. 
+		- 1992 “Beyond ‘culture’: Space, Identity, and the Politics of Difference.” *Cultural Anthropology* 7, no. 1: 6–23.
+	- Stocking, George W. 
+		- 1966 “Franz Boas and the Culture Concept in Historical Perspective.” *American Anthropologist* 68, no. 4: 867–82.
+	- Sapir, E. 
+		- 1924 “Culture, Genuine and Spurious.” *The American Journal of Sociology*. 
 		
 ## Midterm
 - WEEK 9 - **Midterm Debate**
@@ -131,12 +133,8 @@ Required course for Ph.D. students. 博士班學生必修.
 		- 1991 "Questions of method." in *The Foucault Effect: Studies in Governmental Nationality : With Two Lectures by and An Interview with Michel Foucault*. G Burchell, C Gordon, and P M Miller eds. 1991. London: Harvester Wheatsheaf. pp. 73-86.
     
 - WEEK 16 - Postcolonialism
-	- Young, Robert
-		- 2001 *Postcolonialism : An Historical Introduction*. Oxford, UK: Blackwell Publishers. (Chapters 1-8, 12-13, 20-28)
-		- 中文：	譯者：國立編譯館，周素鳳，陳巨擘 2006《後殖民主義—歷史的導引》，台北：巨流圖書公司。
-	- Spivak, G. C. 
-		- 1988. “Can the subaltern speak.” *Marxism and the Interpretation of Culture*. pp. 271-316
-		- 中文：劉象愚1999《後殖民主義文化理論》，北京：中國社會科學出版社。
+	- Williams, Patrick, and Laura Chrisman, eds. 
+		- Colonial Discourse and Post-Colonial Theory: A Reader. Columbia University Press, 1994. (Parts 1,2, & 5)
   
 ## Neoliberalism
 - WEEK 17 - Neoliberalism
