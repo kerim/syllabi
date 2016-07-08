@@ -52,19 +52,21 @@ Required course for Ph.D. students. 博士班學生必修.
 		- 1990 "Some aspects of the southern question." *Antonio Gramsci: Selections From Political Writings (1921-1926)*. Minneapolis: University of Minnesota Press. 《 南方問題札記》
 
 ## Strucuralism & Functionalism   
-- WEEK 6 -  Levi-Strauss
-	- Levi-Strauss, Claude
-		- 1963 *Structural Anthropology*. New York: Basic Books. (Chapters 1-7, 9-13.)
-		- 中文：張祖建譯 2006《列維-斯特勞斯文集: 結構人類學 1-2 》上海：中國人民大學出版社。
-	- *Matthews, Peter
-		- 2003 *A Short History of Structural Linguistics*. New York: Cambridge University Press
-- WEEK 7 - Functionalism
+- WEEK 6 - Functionalism
 	- Evans-Pritchard, Edward Evan
 		- 1969 *The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People*. Cambridge, UK: Oxford University Press.
 		- 中文：褚建芳譯 2002 《努爾人-對尼羅河畔一個人群的生活方式和政治制度的描述》現代人類學經典譯叢。上海：華夏。
 	- Malinowski, B.
 		- 1939 "The group and the individual in functional analysis." *The American Journal of Sociology* 44 (6): 938-964.
-    
+		
+- WEEK 7 - Levi-Strauss
+	- Levi-Strauss, Claude
+		- 1963 *Structural Anthropology*. New York: Basic Books. (Chapters 1-7, 9-13.)
+		- 中文：張祖建譯 2006《列維-斯特勞斯文集: 結構人類學 1-2 》上海：中國人民大學出版社。
+	- *Matthews, Peter
+		- 2003 *A Short History of Structural Linguistics*. New York: Cambridge University Press
+		
+
 - WEEK 8 - The Culture Concept
 	- Abu-Lugbod, L
 		- 2006 "Writing against culture." *Feminist Anthropology: A Reader* 8:153.
@@ -82,7 +84,7 @@ Required course for Ph.D. students. 博士班學生必修.
 - WEEK 9 - **Midterm Debate**
 
 ## Cultural Critique: Feminism & Postcolonialism
-- WEEK 10 - Feminism
+- WEEK 10 - Feminist Critique
 	- Ortner, S B
 		- 1972 "Is female to male as nature is to culture?" *Feminist Studies* 1 (2): 5-31.
 	- Rosaldo, M Z
