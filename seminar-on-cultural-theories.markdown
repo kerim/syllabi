@@ -3,7 +3,6 @@ layout: graduate_courses
 title: 文化理論專題 Seminar on Cultural Theories
 category: graduate_courses
 notes: Required course for Ph.D. students.
-warn: "Fall 2013"
 ---
 
 
@@ -58,7 +57,7 @@ Required course for Ph.D. students. 博士班學生必修.
 	- Evans-Pritchard, Edward Evan
 		- 1969 *The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People*. Cambridge, UK: Oxford University Press. (Introduction, Chs. 1, 3, & 5)
 		- 中文：褚建芳譯 2002 《努爾人-對尼羅河畔一個人群的生活方式和政治制度的描述》現代人類學經典譯叢。上海：華夏。
-	- ＊Suggested Readings＊
+	- *Suggested Readings*
 		- Stocking, George W.
 			-  “The Ethnographer’s Magic.” In *The Ethnographer’s Magic and Other Essay's in the History of Anthropology*, edited by George W. Stocking, 12–59. Wisconsin University Press, 1992.
 			
@@ -70,7 +69,7 @@ Required course for Ph.D. students. 博士班學生必修.
 	- Leach, Edmund. 
 		- 1973. “Structuralism in Social Anthropology.” *Structuralism: An Introduction*, 37–56.
 		- 1969 “Genesis as Myth.” In *Genesis as Myth and Other Essays*, edited by Edmund Leach, 7–25. London: Cape.
-	- ＊Suggested Readings＊
+	- *Suggested Readings*
 		- Matthews, Peter
 			- 2003 *A Short History of Structural Linguistics*. New York: Cambridge University Press
 			
@@ -106,7 +105,7 @@ Required course for Ph.D. students. 博士班學生必修.
 		- 2015 *An Introduction to Antonio Gramsci: His Life, Thought and Legacy*. Bloomsbury Academic.
 	- Crehan, Kate A F.
 		- 2002. *Gramsci, Culture, and Anthropology*. Berkeley: University of California Press.
-	- Suggested Readings
+	- *Suggested Readings*
 		- Gramsci, Antonio
 			- 1990 "Some aspects of the southern question." *Antonio Gramsci: Selections From Political Writings (1921-1926)*. Minneapolis: University of Minnesota Press. 《 南方問題札記》
 
@@ -147,7 +146,7 @@ Required course for Ph.D. students. 博士班學生必修.
 		- 中文：劉北成譯1992 《規訓與懲罰--監獄的誕生》，台北：桂冠
 		- 2012 The History of Sexuality: An Introduction: 1. Reissue edition. Vintage, .
 		- 1991 "Questions of method." in *The Foucault Effect: Studies in Governmental Nationality : With Two Lectures by and An Interview with Michel Foucault*. G Burchell, C Gordon, and P M Miller eds. 1991. London: Harvester Wheatsheaf. pp. 73-86.
-		- Suggested Readings
+		- *Suggested Readings*
 			- 2007 [1972] “The discourse on language.” Appendix: *Archaeology of Knowledge*. London ; New York: Routledge. pp 215-37.
 			- 中文：許寶強、袁偉選編2001《語言與翻譯的政治》，北京：中央編譯出版社。（英譯版本”The Order of Discourse” in Untying the Text, edited by Robert Young. London: RKP, 1981)
 		
