@@ -21,12 +21,12 @@ Required course for Ph.D. students. 博士班學生必修.
 ## Political Economy
 
 ### WEEK 2 - Durkheim
-	- Durkheim, Emile
-		- 1995 *The Elementary Forms of Religious Life.*  Karen E Fields trans. New York: Simon & Schuster. [Selections: Book I: Chapter 1. Book II: Chapters 6 & 7. Book III: Chapter 3 & Conclusion]
-		- 中文：芮傳明 譯 1992 《宗教生活的基本方式》，台北：桂冠。
-	- *Suggested Readings*
-		- Thompson, Ken (Items with a * are for reference only. Students are not required to discuss these works)
-			- 2002 *Emile Durkheim*. New York: Routledge.
+- Durkheim, Emile
+	- 1995 *The Elementary Forms of Religious Life.*  Karen E Fields trans. New York: Simon & Schuster. [Selections: Book I: Chapter 1. Book II: Chapters 6 & 7. Book III: Chapter 3 & Conclusion]
+	- 中文：芮傳明 譯 1992 《宗教生活的基本方式》，台北：桂冠。
+- *Suggested Readings*
+	- Thompson, Ken (Items with a * are for reference only. Students are not required to discuss these works)
+		- 2002 *Emile Durkheim*. New York: Routledge.
 
 ### WEEK 3 - Weber
 	- Weber, Max
