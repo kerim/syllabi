@@ -26,7 +26,7 @@ Required course for Ph.D. students. 博士班學生必修.
 	- *Suggested Readings*
 		- Thompson, Ken (Items with a * are for reference only. Students are not required to discuss these works)
 			- 2002 *Emile Durkheim*. New York: Routledge.
-- WEEK 3 - Weber
+### WEEK 3 - Weber
 	- Weber, Max
 		- 1985 *The Protestant Ethic and the Spirit of Capitalism*. London ; Boston: Unwin Paperbacks.
 		- 中文：于曉 譯 2005《新教倫理與資本主義精神》，台北：左岸文化。
