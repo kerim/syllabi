@@ -14,13 +14,10 @@ Required course for Ph.D. students. 博士班學生必修.
 
 ## 課堂大綱 Course Outline (105-1)
 
-## Introduction
-- WEEK 1 - Introduction
+### WEEK 1 - Introduction
 	- （課程內容介紹，課程要求和期望，兼談中英文寫作和書目格式。)
 
-## Political Economy
-
-### WEEK 2 - Durkheim
+### WEEK 2 - Political Economy I: Durkheim 
 - Durkheim, Emile
 	- 1995 *The Elementary Forms of Religious Life.*  Karen E Fields trans. New York: Simon & Schuster. [Selections: Book I: Chapter 1. Book II: Chapters 6 & 7. Book III: Chapter 3 & Conclusion]
 	- 中文：芮傳明 譯 1992 《宗教生活的基本方式》，台北：桂冠。
@@ -28,7 +25,7 @@ Required course for Ph.D. students. 博士班學生必修.
 	- Thompson, Ken (Items with a * are for reference only. Students are not required to discuss these works)
 		- 2002 *Emile Durkheim*. New York: Routledge.
 
-### WEEK 3 - Weber
+### WEEK 3 - Political Economy II: Weber
 - Weber, Max
 	- 1985 *The Protestant Ethic and the Spirit of Capitalism*. London ; Boston: Unwin Paperbacks.
 	- 中文：于曉 譯 2005《新教倫理與資本主義精神》，台北：左岸文化。
@@ -40,7 +37,7 @@ Required course for Ph.D. students. 博士班學生必修.
 	- Poggi, Gianfranco
 		- 2005 *Weber: A Short Introduction*. London: Polity Press
 
-### WEEK 4 - Marx
+### WEEK 4 - Political Economy III: Marx
 - Marx
 	- 1977 *Capital: A Critique of Political Economy*. New York: Vintage Books. (Volume 1) [Selections: Preface 1st edition & Postface 2nd edition, Chapter 1 (Sec. 1,2 & 4), Chapter 4, Chapters 6 & 7,  Chapter 10, Chapter 25 Sec. 1-4, Part 8 (Chs. 26-33). Appendix sections: "formal subsumption of labor under capital" and "real subsumption of labor under capital."]
 	- 中文：馬克思 2004 《資本論第一卷》，上海：人民出版社。
@@ -53,7 +50,6 @@ Required course for Ph.D. students. 博士班學生必修.
 		- 2014《A Companion to Marx’s Capital》 
 		－ 中文：跟大衛。哈維讀《資本論》》簡體版
 		
-## Functionalism   
 
 ### WEEK 5 - Functionalism
 - Malinowski, B.
@@ -64,10 +60,8 @@ Required course for Ph.D. students. 博士班學生必修.
 - *Suggested Readings*
 	- Stocking, George W.
 		-  “The Ethnographer’s Magic.” In *The Ethnographer’s Magic and Other Essay's in the History of Anthropology*, edited by George W. Stocking, 12–59. Wisconsin University Press, 1992.
-			
-## Strucuralism  
 
-### WEEK 6 - Levi-Strauss
+### WEEK 6 - Strucuralism
 - Levi-Strauss, Claude
 	- 1963 *Structural Anthropology*. New York: Basic Books. (Chapters 1-2, 7, 9-13.)
 	- 中文：張祖建譯 2006《列維-斯特勞斯文集: 結構人類學 1-2 》上海：中國人民大學出版社。
@@ -77,8 +71,6 @@ Required course for Ph.D. students. 博士班學生必修.
 - *Suggested Readings*
 	- Matthews, Peter
 		- 2003 *A Short History of Structural Linguistics*. New York: Cambridge University Press
-			
-## The Culture Concept   
 
 ### WEEK 7 - The Culture Concept
 - Abu-Lugbod, L
@@ -93,21 +85,15 @@ Required course for Ph.D. students. 博士班學生必修.
 - Stocking, George W. 
 	- 1966 “Franz Boas and the Culture Concept in Historical Perspective.” *American Anthropologist* 68, no. 4: 867–82.
 - Sapir, E. 
-	- 1924 “Culture, Genuine and Spurious.” *The American Journal of Sociology*. 
-		
-## Special Event: Clifford   
+	- 1924 “Culture, Genuine and Spurious.” *The American Journal of Sociology*.   
 
-### WEEK 8 - James Clifford (林徐達）10/28 (6:10-9pm)
+### WEEK 8 - Special Event: James Clifford (林徐達）10/28 (6:10-9pm)
 - Clifford, James
 	- 《Returns: Becoming Indigenous in the Twenty-First Century》
 	- "On Ethnographic Authority"
 	- "Introduction: Partial Truths"
-			
-## Midterm
 
 ### WEEK 9 - **Midterm Debate**
-
-## Gramsci
 
 ### WEEK 10 - Gramsci
 - Sperber, Nathan, and George Hoare
@@ -120,18 +106,14 @@ Required course for Ph.D. students. 博士班學生必修.
 
 ### WEEK 11 - No Class 全校運動會(停課一天)
 
-## Interpretive Anthropology
-
-### WEEK 12 - (林徐達) Geertz & Rabinow
+### WEEK 12 - Interpretive Anthropology (林徐達) Geertz & Rabinow
 - Geertz, Clifford
 	- 1973 *The Interpretation of Cultures: Selected Essays*. Basic Books.
 	- 納日碧力戈1999《文化的解釋》，上海：中國人民大學出版社
 - Rabinow, P and W M Sullivan.
 	- 1979 "The interpretive turn: Emergence of an approach." *Interpretive Social Science*. 1-21.
-		
-## Cultural Critique: Feminism & Postcolonialism
 
-### WEEK 13 - Feminist Critique
+### WEEK 13 - Gender
 - Mascia-Lee, Frances E., and Nancy Johnson Black. 
 	- 1999 *Gender and Anthropology*. Waveland Pr Inc.
 - Rubin, G
@@ -139,10 +121,8 @@ Required course for Ph.D. students. 博士班學生必修.
 	- 中文：張娟芬譯，1999〈交易女人：性的「政治經濟學」〉，收錄於顧燕翎、鄭至慧編，《女性主義經典》，頁167-177，台北：女書。
 - Sacks, K B
 	- 1989 "Toward a unified theory of class, race, and gender." *American Ethnologist* 16 (3): 534-550.
-		
-## Post-Structuralism
 
-### WEEK 14 - Bourdieu
+### WEEK 14 - Post-Structuralism I: Bourdieu
 - Bourdieu, Pierre
 	- 1977 *Outline of a Theory of Practice*. New York: Cambridge University Press.
 	- 中文：宋偉航譯2004《實作理論綱要》。台北：城邦。
@@ -153,7 +133,7 @@ Required course for Ph.D. students. 博士班學生必修.
 	- 1984 “Theory in Anthropology since the Sixties,” in *Culture/Power/History: A Reader in Contemporary Social Theory*. Kirks, Nicholas, G. Eley, S. B. Ortner eds. Princeton: Princeton University. pp372-411.
 	- 中文：莊孔韶主編2008《人類學經典導讀》，上海：中國人民大學出版社
 
-### WEEK 15 - Foucault
+### WEEK 15 - Post-Structuralism II: Foucault
 - Foucault, M.
 	- 1979 *Discipline and Punish: The Birth of the Prison*. New York: Vintage Books. Web.
 	- 中文：劉北成譯1992 《規訓與懲罰--監獄的誕生》，台北：桂冠
@@ -162,14 +142,10 @@ Required course for Ph.D. students. 博士班學生必修.
 	- *Suggested Readings*
 		- 2007 [1972] “The discourse on language.” Appendix: *Archaeology of Knowledge*. London ; New York: Routledge. pp 215-37.
 		- 中文：許寶強、袁偉選編2001《語言與翻譯的政治》，北京：中央編譯出版社。（英譯版本”The Order of Discourse” in Untying the Text, edited by Robert Young. London: RKP, 1981)
-	
-## Post-Colonialism
 
 ### WEEK 16 - Postcolonialism
 - Williams, Patrick, and Laura Chrisman, eds. 
 	- Colonial Discourse and Post-Colonial Theory: A Reader. Columbia University Press, 1994. (Parts 1,2, & 5)
-  
-## Neoliberalism
 
 ### WEEK 17 - Neoliberalism
 - Ortner, Sherry. 
@@ -178,8 +154,6 @@ Required course for Ph.D. students. 博士班學生必修.
 	- 2007 “Neoliberalism as Creative Destruction.” The Annals of the American Academy of Political and Social Science 610, no. 1 (March 1): 21–44.
 - Ong, Aihwa
 	- 2006 *Neoliberalism as Exception: Mutations in Citizenship and Sovereignty*. Duke University Press Books.
-    
-## Finals
 
 ### WEEK 18 (1/10) - **Final Debate**
 
