@@ -145,13 +145,13 @@ Required course for Ph.D. students. 博士班學生必修.
 	- Colonial Discourse and Post-Colonial Theory: A Reader. Columbia University Press, 1994. (Parts 1,2, & 5)
 
 ### WEEK 17 - Neoliberalism
+- Ong, Aihwa
+	- 2006 *Neoliberalism as Exception: Mutations in Citizenship and Sovereignty*. Duke University Press Books.
 - Ortner, Sherry. 
 	- 2011 “On Neoliberalism.” *Anthropology of This Century*. http://aotcpress.com/articles/neoliberalism/.
 - Harvey, David
 	- 2007 “Neoliberalism as Creative Destruction.” The Annals of the American Academy of Political and Social Science 610, no. 1 (March 1): 21–44.
-- Ong, Aihwa
-	- 2006 *Neoliberalism as Exception: Mutations in Citizenship and Sovereignty*. Duke University Press Books.
-
+	
 ### WEEK 18 (1/10) - **Final Debate**
 
 [課堂大綱 Outline][outline] [[PDF][pdf]]
