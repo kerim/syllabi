@@ -48,7 +48,7 @@ Required course for Ph.D. students. 博士班學生必修.
 		- 簡體字版：http://goo.gl/PeKfSN
 	- Harvey, David
 		- 2014《A Companion to Marx’s Capital》 
-		- 中文：跟大衛。哈維讀《資本論》簡體版
+		- 中文：《跟大衛。哈維讀《資本論》》簡體版
 
 ### WEEK 5 - Functionalism
 - Malinowski, B.
