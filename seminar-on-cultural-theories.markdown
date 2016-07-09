@@ -106,12 +106,9 @@ Required course for Ph.D. students. 博士班學生必修.
 
 ### WEEK 11 - No Class 全校運動會(停課一天)
 
-### WEEK 12 - Interpretive Anthropology (林徐達) Geertz & Rabinow
-- Geertz, Clifford
-	- 1973 *The Interpretation of Cultures: Selected Essays*. Basic Books.
-	- 納日碧力戈1999《文化的解釋》，上海：中國人民大學出版社
-- Rabinow, P and W M Sullivan.
-	- 1979 "The interpretive turn: Emergence of an approach." *Interpretive Social Science*. 1-21.
+### WEEK 12 - Interpretive Anthropology 林徐達
+- 林徐達
+	- 2015 《詮釋人類學：民族誌閱讀與書寫的交互評註》台北：桂冠。 (導讀、第一張、第二章、結論）
 
 ### WEEK 13 - Gender
 - Mascia-Lee, Frances E., and Nancy Johnson Black. 
