@@ -48,7 +48,7 @@ Required course for Ph.D. students. 博士班學生必修.
 		- 簡體字版：http://goo.gl/PeKfSN
 	- Harvey, David
 		- 2014《A Companion to Marx’s Capital》 
-		－ 中文：跟大衛。哈維讀《資本論》》簡體版
+		－ 中文：跟大衛。哈維讀《資本論》簡體版
 		
 
 ### WEEK 5 - Functionalism
@@ -89,9 +89,9 @@ Required course for Ph.D. students. 博士班學生必修.
 
 ### WEEK 8 - Special Event: James Clifford (林徐達）10/28 (6:10-9pm)
 - Clifford, James
-	- 《Returns: Becoming Indigenous in the Twenty-First Century》
-	- "On Ethnographic Authority"
-	- "Introduction: Partial Truths"
+	- 2013 *Returns: Becoming Indigenous in the Twenty-First Century*. Cambridge: Harvard University Press.
+	- 1986 “Introduction: Partial Truths.” In *Writing Culture: The Poetics and Politics of Ethnography*, edited by James Clifford and George Marcus. Berkeley: CA: University of California Press.
+	- 1983 “On Ethnographic Authority.” Representations, no. 2: 118–46.
 
 ### WEEK 9 - **Midterm Debate**
 
