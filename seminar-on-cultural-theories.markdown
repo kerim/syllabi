@@ -20,12 +20,11 @@ Required course for Ph.D. students. 博士班學生必修.
 	- （課程內容介紹，課程要求和期望，兼談中英文寫作和書目格式。)
 
 ## Political Economy
-
 - WEEK 2 - Durkheim
 	- Durkheim, Emile
 		- 1995 *The Elementary Forms of Religious Life.*  Karen E Fields trans. New York: Simon & Schuster. [Selections: Book I: Chapter 1. Book II: Chapters 6 & 7. Book III: Chapter 3 & Conclusion]
 		- 中文：芮傳明 譯 1992 《宗教生活的基本方式》，台北：桂冠。
-	- Suggested Readings
+	- *Suggested Readings*
 		- Thompson, Ken (Items with a * are for reference only. Students are not required to discuss these works)
 			- 2002 *Emile Durkheim*. New York: Routledge.
 - WEEK 3 - Weber
@@ -36,48 +35,44 @@ Required course for Ph.D. students. 博士班學生必修.
 		- 中文：顧忠華 譯 2002 《社會學的基本概念》，台北：桂冠。
 		- 1958 "Science as a vocation." *Daedalus* 87 (1): 111-134. 《學術作為一種志業》
 		- 中文：錢永祥 譯 1991 《學術與政治：韋伯選集 I》，台北：桂冠。
-	- Suggested Readings
+	- *Suggested Readings*
 		- Poggi, Gianfranco
 			- 2005 *Weber: A Short Introduction*. London: Polity Press
 - WEEK 4 - Marx
 	- Marx
 		- 1977 *Capital: A Critique of Political Economy*. New York: Vintage Books. (Volume 1) [Selections: Preface 1st edition & Postface 2nd edition, Chapter 1 (Sec. 1,2 & 4), Chapter 4, Chapters 6 & 7,  Chapter 10, Chapter 25 Sec. 1-4, Part 8 (Chs. 26-33). Appendix sections: "formal subsumption of labor under capital" and "real subsumption of labor under capital."]
 		- 中文：馬克思 2004 《資本論第一卷》，上海：人民出版社。
-	- Suggested Readings
+	- *Suggested Readings*
 		- Mandel, Ernest.
 			- 2002 *An Introduction to Marxist Economic Theory*. Chippendale, N.S.W.: Resistance Books.
 			- 中文：張乃烈譯《馬克思主義經濟學簡論》臺灣社會研究叢刊：7。台北：台研季刊社
 			- 簡體字版：http://goo.gl/PeKfSN
-- WEEK 5 - Gramsci
-	- Sperber, Nathan, and George Hoare
-		- 2015 *An Introduction to Antonio Gramsci: His Life, Thought and Legacy*. Bloomsbury Academic.
-	- Crehan, Kate A F.
-		- 2002. *Gramsci, Culture, and Anthropology*. Berkeley: University of California Press.
-	- Suggested Readings
-		- Gramsci, Antonio
-			- 1990 "Some aspects of the southern question." *Antonio Gramsci: Selections From Political Writings (1921-1926)*. Minneapolis: University of Minnesota Press. 《 南方問題札記》
-
-## Strucuralism & Functionalism   
-- WEEK 6 - Functionalism
+		- Harvey, David
+			- 2014《A Companion to Marx’s Capital》 
+			－ 中文：跟大衛。哈維讀《資本論》》簡體版
+		
+## Functionalism   
+- WEEK 5 - Functionalism
 	- Evans-Pritchard, Edward Evan
 		- 1969 *The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People*. Cambridge, UK: Oxford University Press. (Introduction, Chs. 1, 3, & 5)
 		- 中文：褚建芳譯 2002 《努爾人-對尼羅河畔一個人群的生活方式和政治制度的描述》現代人類學經典譯叢。上海：華夏。
 	- Malinowski, B.
 		- *Argonauts of the Western Pacific*. Waveland Pr Inc, 1984.(Introduction, Chs. 2-4, 6, 11-12, 14-17, & 22)
-	- Suggested Readings
+	- ＊Suggested Readings＊
 		- Stocking, George W.
 			-  “The Ethnographer’s Magic.” In *The Ethnographer’s Magic and Other Essay's in the History of Anthropology*, edited by George W. Stocking, 12–59. Wisconsin University Press, 1992.
-		
-- WEEK 7 - Levi-Strauss
+			
+## Strucuralism  
+- WEEK 6 - Levi-Strauss
 	- Levi-Strauss, Claude
-		- 1963 *Structural Anthropology*. New York: Basic Books. (Chapters 1-7, 9-13.)
+		- 1963 *Structural Anthropology*. New York: Basic Books. (Chapters 1-2, 7, 9-13.)
 		- 中文：張祖建譯 2006《列維-斯特勞斯文集: 結構人類學 1-2 》上海：中國人民大學出版社。
-	- Suggested Readings
+	- ＊Suggested Readings＊
 		- Matthews, Peter
 			- 2003 *A Short History of Structural Linguistics*. New York: Cambridge University Press
-		
-
-- WEEK 8 - The Culture Concept
+			
+## The Culture Concept   
+- WEEK 7 - The Culture Concept
 	- Abu-Lugbod, L
 		- 2006 "Writing against culture." *Feminist Anthropology: A Reader* 8:153.
 	- Asad, T
@@ -92,11 +87,38 @@ Required course for Ph.D. students. 博士班學生必修.
 	- Sapir, E. 
 		- 1924 “Culture, Genuine and Spurious.” *The American Journal of Sociology*. 
 		
+## Special Event: Clifford   
+- WEEK 8 - James Clifford (林徐達）10/28 (6:10-9pm)
+	- Clifford, James
+		- 《Returns: Becoming Indigenous in the Twenty-First Century》
+		- "On Ethnographic Authority"
+		- "Introduction: Partial Truths"
+			
 ## Midterm
 - WEEK 9 - **Midterm Debate**
 
+## Gramsci
+- WEEK 10 - Gramsci
+	- Sperber, Nathan, and George Hoare
+		- 2015 *An Introduction to Antonio Gramsci: His Life, Thought and Legacy*. Bloomsbury Academic.
+	- Crehan, Kate A F.
+		- 2002. *Gramsci, Culture, and Anthropology*. Berkeley: University of California Press.
+	- Suggested Readings
+		- Gramsci, Antonio
+			- 1990 "Some aspects of the southern question." *Antonio Gramsci: Selections From Political Writings (1921-1926)*. Minneapolis: University of Minnesota Press. 《 南方問題札記》
+
+- WEEK 11 - No Class 全校運動會(停課一天)
+
+## Interpretive Anthropology
+- WEEK 12 - (林徐達) Geertz & Rabinow
+	- Geertz, Clifford
+		- 1973. *The Interpretation of Cultures: Selected Essays*. Basic Books.
+		- 納日碧力戈1999《文化的解釋》，上海：中國人民大學出版社
+	- Rabinow, P and W M Sullivan.
+		- 1979. "The interpretive turn: Emergence of an approach." *Interpretive Social Science*. 1-21.
+		
 ## Cultural Critique: Feminism & Postcolonialism
-- WEEK 10 - Feminist Critique
+- WEEK 13 - Feminist Critique
 	- Mascia-Lee, Frances E., and Nancy Johnson Black. 
 		- 1999. *Gender and Anthropology*. Waveland Pr Inc.
 	- Rubin, G
@@ -105,22 +127,6 @@ Required course for Ph.D. students. 博士班學生必修.
 	- Sacks, K B
 		- 1989 "Toward a unified theory of class, race, and gender." *American Ethnologist* 16 (3): 534-550.
 		
-- WEEK 11 - No Class 全校運動會(停課一天)
-
-## Globalization
-- WEEK 12 - (林徐達) Appadurai
-	- Appadurai, Arjun
-		- 1996 *Modernity At Large: Cultural Dimensions of Globalization*. Minneapolis: University of Minnesota Press.
-		- 中文：鄭義愷譯2009《消失的現代性：全球化的文化向度》，台北：群學。
-  
-## Interpretive Anthropology
-- WEEK 13 - (林徐達) Geertz & Rabinow
-	- Geertz, Clifford
-		- 1973. *The Interpretation of Cultures: Selected Essays*. Basic Books.
-		- 納日碧力戈1999《文化的解釋》，上海：中國人民大學出版社
-	- Rabinow, P and W M Sullivan.
-		- 1979. "The interpretive turn: Emergence of an approach." *Interpretive Social Science*. 1-21.
-    
 ## Post-Structuralism
 - WEEK 14 - Bourdieu
 	- Bourdieu, Pierre
@@ -142,7 +148,7 @@ Required course for Ph.D. students. 博士班學生必修.
 			- 2007 [1972] “The discourse on language.” Appendix: *Archaeology of Knowledge*. London ; New York: Routledge. pp 215-37.
 			- 中文：許寶強、袁偉選編2001《語言與翻譯的政治》，北京：中央編譯出版社。（英譯版本”The Order of Discourse” in Untying the Text, edited by Robert Young. London: RKP, 1981)
 		
-    
+## Post-Colonialism
 - WEEK 16 - Postcolonialism
 	- Williams, Patrick, and Laura Chrisman, eds. 
 		- Colonial Discourse and Post-Colonial Theory: A Reader. Columbia University Press, 1994. (Parts 1,2, & 5)
