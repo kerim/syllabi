@@ -134,7 +134,7 @@ Required course for Ph.D. students. 博士班學生必修.
 - Foucault, M.
 	- 1979 *Discipline and Punish: The Birth of the Prison*. New York: Vintage Books. Web.
 	- 中文：劉北成譯1992 《規訓與懲罰--監獄的誕生》，台北：桂冠
-	- 2012 The History of Sexuality: An Introduction: 1. Reissue edition. Vintage, .
+	- 2012 *The History of Sexuality: An Introduction* Vintage, .
 	- 1991 "Questions of method." in *The Foucault Effect: Studies in Governmental Nationality : With Two Lectures by and An Interview with Michel Foucault*. G Burchell, C Gordon, and P M Miller eds. 1991. London: Harvester Wheatsheaf. pp. 73-86.
 	- *Suggested Readings*
 		- 2007 [1972] “The discourse on language.” Appendix: *Archaeology of Knowledge*. London ; New York: Routledge. pp 215-37.
@@ -142,7 +142,7 @@ Required course for Ph.D. students. 博士班學生必修.
 
 ### WEEK 16 - Postcolonialism
 - Williams, Patrick, and Laura Chrisman, eds. 
-	- Colonial Discourse and Post-Colonial Theory: A Reader. Columbia University Press, 1994. (Parts 1,2, & 5)
+	- *Colonial Discourse and Post-Colonial Theory: A Reader*. Columbia University Press, 1994. (Parts 1,2, & 5)
 
 ### WEEK 17 - Neoliberalism
 - Ong, Aihwa
