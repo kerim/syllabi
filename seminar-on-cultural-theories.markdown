@@ -53,11 +53,11 @@ Required course for Ph.D. students. 博士班學生必修.
 		
 ## Functionalism   
 - WEEK 5 - Functionalism
+	- Malinowski, B.
+		- *Argonauts of the Western Pacific*. Waveland Pr Inc, 1984.(Introduction, Chs. 2-4, 6, 11-12, 14-17, & 22)
 	- Evans-Pritchard, Edward Evan
 		- 1969 *The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People*. Cambridge, UK: Oxford University Press. (Introduction, Chs. 1, 3, & 5)
 		- 中文：褚建芳譯 2002 《努爾人-對尼羅河畔一個人群的生活方式和政治制度的描述》現代人類學經典譯叢。上海：華夏。
-	- Malinowski, B.
-		- *Argonauts of the Western Pacific*. Waveland Pr Inc, 1984.(Introduction, Chs. 2-4, 6, 11-12, 14-17, & 22)
 	- ＊Suggested Readings＊
 		- Stocking, George W.
 			-  “The Ethnographer’s Magic.” In *The Ethnographer’s Magic and Other Essay's in the History of Anthropology*, edited by George W. Stocking, 12–59. Wisconsin University Press, 1992.
@@ -67,6 +67,9 @@ Required course for Ph.D. students. 博士班學生必修.
 	- Levi-Strauss, Claude
 		- 1963 *Structural Anthropology*. New York: Basic Books. (Chapters 1-2, 7, 9-13.)
 		- 中文：張祖建譯 2006《列維-斯特勞斯文集: 結構人類學 1-2 》上海：中國人民大學出版社。
+	- Leach, Edmund. 
+		- 1973. “Structuralism in Social Anthropology.” *Structuralism: An Introduction*, 37–56.
+		- 1969 “Genesis as Myth.” In *Genesis as Myth and Other Essays*, edited by Edmund Leach, 7–25. London: Cape.
 	- ＊Suggested Readings＊
 		- Matthews, Peter
 			- 2003 *A Short History of Structural Linguistics*. New York: Cambridge University Press
