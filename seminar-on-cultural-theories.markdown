@@ -15,7 +15,7 @@ Required course for Ph.D. students. 博士班學生必修.
 ## 課堂大綱 Course Outline (105-1)
 
 ### WEEK 1 - Introduction
-	- （課程內容介紹，課程要求和期望，兼談中英文寫作和書目格式。)
+- （課程內容介紹，課程要求和期望，兼談中英文寫作和書目格式。)
 
 ### WEEK 2 - Political Economy I: Durkheim 
 - Durkheim, Emile
