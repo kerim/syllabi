@@ -67,7 +67,7 @@ Required course for Ph.D. students. 博士班學生必修.
 		- 1963 *Structural Anthropology*. New York: Basic Books. (Chapters 1-2, 7, 9-13.)
 		- 中文：張祖建譯 2006《列維-斯特勞斯文集: 結構人類學 1-2 》上海：中國人民大學出版社。
 	- Leach, Edmund. 
-		- 1973. “Structuralism in Social Anthropology.” *Structuralism: An Introduction*, 37–56.
+		- 1973 “Structuralism in Social Anthropology.” *Structuralism: An Introduction*, 37–56.
 		- 1969 “Genesis as Myth.” In *Genesis as Myth and Other Essays*, edited by Edmund Leach, 7–25. London: Cape.
 	- *Suggested Readings*
 		- Matthews, Peter
@@ -78,7 +78,7 @@ Required course for Ph.D. students. 博士班學生必修.
 	- Abu-Lugbod, L
 		- 2006 "Writing against culture." *Feminist Anthropology: A Reader* 8:153.
 	- Asad, T
-		- 1986. "The concept of cultural translation in british social anthropology." *Writing Culture: The Poetics and Politics of Ethnography* 1:141-164.
+		- 1986 "The concept of cultural translation in british social anthropology." *Writing Culture: The Poetics and Politics of Ethnography* 1:141-164.
 		- 中文：高丙中 吳曉黎 李霞 等2008《寫文化︰民族志的詩學與政治學》，北京：商務印書館。
 	- Sahlins, M
 		- 1999 “Two or three things that I know about culture.” *The Journal of the Royal Anthropological Institute* 5 (3): 399-421.
@@ -104,7 +104,7 @@ Required course for Ph.D. students. 博士班學生必修.
 	- Sperber, Nathan, and George Hoare
 		- 2015 *An Introduction to Antonio Gramsci: His Life, Thought and Legacy*. Bloomsbury Academic.
 	- Crehan, Kate A F.
-		- 2002. *Gramsci, Culture, and Anthropology*. Berkeley: University of California Press.
+		- 2002 *Gramsci, Culture, and Anthropology*. Berkeley: University of California Press.
 	- *Suggested Readings*
 		- Gramsci, Antonio
 			- 1990 "Some aspects of the southern question." *Antonio Gramsci: Selections From Political Writings (1921-1926)*. Minneapolis: University of Minnesota Press. 《 南方問題札記》
@@ -114,15 +114,15 @@ Required course for Ph.D. students. 博士班學生必修.
 ## Interpretive Anthropology
 - WEEK 12 - (林徐達) Geertz & Rabinow
 	- Geertz, Clifford
-		- 1973. *The Interpretation of Cultures: Selected Essays*. Basic Books.
+		- 1973 *The Interpretation of Cultures: Selected Essays*. Basic Books.
 		- 納日碧力戈1999《文化的解釋》，上海：中國人民大學出版社
 	- Rabinow, P and W M Sullivan.
-		- 1979. "The interpretive turn: Emergence of an approach." *Interpretive Social Science*. 1-21.
+		- 1979 "The interpretive turn: Emergence of an approach." *Interpretive Social Science*. 1-21.
 		
 ## Cultural Critique: Feminism & Postcolonialism
 - WEEK 13 - Feminist Critique
 	- Mascia-Lee, Frances E., and Nancy Johnson Black. 
-		- 1999. *Gender and Anthropology*. Waveland Pr Inc.
+		- 1999 *Gender and Anthropology*. Waveland Pr Inc.
 	- Rubin, G
 		- 2006 "The traffic in women: Notes on the political economy of sex.". *Feminist Anthropology: A Reader*. E. Lewin ed. Oxford: Wiley-Blackwell.
 		- 中文：張娟芬譯，1999〈交易女人：性的「政治經濟學」〉，收錄於顧燕翎、鄭至慧編，《女性主義經典》，頁167-177，台北：女書。
