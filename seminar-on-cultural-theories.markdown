@@ -17,12 +17,12 @@ Required course for Ph.D. students. 博士班學生必修.
 ### WEEK 1 - Introduction
 - （課程內容介紹，課程要求和期望，兼談中英文寫作和書目格式。)
 
-### WEEK 2 - Political Economy I: Durkheim 
+### WEEK 2 - Political Economy I: Durkheim
 - Durkheim, Emile
 	- 1995 *The Elementary Forms of Religious Life.*  Karen E Fields trans. New York: Simon & Schuster. [Selections: Book I: Chapter 1. Book II: Chapters 6 & 7. Book III: Chapter 3 & Conclusion]
 	- 中文：芮傳明 譯 1992 《宗教生活的基本方式》，台北：桂冠。
 - *Suggested Readings* (Strongly recommended, but students are not required to discuss these works.)
-	- Thompson, Ken 
+	- Thompson, Ken
 		- 2002 *Emile Durkheim*. New York: Routledge.
 
 ### WEEK 3 - Political Economy II: Weber
@@ -47,7 +47,7 @@ Required course for Ph.D. students. 博士班學生必修.
 		- 中文：張乃烈譯《馬克思主義經濟學簡論》臺灣社會研究叢刊：7。台北：台研季刊社
 		- 簡體字版：http://goo.gl/PeKfSN
 	- Harvey, David
-		- 2014《A Companion to Marx’s Capital》 
+		- 2014《A Companion to Marx’s Capital》
 		- 中文：《跟大衛。哈維讀《資本論》》簡體版
 
 ### WEEK 5 - Functionalism
@@ -60,11 +60,11 @@ Required course for Ph.D. students. 博士班學生必修.
 	- Stocking, George W.
 		-  “The Ethnographer’s Magic.” In *The Ethnographer’s Magic and Other Essay's in the History of Anthropology*, edited by George W. Stocking, 12–59. Wisconsin University Press, 1992.
 
-### WEEK 6 - Strucuralism
+### WEEK 6 - Structuralism
 - Levi-Strauss, Claude
 	- 1963 *Structural Anthropology*. New York: Basic Books. (Chapters 1-2, 7, 9-13.)
 	- 中文：張祖建譯 2006《列維-斯特勞斯文集: 結構人類學 1-2 》上海：中國人民大學出版社。
-- Leach, Edmund. 
+- Leach, Edmund.
 	- 1973 “Structuralism in Social Anthropology.” *Structuralism: An Introduction*, 37–56.
 	- 1969 “Genesis as Myth.” In *Genesis as Myth and Other Essays*, edited by Edmund Leach, 7–25. London: Cape.
 - *Suggested Readings*
@@ -79,14 +79,14 @@ Required course for Ph.D. students. 博士班學生必修.
 	- 中文：高丙中 吳曉黎 李霞 等2008《寫文化︰民族志的詩學與政治學》，北京：商務印書館。
 - Sahlins, M
 	- 1999 “Two or three things that I know about culture.” *The Journal of the Royal Anthropological Institute* 5 (3): 399-421.
-- Gupta, Akhil, and James Ferguson. 
+- Gupta, Akhil, and James Ferguson.
 	- 1992 “Beyond ‘culture’: Space, Identity, and the Politics of Difference.” *Cultural Anthropology* 7, no. 1: 6–23.
-- Stocking, George W. 
+- Stocking, George W.
 	- 1966 “Franz Boas and the Culture Concept in Historical Perspective.” *American Anthropologist* 68, no. 4: 867–82.
-- Sapir, E. 
+- Sapir, E.
 	- 1924 “Culture, Genuine and Spurious.” *The American Journal of Sociology*.   
 
-### WEEK 8 - Special Event: James Clifford (林徐達）10/28 (6:10-9pm)
+### WEEK 8 - Special Event: James Clifford (林徐達）10/21 & 10/28 (6:10-9pm)
 - Clifford, James
 	- 2013 *Returns: Becoming Indigenous in the Twenty-First Century*. Cambridge: Harvard University Press.
 	- 1986 “Introduction: Partial Truths.” In *Writing Culture: The Poetics and Politics of Ethnography*, edited by James Clifford and George Marcus. Berkeley: CA: University of California Press.
@@ -110,7 +110,7 @@ Required course for Ph.D. students. 博士班學生必修.
 	- 2015 《詮釋人類學：民族誌閱讀與書寫的交互評註》台北：桂冠。 (導讀、第一張、第二章、結論）
 
 ### WEEK 13 - Gender
-- Mascia-Lee, Frances E., and Nancy Johnson Black. 
+- Mascia-Lee, Frances E., and Nancy Johnson Black.
 	- 1999 *Gender and Anthropology*. Waveland Pr Inc.
 - Rubin, G
 	- 2006 "The traffic in women: Notes on the political economy of sex.". *Feminist Anthropology: A Reader*. E. Lewin ed. Oxford: Wiley-Blackwell.
@@ -140,17 +140,17 @@ Required course for Ph.D. students. 博士班學生必修.
 		- 中文：許寶強、袁偉選編2001《語言與翻譯的政治》，北京：中央編譯出版社。（英譯版本”The Order of Discourse” in Untying the Text, edited by Robert Young. London: RKP, 1981)
 
 ### WEEK 16 - Postcolonialism
-- Williams, Patrick, and Laura Chrisman, eds. 
+- Williams, Patrick, and Laura Chrisman, eds.
 	- *Colonial Discourse and Post-Colonial Theory: A Reader*. Columbia University Press, 1994. (Parts 1,2, & 5)
 
 ### WEEK 17 - Neoliberalism
 - Ong, Aihwa
 	- 2006 *Neoliberalism as Exception: Mutations in Citizenship and Sovereignty*. Duke University Press Books.
-- Ortner, Sherry. 
+- Ortner, Sherry.
 	- 2011 “On Neoliberalism.” *Anthropology of This Century*. http://aotcpress.com/articles/neoliberalism/.
 - Harvey, David
 	- 2007 “Neoliberalism as Creative Destruction.” The Annals of the American Academy of Political and Social Science 610, no. 1 (March 1): 21–44.
-	
+
 ### WEEK 18 (1/10) - **Final Debate**
 
 [課堂大綱 Outline][outline] [[PDF][pdf]]
