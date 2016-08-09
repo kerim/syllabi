@@ -71,12 +71,13 @@ Students are encouraged to use their own equipment if they have any. There is al
 
 * [課堂大綱 Outline](https://docs.google.com/spreadsheets/d/1ROvBzoLaua1e9djX7xAMrp58H0xC2AuApbhPYc3Cs20/pubhtml?gid=0&single=true) [[PDF](https://docs.google.com/spreadsheets/d/1ROvBzoLaua1e9djX7xAMrp58H0xC2AuApbhPYc3Cs20/pub?gid=0&single=true&output=pdf)]
 * [學生作品 Selected film projects]({{site.baseurl}}/student-films)
-* [多媒體器材 Equipment List][http://www.erc.ndhu.edu.tw/files/13-1048-37498.php]
+* [多媒體器材 Equipment List](http://www.erc.ndhu.edu.tw/files/13-1048-37498.php)
 
-\{% include instructor.markdown %}
+{% include instructor.markdown %}
 
 
-\{% include grading-culturaltheory.markdown %}
-\{% include cc.markdown %}
+{% include grading-culturaltheory.markdown %}
+{% include cc.markdown %}
+
 
 
