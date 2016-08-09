@@ -76,7 +76,7 @@ Students are encouraged to use their own equipment if they have any. There is al
 {% include instructor.markdown %}
 
 
-{% include grading-culturaltheory.markdown %}
+{% include grading-visualproduction.markdown %}
 {% include cc.markdown %}
 
 
