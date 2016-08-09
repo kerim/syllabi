@@ -69,13 +69,14 @@ Students are encouraged to use their own equipment if they have any. There is al
 - Assignment: FP: Final Cut
 
 
-[課堂大綱 Outline](https://docs.google.com/spreadsheets/d/1ROvBzoLaua1e9djX7xAMrp58H0xC2AuApbhPYc3Cs20/pubhtml?gid=0&single=true) [[PDF](https://docs.google.com/spreadsheets/d/1ROvBzoLaua1e9djX7xAMrp58H0xC2AuApbhPYc3Cs20/pub?gid=0&single=true&output=pdf)]
-
+* [課堂大綱 Outline](https://docs.google.com/spreadsheets/d/1ROvBzoLaua1e9djX7xAMrp58H0xC2AuApbhPYc3Cs20/pubhtml?gid=0&single=true) [[PDF](https://docs.google.com/spreadsheets/d/1ROvBzoLaua1e9djX7xAMrp58H0xC2AuApbhPYc3Cs20/pub?gid=0&single=true&output=pdf)]
 * [學生作品 Selected film projects]({{site.baseurl}}/student-films)
-* [多媒體器材 Equipment List][equipment_list]
+* [多媒體器材 Equipment List][http://www.erc.ndhu.edu.tw/files/13-1048-37498.php]
 
-[syllabus]:https://docs.google.com/document/d/1SyWAi0sJ4CkCnDMglL8dubPHN1RHTC2plYVBTA2vhpk/pub
-[course_outline]:https://docs.google.com/spreadsheet/pub?key=0AlIzY9pLiJVZdGJ6Rm1YaGp6ZE05b2YzZkVTSWhUSHc&single=true&gid=0&output=html
+\{% include instructor.markdown %}
 
-[equipment_list]:http://www.erc.ndhu.edu.tw/files/13-1048-37498.php
+
+\{% include grading-culturaltheory.markdown %}
+\{% include cc.markdown %}
+
 
