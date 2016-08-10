@@ -24,57 +24,57 @@ Students are encouraged to use their own equipment if they have any. There is al
 ## Course Outline
 
 1. Image ethics
-- Text: Nichols Ch 1 (中文)
-- Film: "Voices of Orchid Island/蘭嶼觀點 (73)
-- Assignment: Final Project (FP): Topic Statement
+- 閱讀： Nichols Ch 1 (中文)
+- 電影： "Voices of Orchid Island/蘭嶼觀點 (73)
+- 作業： Final Project (FP): Topic Statement
 2. Intro to Documentary & The Expository Mode
-- Text: Nichols Ch 2 & 6 (中文)
-- Film: Night & Fog/夜與霧 (32)
+- 閱讀： Nichols Ch 2 & 6 (中文)
+- 電影： Night & Fog/夜與霧 (32)
 3. Observational Mode
-- Text: MacDougal - Ch. 4 (中文)
-- Film: Umbrella/傘 (20min clip)
-- Assignment: FP: Revised Statement
+- 閱讀： MacDougal - Ch. 4 (中文)
+- 電影： Umbrella/傘 (20min clip)
+- 作業： FP: Revised Statement
 4. Participatory Mode
-- Text: Ruby-Speaking For, Speaking With
-- Film: Chronique d'un été/夏日編年紀事 (85)
+- 閱讀： Ruby-Speaking For, Speaking With
+- 電影： Chronique d'un été/夏日編年紀事 (85)
 5. Reflexive Mode
-- Text: Siden - A Circle of Looks
-- Text: 鄭明河 - 再一次集結（文字檔）
-- Film: Reassemblage/再一次集結 (40)
-- Assignment: Homework (HW): Observational
+- 閱讀： Siden - A Circle of Looks
+- 閱讀： 鄭明河 - 再一次集結（文字檔）
+- 電影： Reassemblage/再一次集結 (40)
+- 作業： Homework (HW): Observational
 6. Interviewing I
-- Text: Rabinger - Ch. 24 (中文第8章)
-- Film: Thin Blue Line/正義難伸 (103)
+- 閱讀： Rabinger - Ch. 24 (中文第8章)
+- 電影： Thin Blue Line/正義難伸 (103)
 7. Interviewing II
-- Text: Bernard - Ch. 8
-- Assignment: HW: Interview
+- 閱讀： Bernard - Ch. 8
+- 作業： HW: Interview
 8. No class
-- Assignment: FP: Finish principle shooting
+- 作業： FP: Finish principle shooting
 9. Editing I
-- Text: Rabinger - Ch. 29-30 (中文第12-13章)
-- Film: The Cutting Edge (98)
-- Assignment: HW: Reflexive
+- 閱讀： Rabinger - Ch. 29-30 (中文第12-13章)
+- 電影： The Cutting Edge (98)
+- 作業： HW: Reflexive
 10. Editing II
-- Text: Rabinger - Ch. 31-32 (中文第14-15章)
-- Assignment: FP: Log Footage
+- 閱讀： Rabinger - Ch. 31-32 (中文第14-15章)
+- 作業： FP: Log Footage
 11. Editing III
-- Text: Rabinger - Ch. 33-34 (中文第16-17章)
+- 閱讀： Rabinger - Ch. 33-34 (中文第16-17章)
 12. Ethnographic Film I
-- Text: Loizos—Chapters 1 & 2
-- Film: Dead Birds/死鳥 (84)
-- Assignment: FP: Transcribe Interviews
+- 閱讀： Loizos—Chapters 1 & 2
+- 電影： Dead Birds/死鳥 (84)
+- 作業： FP: Transcribe Interviews
 13. Ethnographic Film II
-- Text: Friedman - Collaborating Against Ethnography
-- Film: Please Don't Beat Me, Sir!/請別打我，長官！ (75)
+- 閱讀： Friedman - Collaborating Against Ethnography
+- 電影： Please Don't Beat Me, Sir!/請別打我，長官！ (75)
 14. Ethnographic Film III
-- Film: TBA
-- Assignment: FP: Paper Edit
+- 電影： TBA
+- 作業： FP: Paper Edit
 15. Workshop Final Projects
-- Assignment: FP: Scene Selections
+- 作業： FP: Scene Selections
 16. Final Projects I
-- Assignment: FP: First Cut
+- 作業： FP: First Cut
 17. Final Projects II
-- Assignment: FP: Final Cut
+- 作業： FP: Final Cut
 
 
 * [課堂大綱 Outline](https://docs.google.com/spreadsheets/d/1ROvBzoLaua1e9djX7xAMrp58H0xC2AuApbhPYc3Cs20/pubhtml?gid=0&single=true) [[PDF](https://docs.google.com/spreadsheets/d/1ROvBzoLaua1e9djX7xAMrp58H0xC2AuApbhPYc3Cs20/pub?gid=0&single=true&output=pdf)]
