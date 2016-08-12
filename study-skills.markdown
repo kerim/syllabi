@@ -15,20 +15,20 @@ warn: Spring 2014
 ## 課堂大綱 Course Outline (104學年上學期)
 
 
-1. **課程介紹：大學學什麼?你大學生了嗎? What do I want from University?** 
-2. **如何與他人共學合作 Working with Others** (葉)
-3. **社會科學家思考（與閱讀）的方式 How social scientists think (and read)** (傅)
+1. **課程介紹：大學學什麼？你大學生了嗎？ What do I want from university?** 
+2. **如何與他人共學合作 Working with Others: Personal and Communication Skills** (葉)
+3. **社會科學家思考的方式 How social scientists think** (傅)
 4. **閱讀技巧：做個聰明的讀者 Reading Techniques: Be a Smart Reader** 
 5. **研究技巧：圖書館導覽與資料蒐集 Research Skills: Making the Most of the Library** (葉、陳昱佐老師)
 6. **繳交作業（一）+分組討論** 
-7. **如何避免抄襲與正確的引用文獻與書目** (葉)
+7. **如何避免抄襲與正確的引用文獻與書目 Plagiarism & References** (葉)
 8. **作業+分組討論（二）**
 9. **期中考周 (自我學習/小組時間)**
 10. **PowerPoint Dos and Don'ts** (傅)
 11. **運動會-停課**
 12. **口頭報告技巧 Mastering oral presentations** (葉)
 13. **作業+分組討論（三）**
-14. **Lifehacking for Students** (傅)
+14. **學生的生活小技巧 Lifehacking for Students** (傅)
 15. **小組討論**
 16. **期末報告（一）**
 17. **期末報告（二）**
