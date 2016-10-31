@@ -47,7 +47,7 @@ Students are encouraged to use their own equipment if they have any. There is al
 - 閱讀： Rabinger - Ch. 24 (中文第8章)
 - 電影： Thin Blue Line/正義難伸 (103)
 8. Interviewing II
-- 閱讀： Bernard - Ch. 9
+- 閱讀： Bernard - Ch. 9 (210-227)
 - 作業： HW: Interview
 9. No class
 - 作業： FP: Finish principle shooting
