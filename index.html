@@ -1,0 +1,57 @@
+---
+layout: default
+title: Home
+published: true
+---
+
+<div class="home">
+<div class="posts">
+	
+<p>This page contains syllabi for coureses taught by <a href="http://kerim.oxus.net/">P. Kerim Friedman</a>, an associate professor in the <a href="http://www.erc.ndhu.edu.tw/">Department of Ethnic Relations and Cultures</a>, at <a href="http://www.ndhu.edu.tw/bin/home.php?Lang=en">National Dong Hwa University</a> in Taiwan. 這個網頁有傅可恩老師的課程大綱。<a href="http://kerim.oxus.net/chinese">傅老師</a>是花蓮國立東華大學<a href="http://www.erc.ndhu.edu.tw/">族群關係與文化學系</a>的副教授。</p>
+
+<h2>General Information</h2>
+
+<ul>
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "general_info" %}
+            <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+    <ul>{{node.notes}}</ul>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+ </ul>
+ 
+ <h2>研究所 Graduate Courses</h2>
+
+<ul>
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "graduate_courses" %}
+  <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li> 
+  <ul>{{node.notes}}</ul>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+ </ul>
+ 
+ <h2>大學系 Undergraduate Courses</h2>
+
+<ul>
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "undergraduate_courses" %}
+            <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+    <ul>{{node.notes}}</ul>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+ </ul>
+ 
+ <a href="{{ site.baseurl }}/files">Link to Files</a>
+	 
+</div>
+</div>
