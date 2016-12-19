@@ -122,7 +122,7 @@ This course seeks to introduce graduate students to the basic concepts and metho
 {% include instructor.markdown %}
 
 
-{% include grading-linguisticanthropoology.markdown %}
+{% include grading-linguisticanthropology.markdown %}
 {% include cc.markdown %}
 
 [outline]:https://docs.google.com/spreadsheet/pub?key=0AlIzY9pLiJVZdGVjUzhRUzRIYS1RQndlSWRnZ01JM3c&single=true&gid=0&output=html
