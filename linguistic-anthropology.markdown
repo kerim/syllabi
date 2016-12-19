@@ -105,7 +105,7 @@ This course seeks to introduce graduate students to the basic concepts and metho
 - Urciuoli, Bonnie. "The Political Topography of Spanish and English: The View From a New York Puerto Rican Neighborhood." *American Ethnologist* 18.2 (1991): 295-310. 
 - Wei, Jennifer MY. "Codeswitching in Campaigning Discourse: The Case of Taiwanese President Chen Shui-bian." *Language and Linguistics* 4.1 (2003): 139-156. 
 
-§ = Recommended Readings
+§ = 推薦書籍 Recommended Readings
 
 [課堂大綱XLS檔案][outline]([下載PDF版本][outline_pdf])
 
