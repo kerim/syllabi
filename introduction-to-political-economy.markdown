@@ -41,7 +41,7 @@ This course draws on economic anthropology, development studies, social history,
     * 楊美惠 Yang, Mayfair M. 《禮物,關係學,與國家》 Gifts, Favors, and Banquets: The Art of Social Relationships in China. Ithica: Cornell University Press, 1994. (Chapter 3)
 15. **家庭裡的資本主義**
     * Lan, P C. Global Cinderellas: Migrant Domestics and Newly Rich Employers in Taiwan. Durham: Duke Univ. Press, 2006. 藍佩嘉 《跨國灰姑娘》第二章與第三章
-    *《資本主義沒告訴你》件事4
+    * 《資本主義沒告訴你》件事4
 16. **端午節(放假)**	
 17. **資本主義的迷思**
     《資本主義沒告訴你的23件事》件事1,5,7,13,16,20,22
