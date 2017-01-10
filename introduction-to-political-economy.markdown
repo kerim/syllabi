@@ -12,43 +12,41 @@ This course draws on economic anthropology, development studies, social history,
 
 ## 課堂大綱 Course Outline (104學年上學期)
 
-1. **Course Overview**    
+1. **課程介紹**    
     * Introduce syllabus, topic, & expectations for student work.
-2. **Capitalism**
-    * 《資本主義沒告訴你的23件事》件事1,4,5,7,8,13,16,18,20,22
-3. **Slavery**
-    * 《Empire of Cotton》Ch. 5 "Slavery Takes Command"
-4. **Film**
-    * 《自由之心
-5. **Labor**
-    * 《Empire of Cotton》Ch. 7 "Mobilizing Industrial Labor"
-6. **Reconstruction**
-    * 《Empire of Cotton》Ch. 10 "Global Reconstruction"
-7. **Destruction**
-    * 《Empire of Cotton》Ch. 11 "Destructions"
-8. **Women and "Globalization"**
+2. **族群關係與政治經濟學**
+    * Wolfe, Patrick. “Race and Citizenship.” *OAH Magazine of History* 18, no. 5 (2004): 66–71.
+3. **和平紀念日（放假）**
+4. **電影**
+    * 《自由之心》
+5. **傳統產業與戰爭資本主義**
+    * 《Empire of Cotton》第一章與第二章
+6. **土地與勞力**
+    * 《Empire of Cotton》第四章與第五章
+7. **工業化與帝國主義**
+    * 《Empire of Cotton》第七章與 Beckert, Sven. “Emancipation and Empire: Reconstructing the Worldwide Web of Cotton Production in the Age of the American Civil War.” *The American Historical Review* 109, no. 5 (2004): 1405–38.
+8. **民族掃墓節（放假）**
     * 藍佩嘉 Lan, P C. 《跨國灰姑娘》 Global Cinderellas: Migrant Domestics and Newly Rich Employers in Taiwan. Durham: Duke Univ. Press, 2006. (Chapters 2 & 3)    《跨國灰姑娘》
 9. **期中考試**
-10. **Film**
-    * [Film] TBA
-11. **新自由主義**
-    * 哈維 Harvey, David. 《新自由主義簡史》 A Brief History of Neoliberalism. New York: Oxford University Press, 2005.
-    (Chapter 1)
-12. **Economic Morality**
+10. **Economic Morality**
     * 格雷伯，《債︰第一個5000年》第二章 《以物易物的經濟學神話》
-13. **庫拉圈**
+11. **庫拉圈**
     * 馬凌諾斯基 Malinowski, Bronislaw. 1920. "Kula; the Circulating Exchange of Valuables in the Archipelagoes of Eastern New Guinea." In Man. Vol. 20:97-105.《庫拉圈》
-14. **Money**
-    * "The Impact of Money on an African…"
-15. **關係學**
+12. **原住民發展（吳明季代課）**
+    * Curry, George N. “Moving Beyond Postdevelopment: Facilitating Indigenous Alternatives for ‘Development.’” Economic Geography 79, no. 4 (October 1, 2003): 405–23.
+13. **電影**
+    * 《大賣空》
+14. **關係學**
     * 楊美惠 Yang, Mayfair M. 《禮物,關係學,與國家》 Gifts, Favors, and Banquets: The Art of Social Relationships in China. Ithica: Cornell University Press, 1994. (Chapter 3)
+15. **家庭裡的資本主義**
+    * Lan, P C. Global Cinderellas: Migrant Domestics and Newly Rich Employers in Taiwan. Durham: Duke Univ. Press, 2006. 藍佩嘉 《跨國灰姑娘》第二章與第三章與《資本主義沒告訴你》件事4
 16. **端午節(放假)**	
-17. **Alternatives (吳明季)**
-    * Nash, June. "Indigenous Development Alternatives." Urban Anthropology and Studies of Cultural Systems and World Economic Development (2003): 57-98.
+17. **資本主義的迷思**
+    《資本主義沒告訴你的23件事》件事1,5,7,13,16,20,22
 18. **期末考試**
 
 
-[課堂大綱XLS檔案](https://docs.google.com/spreadsheets/d/1dGlTQcOMS2agFvcLAViTPMQDf6zBNREX3aey5x7VMQ0/pubhtml?gid=0&single=true) ([下載PDF版本](https://docs.google.com/spreadsheets/d/1dGlTQcOMS2agFvcLAViTPMQDf6zBNREX3aey5x7VMQ0/pub?gid=0&single=true&output=pdf))
+[課堂大綱XLS檔案](https://docs.google.com/spreadsheets/d/1uhmHrMfOyv9KZd0SPce6YuL5wlhGIpzgvaE_TkS3DvU/pubhtml?gid=0&single=true) ([下載PDF版本](https://docs.google.com/spreadsheets/d/1uhmHrMfOyv9KZd0SPce6YuL5wlhGIpzgvaE_TkS3DvU/pub?gid=0&single=true&output=pdf))
 
 
 ## Course Info
@@ -64,7 +62,7 @@ This course draws on economic anthropology, development studies, social history,
 {% include instructor.markdown %}
 
 ### TA 助教
-* 課程助教: 吳明季 falahan.kiwit@gmail.com
+* 課程助教: 谷拉斯•吾木 kulasumo1985@gmail.com
 
 {% include grading.markdown %}
 {% include cc.markdown %}
