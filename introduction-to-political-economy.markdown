@@ -24,7 +24,8 @@ This course draws on economic anthropology, development studies, social history,
 6. **土地與勞力**
     * 《Empire of Cotton》第四章與第五章
 7. **工業化與帝國主義**
-    * 《Empire of Cotton》第七章與 Beckert, Sven. “Emancipation and Empire: Reconstructing the Worldwide Web of Cotton Production in the Age of the American Civil War.” *The American Historical Review* 109, no. 5 (2004): 1405–38.
+    * 《Empire of Cotton》第七章
+    * Beckert, Sven. “Emancipation and Empire: Reconstructing the Worldwide Web of Cotton Production in the Age of the American Civil War.” *The American Historical Review* 109, no. 5 (2004): 1405–38.
 8. **民族掃墓節（放假）**
     * 藍佩嘉 Lan, P C. 《跨國灰姑娘》 Global Cinderellas: Migrant Domestics and Newly Rich Employers in Taiwan. Durham: Duke Univ. Press, 2006. (Chapters 2 & 3)    《跨國灰姑娘》
 9. **期中考試**
@@ -39,7 +40,8 @@ This course draws on economic anthropology, development studies, social history,
 14. **關係學**
     * 楊美惠 Yang, Mayfair M. 《禮物,關係學,與國家》 Gifts, Favors, and Banquets: The Art of Social Relationships in China. Ithica: Cornell University Press, 1994. (Chapter 3)
 15. **家庭裡的資本主義**
-    * Lan, P C. Global Cinderellas: Migrant Domestics and Newly Rich Employers in Taiwan. Durham: Duke Univ. Press, 2006. 藍佩嘉 《跨國灰姑娘》第二章與第三章與《資本主義沒告訴你》件事4
+    * Lan, P C. Global Cinderellas: Migrant Domestics and Newly Rich Employers in Taiwan. Durham: Duke Univ. Press, 2006. 藍佩嘉 《跨國灰姑娘》第二章與第三章
+    *《資本主義沒告訴你》件事4
 16. **端午節(放假)**	
 17. **資本主義的迷思**
     《資本主義沒告訴你的23件事》件事1,5,7,13,16,20,22
