@@ -27,7 +27,6 @@ This course draws on economic anthropology, development studies, social history,
     * 《Empire of Cotton》第七章
     * Beckert, Sven. “Emancipation and Empire: Reconstructing the Worldwide Web of Cotton Production in the Age of the American Civil War.” *The American Historical Review* 109, no. 5 (2004): 1405–38.
 8. **民族掃墓節（放假）**
-    * 藍佩嘉 Lan, P C. 《跨國灰姑娘》 Global Cinderellas: Migrant Domestics and Newly Rich Employers in Taiwan. Durham: Duke Univ. Press, 2006. (Chapters 2 & 3)    《跨國灰姑娘》
 9. **期中考試**
 10. **Economic Morality**
     * 格雷伯，《債︰第一個5000年》第二章 《以物易物的經濟學神話》
