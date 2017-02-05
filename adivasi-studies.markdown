@@ -10,7 +10,7 @@ Adivasi研究探索印度原住民人口的歷史、文化、語言與傳統。�
 
 Adivasi Studies explores the history, culture, languages and traditions of India’s indigenous population. Over eight percent of India’s one billion people are Adivasis, but their story has only recently begun to be told. After exploring the early history of Adivasi encounters with the rest of Indian society, the course then looks at how the colonial encounter shaped Adivasi identity, finally turning to recent events, including the Adivasi right movement, and the impact of globalization. Particular attention will be paid to the so-called De-notified and Nomadic Tribes or DNTs, and their struggles.
 
-## 課堂大綱 Course Outline (102學年下學期)
+## 課堂大綱 Course Outline (105學年下學期)
 
 1. **Course introduction**
  * Gond Ramanyi Handout 
