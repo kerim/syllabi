@@ -3,7 +3,6 @@ layout: undergraduate_courses
 title: 印度原住民研究 Adivasi Studies
 category: undergraduate_courses
 notes: Undergraduate course on Indigenous peoples in India, with a focus on Denotified and Nomadic Tribes.
-warn: "Spring 2014"
 ---
 
 
@@ -13,51 +12,50 @@ Adivasi Studies explores the history, culture, languages and traditions of India
 
 ## 課堂大綱 Course Outline (102學年下學期)
 
-1. 2月20日 **Course introduction**
-2. 2月27日 **Ramayana vs. Ramanyi**
- * Gond Ramanyi Handout Film: Sita Sings the Blues
-3. 3月06日 **Buddhism and China**
- * 印度人文之旅 2 (film and book) 
- * Sen on India and China
-4. 3月13日 **Islam before Colonialism**
- * 印度人文之旅 5 (film and book)
-5. 3月20日 **Colonialism and After**
- * 印度人文之旅 6 (film and book) 
-6. 3月27日 **Thuggies**
- * 施瓦茨 《印第安納•瓊斯和罪惡之殿》
- * Film: The Decievers《騙子們》
-7. 4月03日 **調整上課(放假)**
-8. 4月10日 **"Criminal Tribes"**
- * Friedman "Collaboration against Ethnography" 
- * Film:《請別打我，長官！》
- * Supplementary:《布德漢》
-9. 4月17日 **期中考試** 
-10. 4月24日 **Adivasi**
- * 傅可恩《多爾鼓(Dhol)的故事》
-11. 5月01日 **Adivasi**
- * Shah Prologue + 1 **(Group 1)**
-12. 5月08日 **Film**
- * Himself He Cooks 關於吃這件事 
- * SAMA 神秘的莎瑪 
-13. 5月15日 **Adivasi**
- * Shah 2 **(Group 2)**
-14. 5月22日 **Adivasi**
- * Shah 3 **(Group 3)**
-15. 5月29日 **Adivasi**
- * Shah 4 **(Group 4)**
-16. 6月05日 **Adivasi**
- * Shah 5 **(Group 5)**
-17. 6月12日 **Adivasi**
- * Shah 6 + Epilogue **(Group 6)**
-18. 6月19日 **學期考試**
+1. **Course introduction**
+ * Gond Ramanyi Handout 
+ * 電影：《西塔唱布魯斯》
+2. **Medieval India**
+ * 印度人文之旅 4 (film and book) 
+3. **Mughul India**
+ * 印度人文之旅 5 (film and book) 
+4. **電影**
+ * 《榮耀之役》 
+5. **Colonialism and After**
+ * 印度人文之旅 6 (film and book)
+6. **Caste Before the British**
+ * Bayly Chapter 1
+7. **Caste After the British**
+ * Bayly Chapter 2
+8. **Modern India**
+ * Jose "The rise of Narendra Modi" 
+ * 電影：《她和她的世》
+9. **"期中考試**
+10. **Adivasis vs. Castes: Identity** 
+ * Xaxa Chapter 3
+11. **Adivasis vs. Castes: Rights**
+ * Xaxa Chapter 8
+12. **電影**
+ * 《甘地》
+13. **Adivasi and the Forests: Life**
+ * Xaxa Chapter 9
+14. **Adivasi and the Forests: Politics**
+ * Xaxa Chapter 5
+15. **Adivasi and the Forests: War**
+ * Guha “Adivasis, Naxalites & Indian Democracy”
+16. **電影**
+ * 《請別打我，長官！》
+17. **DNTs**
+ * SFriedman "Collaboration against Ethnography"
+18. **學期考試**
 
-[課堂大綱XLS檔案](https://docs.google.com/spreadsheets/d/1CsEM2yE5rRws2M0BHbosRUsJQ4flJ0G2EzsRHkHWRLs/pubhtml?gid=0&single=true) ([下載PDF版本](https://docs.google.com/spreadsheets/d/1CsEM2yE5rRws2M0BHbosRUsJQ4flJ0G2EzsRHkHWRLs/pub?gid=0&single=true&output=pdf))
+[課堂大綱XLS檔案](https://docs.google.com/spreadsheets/d/1Do-hDPngOVlAGdDWlfimUm8A1rZLwkfB9SWvPBy1DDg/pubhtml?gid=0&single=true) ([下載PDF版本](https://docs.google.com/spreadsheets/d/1Do-hDPngOVlAGdDWlfimUm8A1rZLwkfB9SWvPBy1DDg/pub?gid=0&single=true&output=pdf))
 
 ## Course Info
 
 ### Time and Location 時間與地點
-* 時間：星期四, 2:10pm-5:00pm
-* 地點：原A206
+* 時間：星期三, 2:10pm-5:00pm
+* 地點：原A213
 
 ### Requirements and Credits
 * 授課時數: 3
@@ -70,14 +68,22 @@ Adivasi Studies explores the history, culture, languages and traditions of India
 
 ### Readings 閱讀書目
 
-- "Gond Ramayani." Handout.
-- Bajrange, Dakxin. 《布德漢》 *Budhan*. In Painted Words: An Anthology of Tribal Literature. Devy G. N., ed. Sonal Baxi, trans. Pp. 260-285. New Delhi: Penguin Books. 2002 
-- Friedman, P. Kerim. "Collaboration against ethnography: Filming an unwanted ‘cultural heritage.’" *Critique of Anthropology*. Vol. 33 no. 4 390-411. December 2013.
-- Sen, Amartya. 《好思辯的印度人》 *The Argumentative Indian: Writings on Indian History, Culture and Identity*. London: Macmillan, 2006. 
-- Shah, Alpa. *In the Shadows of the State: Indigenous Politics, Environmentalism, and Insurgency in Jharkhand, India*. Durham, NC: Duke University Press, 2010. 
-- Wood, Michael. 《印度的故事：夢想與創意的古國歷史之旅》 *The Story of India*. New York: Random House, 2007. 
-- 亨利。施瓦茨 and (Henry Schwarz). 2007. 印第安納•瓊斯和罪惡之殿. In 文學批評與文化批判. Trans. 袁英 湖北：中國: 華中師範大學出版社.
-- 傅可恩 and (P. Kerim Friedman). 2007. 多爾鼓(dhol)的故事: 關於印度原住民(adivasis)為自己所做的口述雜誌 (the story of dhol: An "oral magazine" by, about, and for adivasis). In 瞭解當代印度政治. Ed. Jolan Hsieh Cheng-feng Shih. Trans. 林伯寰 台北：台灣: 台灣國際研究學會舉辦的「瞭解當代印度政治」學術研討會.
+- Bayly, Susan. *Caste, Society and Politics in India from the Eighteenth Century to the Modern Age*. Revised ed. edition. Cambridge University Press, 2001.
+- Friedman, P. Kerim. “Collaboration against Ethnography: How Colonial History Shaped the Making of an Ethnographic Film.” *Critique of Anthropology* 33, no. 4 (December 1, 2013): 390–411.
+- Guha, Ramachandra. “Adivasis, Naxalites and Indian Democracy.” *Economic and Political Weekly* 42, no. 32 (2007): 3305–12.
+- Jose, Vinod K. “The Emperor Uncrowned: The Rise of Narendra Modi.” The Caravan  (2012).
+- Mehta, Mona. “Gond Ramayani.” *The Times of India*, July 10, 2011. 
+- Wood, Michael. 《印度的故事：夢想與創意的古國歷史之旅》 *The Story of India*. Translated by 廖素珊. 台北: 商周, 2009.
+- Xaxa, Virginuis. *State, Society, and Tribes: Issues in Post Colonial India*. Pearson Education India, 2008.
+
+### Films 影片
+
+- 《西塔唱布魯斯》
+- 《印度人文之旅》
+- 《榮耀之役》 
+- 《她和她的世》
+- 《甘地》
+- 《請別打我，長官！》
 
 {% include grading.markdown %}
 {% include cc.markdown %}
