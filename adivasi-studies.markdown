@@ -46,7 +46,7 @@ Adivasi Studies explores the history, culture, languages and traditions of India
 16. **電影**
  * 《請別打我，長官！》
 17. **DNTs**
- * SFriedman "Collaboration against Ethnography"
+ * Friedman "Collaboration against Ethnography"
 18. **學期考試**
 
 [課堂大綱XLS檔案](https://docs.google.com/spreadsheets/d/1Do-hDPngOVlAGdDWlfimUm8A1rZLwkfB9SWvPBy1DDg/pubhtml?gid=0&single=true) ([下載PDF版本](https://docs.google.com/spreadsheets/d/1Do-hDPngOVlAGdDWlfimUm8A1rZLwkfB9SWvPBy1DDg/pub?gid=0&single=true&output=pdf))
