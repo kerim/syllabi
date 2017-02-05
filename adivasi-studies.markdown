@@ -30,7 +30,7 @@ Adivasi Studies explores the history, culture, languages and traditions of India
 8. **Modern India**
  * Jose "The rise of Narendra Modi" 
  * 電影：《她和她的世》
-9. **"期中考試**
+9. **期中考試**
 10. **Adivasis vs. Castes: Identity** 
  * Xaxa Chapter 3
 11. **Adivasis vs. Castes: Rights**
