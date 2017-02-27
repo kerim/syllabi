@@ -125,5 +125,5 @@ This course seeks to introduce graduate students to the basic concepts and metho
 {% include grading-linguisticanthropology.markdown %}
 {% include cc.markdown %}
 
-[outline]:https://docs.google.com/spreadsheet/pub?key=0AlIzY9pLiJVZdGVjUzhRUzRIYS1RQndlSWRnZ01JM3c&single=true&gid=0&output=html
-[outline_pdf]:https://docs.google.com/spreadsheet/pub?key=0AlIzY9pLiJVZdGVjUzhRUzRIYS1RQndlSWRnZ01JM3c&single=true&gid=0&output=pdf
+[outline]:https://docs.google.com/spreadsheets/d/1FDGzNs-qgVdmlOSXqQL79rVkuqSf4VG6lrFkaBVk0O4/pubhtml?gid=0&single=true
+[outline_pdf]:hhttps://docs.google.com/spreadsheets/d/1FDGzNs-qgVdmlOSXqQL79rVkuqSf4VG6lrFkaBVk0O4/pub?gid=0&single=true&output=pdf
