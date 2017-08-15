@@ -25,7 +25,9 @@ Required course for Ph.D. students. 博士班學生必修.
 	- Thompson, Ken
 		- 2002 *Emile Durkheim*. New York: Routledge.
 
-### WEEK 3 - Political Economy II: Weber
+### WEEK 3 - 中秋節(放假)
+
+### WEEK 4 -Political Economy II: Weber
 - Weber, Max
 	- 1985 *The Protestant Ethic and the Spirit of Capitalism*. London ; Boston: Unwin Paperbacks.
 	- 中文：于曉 譯 2005《新教倫理與資本主義精神》，台北：左岸文化。
@@ -37,10 +39,10 @@ Required course for Ph.D. students. 博士班學生必修.
 	- Poggi, Gianfranco
 		- 2005 *Weber: A Short Introduction*. London: Polity Press
 
-### WEEK 4 - Political Economy III: Marx
+### WEEK 5 - Political Economy III: Marx
 - Marx
 	- 1977 *Capital: A Critique of Political Economy*. New York: Vintage Books. (Volume 1) [Selections: Preface 1st edition & Postface 2nd edition, Chapter 1 (Sec. 1,2 & 4), Chapter 4, Chapters 6 & 7,  Chapter 10, Chapter 25 Sec. 1-4, Part 8 (Chs. 26-33). Appendix sections: "formal subsumption of labor under capital" and "real subsumption of labor under capital."]
-	- 中文：馬克思 2004 《資本論第一卷》，上海：人民出版社。
+	- 中文：馬克思 2004 《資本論第一卷》，上海：人民出版社。 (Chapters 26-32 = 第七篇 第二十四章 所謂原始積累 & chapter 33 = 二十五章 現代殖民理論） 
 - *Suggested Readings*
 	- Mandel, Ernest.
 		- 2002 *An Introduction to Marxist Economic Theory*. Chippendale, N.S.W.: Resistance Books.
@@ -50,7 +52,7 @@ Required course for Ph.D. students. 博士班學生必修.
 		- 2014《A Companion to Marx’s Capital》
 		- 中文：《跟大衛。哈維讀《資本論》》簡體版
 
-### WEEK 5 - Functionalism
+### WEEK 6 - Functionalism
 - Malinowski, B.
 	- *Argonauts of the Western Pacific*. Waveland Pr Inc, 1984.(Introduction, Chs. 2-4, 6, 11-12, 14-17, & 22)
 - Evans-Pritchard, Edward Evan
@@ -60,7 +62,7 @@ Required course for Ph.D. students. 博士班學生必修.
 	- Stocking, George W.
 		-  “The Ethnographer’s Magic.” In *The Ethnographer’s Magic and Other Essay's in the History of Anthropology*, edited by George W. Stocking, 12–59. Wisconsin University Press, 1992.
 
-### WEEK 6 - Structuralism
+### WEEK 7 - Structuralism
 - Levi-Strauss, Claude
 	- 1963 *Structural Anthropology*. New York: Basic Books. (Chapters 1-2, 7, 9-13.)
 	- 中文：張祖建譯 2006《列維-斯特勞斯文集: 結構人類學 1-2 》上海：中國人民大學出版社。
@@ -70,8 +72,28 @@ Required course for Ph.D. students. 博士班學生必修.
 - *Suggested Readings*
 	- Matthews, Peter
 		- 2003 *A Short History of Structural Linguistics*. New York: Cambridge University Press
+		
+### WEEK 8 - Post-Structuralism: Bourdieu
+- Bourdieu, Pierre
+	- 1977 *Outline of a Theory of Practice*. New York: Cambridge University Press. (Chs.1, 2, & 4)
+	- 中文：宋偉航譯2004《實作理論綱要》。台北：城邦。
+- Thompson, John B.
+	- 1991 “Introduction” *Language and Symbolic Power*, John B. Thompson Ed. & Trans.. Cambridge: Polity Press.
+	- 中文參考資料：http://goo.gl/i6eu9v
+- Ortner, Sherry B.
+	- 1984 “Theory in Anthropology since the Sixties,” in *Culture/Power/History: A Reader in Contemporary Social Theory*. Kirks, Nicholas, G. Eley, S. B. Ortner eds. Princeton: Princeton University. pp372-411.
+	- 中文：莊孔韶主編2008《人類學經典導讀》，上海：中國人民大學出版社
+	
+### WEEK 9 - **Midterm Debate**
 
-### WEEK 7 - The Culture Concept
+### WEEK 10 - Gender
+- Mascia-Lee, Frances E., and Nancy Johnson Black.
+	- 1999 *Gender and Anthropology*. Waveland Pr Inc.
+- Rubin, G
+	- 2006 "The traffic in women: Notes on the political economy of sex.". *Feminist Anthropology: A Reader*. E. Lewin ed. Oxford: Wiley-Blackwell.
+	- 中文：張娟芬譯，1999〈交易女人：性的「政治經濟學」〉，收錄於顧燕翎、鄭至慧編，《女性主義經典》，頁167-177，台北：女書。
+
+### WEEK 11 - The Culture Concept
 - Abu-Lugbod, L
 	- 2006 "Writing against culture." *Feminist Anthropology: A Reader* 8:153.
 - Asad, T
@@ -81,20 +103,21 @@ Required course for Ph.D. students. 博士班學生必修.
 	- 1999 “Two or three things that I know about culture.” *The Journal of the Royal Anthropological Institute* 5 (3): 399-421.
 - Gupta, Akhil, and James Ferguson.
 	- 1992 “Beyond ‘culture’: Space, Identity, and the Politics of Difference.” *Cultural Anthropology* 7, no. 1: 6–23.
-- Stocking, George W.
-	- 1966 “Franz Boas and the Culture Concept in Historical Perspective.” *American Anthropologist* 68, no. 4: 867–82.
 - Sapir, E.
-	- 1924 “Culture, Genuine and Spurious.” *The American Journal of Sociology*.   
+	- 1924 “Culture, Genuine and Spurious.” *The American Journal of Sociology*.  
+	
+### WEEK 12 - Interpretive Anthropology (林徐達)
+- 林徐達
+	- 2015 《詮釋人類學：民族誌閱讀與書寫的交互評註》台北：桂冠。 (導讀、第一張、第二章、結論） 
 
-### WEEK 8 - Special Event: James Clifford (林徐達）10/21 & 10/28 (6:10-9pm)
+### WEEK 13 - James Clifford (林徐達)
 - Clifford, James
 	- 2013 *Returns: Becoming Indigenous in the Twenty-First Century*. Cambridge: Harvard University Press.
+	- 中文：《復返》
 	- 1986 “Introduction: Partial Truths.” In *Writing Culture: The Poetics and Politics of Ethnography*, edited by James Clifford and George Marcus. Berkeley: CA: University of California Press.
 	- 1983 “On Ethnographic Authority.” Representations, no. 2: 118–46.
 
-### WEEK 9 - **Midterm Debate**
-
-### WEEK 10 - Gramsci
+### WEEK 14 - Gramsci
 - Sperber, Nathan, and George Hoare
 	- 2015 *An Introduction to Antonio Gramsci: His Life, Thought and Legacy*. Bloomsbury Academic.
 - Crehan, Kate A F.
@@ -103,33 +126,7 @@ Required course for Ph.D. students. 博士班學生必修.
 	- Gramsci, Antonio
 		- 1990 "Some aspects of the southern question." *Antonio Gramsci: Selections From Political Writings (1921-1926)*. Minneapolis: University of Minnesota Press. 《 南方問題札記》
 
-### WEEK 11 - No Class 全校運動會(停課一天)
-
-### WEEK 12 - Interpretive Anthropology 林徐達
-- 林徐達
-	- 2015 《詮釋人類學：民族誌閱讀與書寫的交互評註》台北：桂冠。 (導讀、第一張、第二章、結論）
-
-### WEEK 13 - Gender
-- Mascia-Lee, Frances E., and Nancy Johnson Black.
-	- 1999 *Gender and Anthropology*. Waveland Pr Inc.
-- Rubin, G
-	- 2006 "The traffic in women: Notes on the political economy of sex.". *Feminist Anthropology: A Reader*. E. Lewin ed. Oxford: Wiley-Blackwell.
-	- 中文：張娟芬譯，1999〈交易女人：性的「政治經濟學」〉，收錄於顧燕翎、鄭至慧編，《女性主義經典》，頁167-177，台北：女書。
-- Sacks, K B
-	- 1989 "Toward a unified theory of class, race, and gender." *American Ethnologist* 16 (3): 534-550.
-
-### WEEK 14 - Post-Structuralism I: Bourdieu
-- Bourdieu, Pierre
-	- 1977 *Outline of a Theory of Practice*. New York: Cambridge University Press.
-	- 中文：宋偉航譯2004《實作理論綱要》。台北：城邦。
-- Thompson, John B.
-	- 1991 “Introduction” *Language and Symbolic Power*, John B. Thompson Ed. & Trans.. Cambridge: Polity Press.
-	- 中文參考資料：http://goo.gl/i6eu9v
-- Ortner, Sherry B.
-	- 1984 “Theory in Anthropology since the Sixties,” in *Culture/Power/History: A Reader in Contemporary Social Theory*. Kirks, Nicholas, G. Eley, S. B. Ortner eds. Princeton: Princeton University. pp372-411.
-	- 中文：莊孔韶主編2008《人類學經典導讀》，上海：中國人民大學出版社
-
-### WEEK 15 - Post-Structuralism II: Foucault
+### WEEK 15 - Foucault
 - Foucault, M.
 	- 1979 *Discipline and Punish: The Birth of the Prison*. New York: Vintage Books. Web.
 	- 中文：劉北成譯1992 《規訓與懲罰--監獄的誕生》，台北：桂冠
@@ -151,7 +148,7 @@ Required course for Ph.D. students. 博士班學生必修.
 - Harvey, David
 	- 2007 “Neoliberalism as Creative Destruction.” The Annals of the American Academy of Political and Social Science 610, no. 1 (March 1): 21–44.
 
-### WEEK 18 (1/10) - **Final Debate**
+### WEEK 18 - **Final Debate**
 
 [課堂大綱 Outline][outline] [[PDF][pdf]]
 
