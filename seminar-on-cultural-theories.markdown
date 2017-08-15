@@ -168,5 +168,5 @@ Required course for Ph.D. students. 博士班學生必修.
 {% include grading-culturaltheory.markdown %}
 {% include cc.markdown %}
 
-[outline]:https://docs.google.com/spreadsheets/d/1Gl2P5Vi55gtakfryI9o3nF-rtBdopEljjSpXJW-SPjM/pubhtml?gid=0&single=true
-[pdf]:https://docs.google.com/spreadsheets/d/1Gl2P5Vi55gtakfryI9o3nF-rtBdopEljjSpXJW-SPjM/pub?gid=0&single=true&output=pdf
+[outline]:https://docs.google.com/spreadsheets/d/1diZP3mFnRy7vTrKLaQgtGRcIkprIuvuANO7DEgifUpE/pubhtml?gid=0&single=true
+[pdf]:https://docs.google.com/spreadsheets/d/1diZP3mFnRy7vTrKLaQgtGRcIkprIuvuANO7DEgifUpE/pub?gid=0&single=true&output=pdf
