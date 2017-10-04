@@ -105,6 +105,8 @@ Required course for Ph.D. students. 博士班學生必修.
 	- 1992 “Beyond ‘culture’: Space, Identity, and the Politics of Difference.” *Cultural Anthropology* 7, no. 1: 6–23.
 - Sapir, E.
 	- 1924 “Culture, Genuine and Spurious.” *The American Journal of Sociology*.  
+- Trouillot, Michel-Rolph. 
+	- 2003 “Adieu, Culture: A New Duty Arises.” In Global Transformations, 97–116. Palgrave Macmillan, New York.
 	
 ### WEEK 12 - Interpretive Anthropology (林徐達)
 - 林徐達
