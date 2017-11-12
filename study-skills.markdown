@@ -11,29 +11,30 @@ notes: "Core course teaching basic college survival skills to undergraduates. (C
 ## 課程描述
 幫助學生由以往老師帶領為主的學習方式，轉變為以自我動機為引導的學習態度。協助學生找到自我發展方向，讓老師以有效的教學策略協助學生達成自我期許。訓練問題發掘、思考邏輯、資料蒐集、歸納分析、報告撰寫、論文發表、團隊合作等各方面的能力。鼓勵學生體會學習過程中種種經驗，做為日後大學生活和學習的基礎。
 
-## 課堂大綱 Course Outline (105學年上學期)
+## 課堂大綱 Course Outline (106學年上學期)
 
+| 日期 | 課程內容 | 授課教師 | 說明 |
+| -- | ---- | ---- | -- |
+| 9/21 | What do I want from University?" "課程介紹：大學學什麼?你大學生了嗎? | 葉、傅 | 認識課程、同學與自己 |
+| 9/28 | 閱讀技巧：做個聰明的讀者 Reading Techniques: Be a Smart Reader | 葉、傅 | 作業 (1)說明Discuss article |
+| 10/5 | 如何與他人共學合作 Working with Others: Personal and Communication Skills | 葉 | "分組報告的技巧、原則與溝通藝術  / 確定分組名單 |
+| 10/12 | 研究技巧：圖書館導覽與資料蒐集 Research Skills: Making the Most of the Library | 葉、陳 | 協力教師：陳昱佐老師 |
+| 10/19 | 社會科學家思考的方式 How social scientists think | 傅 | 記得上課前先行閱讀指定教材 |
+| 10/26 | 繳交作業（一）+分組討論 | 葉、傅 | 繳交作業 (1) 作業 (2)說明 |
+| 11/2 | 如何避免抄襲與正確的引用文獻與書目 Plagiarism & References | 葉 |   |
+| 11/9 | 作業+分組討論（二） | 葉、傅 | 繳交作業 (2) |
+| 11/16 | PowerPoint Dos and Don'ts | 傅 | 作業 (3)說明 |
+| 11/23 | 運動會（停課） |   |   |
+| 11/30 | 作業+分組討論（三） | 葉、傅 | 繳交作業 (3) |
+| 12/7 | 口頭報告技巧 Mastering oral presentations | 葉 |   |
+| 12/14 | 小組時間 |   | 自我學習 |
+| 12/21 | 學生的生活小技巧 Lifehacking for Students  | 傅 |   |
+| 12/28 | 小組討論 |   |   |
+| 1/4 | 期末報告（一） | 葉、傅 |   |
+| 1/11 | 期末報告（二） | 葉、傅 |   |
+| 1/18 | 期末報告（三） | 葉、傅 |   |
 
-1. **課程介紹：大學學什麼？你大學生了嗎？ What do I want from university?** 
-2. **如何與他人共學合作 Working with Others: Personal and Communication Skills** (葉)
-3. **社會科學家思考的方式 How social scientists think** (傅)
-4. **閱讀技巧：做個聰明的讀者 Reading Techniques: Be a Smart Reader** 
-5. **研究技巧：圖書館導覽與資料蒐集 Research Skills: Making the Most of the Library** (葉、陳昱佐老師)
-6. **繳交作業（一）+分組討論** 
-7. **如何避免抄襲與正確的引用文獻與書目 Plagiarism & References** (葉)
-8. **作業+分組討論（二）**
-9. **期中考周 (自我學習/小組時間)**
-10. **PowerPoint Dos and Don'ts** (傅)
-11. **運動會-停課**
-12. **口頭報告技巧 Mastering oral presentations** (葉)
-13. **作業+分組討論（三）**
-14. **學生的生活小技巧 Lifehacking for Students** (傅)
-15. **小組討論**
-16. **期末報告（一）**
-17. **期末報告（二）**
-18. **期末報告（三）**　
-
-[課堂大綱XLS檔案](https://docs.google.com/spreadsheets/d/1EzsRkzijWrTpt-JBwcdCw2nokjZV-Fb_j_OMD-UP3oI/pubhtml?gid=0&single=true) ([下載PDF版本](https://docs.google.com/spreadsheets/d/1EzsRkzijWrTpt-JBwcdCw2nokjZV-Fb_j_OMD-UP3oI/pub?gid=0&single=true&output=pdf))
+[課堂大綱XLS檔案](https://docs.google.com/spreadsheets/d/e/2PACX-1vSOPWokkBTGm99zMG9fhcad_s38A0RQoSctYSxkv9gUb39vydmf3GVulqgUDjAqsYIfwevJCkYmPiVr/pubhtml?gid=0&single=true) ([下載PDF版本](https://docs.google.com/spreadsheets/d/e/2PACX-1vSOPWokkBTGm99zMG9fhcad_s38A0RQoSctYSxkv9gUb39vydmf3GVulqgUDjAqsYIfwevJCkYmPiVr/pub?gid=0&single=true&output=pdf))
 
 ## Course Info
 * 中文科目名稱: 學習方法與技巧
@@ -52,7 +53,7 @@ notes: "Core course teaching basic college survival skills to undergraduates. (C
 
 ### 授課教師
 * 葉秀燕（族文系副教授）
-    * joyceyeh@mail.ndhu.edu.tw
+    * joyceyeh@gms.mail.ndhu.edu.tw
     * 研究室：原A406
     * 分機:5802
     * 晤談時間: 周三 1-3pm
@@ -63,7 +64,7 @@ notes: "Core course teaching basic college survival skills to undergraduates. (C
     * 晤談時間: 周三 12-2pm
    
 ### TA 助教
-   * 課程助教: 	盧姵岑 kc0206260006@gmail.com  
+   * 課程助教: 芳青 q290815@gmail.com
    * 請假請事先告之、email或電話連絡。
 
 ### 授課方式：
