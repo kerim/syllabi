@@ -29,18 +29,18 @@ This course draws on economic anthropology, development studies, social history,
 | 5/29/2018 | 「关系学中的“艺术”」 | 《禮物、關係學與國家》第三章  | 小組 5 |
 | 6/5/2018 | 家庭裡的資本主義 | 《跨國灰姑娘》第二章與第三章與《資本主義沒告訴你》件事4 | 小組 6  (件事4不必報告） |
 | 6/12/2018 | 資本主義的迷思 | 《資本主義沒告訴你》件事1,5,7,13,16,20,22 | 小組 7   |
-| 6/19/2018 | 當代台灣原住民議題 (谷拉斯•吾木代課） |   |   |
+| 6/19/2018 | 當代台灣原住民議題 (谷拉斯•吾木代課）   |   |
 | 6/26/2018 | 期末考試 |   |   |
 
 ## 參考書目
-    * Wolfe, Patrick. “Race and Citizenship.” *OAH Magazine of History* 18, no. 5 (2004): 66–71.
-    * 《棉花帝國》
-    * 格雷伯，《債︰第一個5000年》第二章 《以物易物的經濟學神話》
-    * 馬凌諾斯基 Malinowski, Bronislaw. 1920. "Kula; the Circulating Exchange of Valuables in the Archipelagoes of Eastern New Guinea." In Man. Vol. 20:97-105.《庫拉圈》
-    * Curry, George N. “Moving Beyond Postdevelopment: Facilitating Indigenous Alternatives for ‘Development.’” Economic Geography 79, no. 4 (October 1, 2003): 405–23.
-    * 楊美惠 Yang, Mayfair M. 《禮物,關係學,與國家》 Gifts, Favors, and Banquets: The Art of Social Relationships in China. Ithica: Cornell University Press, 1994. (Chapter 3)
-    * Lan, P C. Global Cinderellas: Migrant Domestics and Newly Rich Employers in Taiwan. Durham: Duke Univ. Press, 2006. 藍佩嘉 《跨國灰姑娘》第二章與第三章
-    * 《資本主義沒告訴你》
+* Wolfe, Patrick. “Race and Citizenship.” *OAH Magazine of History* 18, no. 5 (2004): 66–71.
+* 《棉花帝國》
+* 格雷伯，《債︰第一個5000年》第二章 《以物易物的經濟學神話》
+* 馬凌諾斯基 Malinowski, Bronislaw. 1920. "Kula; the Circulating Exchange of Valuables in the Archipelagoes of Eastern New Guinea." In Man. Vol. 20:97-105.《庫拉圈》
+* Curry, George N. “Moving Beyond Postdevelopment: Facilitating Indigenous Alternatives for ‘Development.’” Economic Geography 79, no. 4 (October 1, 2003): 405–23.
+* 楊美惠 Yang, Mayfair M. 《禮物,關係學,與國家》 Gifts, Favors, and Banquets: The Art of Social Relationships in China. Ithica: Cornell University Press, 1994. (Chapter 3)
+* Lan, P C. Global Cinderellas: Migrant Domestics and Newly Rich Employers in Taiwan. Durham: Duke Univ. Press, 2006. 藍佩嘉 《跨國灰姑娘》第二章與第三章
+* 《資本主義沒告訴你》
 
 ## Course Info
 
