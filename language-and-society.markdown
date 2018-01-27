@@ -21,7 +21,7 @@ Language and Society explores the relationships among language, thought, culture
 | 3/28/2018 | Code Switching | Chen: Code-switching as a verbal strategy  | Group 2 |
 | 4/4/2018 | 4/4兒童節(放假) |   |   |
 | 4/11/2018 | Language & Thought | Ahern: Language, Thought & Culture | Group 3 |
-| 4/18/2018 | Language Death & Revival | 克里斯托 《語言的死亡》 | Group 4 |
+| 4/18/2018 | Language Death & Revival | 克里斯托 《語言的死亡》第一章與第二章 | Group 4 |
 | 4/25/2018 | Midterm Exams |   |   |
 | 5/2/2018 | Film | 《賣花女》 |   |
 | 5/9/2018 | Language and Gender | Ahern: Language and Gender | Group 5 |
