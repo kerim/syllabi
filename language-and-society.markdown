@@ -56,7 +56,7 @@ Language and Society explores the relationships among language, thought, culture
 {% include instructor.markdown %}
 
 ### TA 助教
-* 課程助教: 吳惠如 <610596001@gms.ndhu.edu.tw>
+* 課程助教: 吳惠如 610596001@gms.ndhu.edu.tw
 
 
 {% include grading.markdown %}
