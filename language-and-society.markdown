@@ -27,21 +27,21 @@ Language and Society explores the relationships among language, thought, culture
 | 5/9/2018 | Language and Gender | Ahern: Language and Gender | Group 5 |
 | 5/16/2018 | Masculinity | Kiesling: Dude | Group 1 |
 | 5/23/2018 | Language and Race | Ahern: Language, Race and Ethnicity | Group 2 |
-| 5/30/2018 | Film | 《街頭痞子》 | 街頭痞子" |
+| 5/30/2018 | Film | 《街頭痞子》 |  |
 | 6/6/2018 | Cross-talk | Bailey: Communication of Respect | Group 3 |
 | 6/13/2018 | Literacy Studies | Ahern: Literacy Practices | Group 4 |
 | 6/20/2018 | Translanguaging | Li: New Chinglish  | Group 5 |
 | 6/27/2018 | Final Exams |   |   |
 
 ## 參考書目
-* 史迪芬•平克. 2006. 「描繪天堂:生來就會說話的嬰兒」《語言本能》. Ed. 洪蘭 and . 台北: 商周出版.  
-* 丹尼爾 艾佛列特. 2011. 「價值觀與談話:語言與文化的夥伴關係」。頁 287-306。《別睡,這裡有蛇:一個語言學家在亞馬遜叢林》。台北:大家出版社。
 * Ahern, Laura. 2012. Living Language: An Introduction to Linguistic Anthropology, London: Oxford, UK: Blackwell Publishing Ltd. 
 * Chen, Su-Chiao. 1996. Code-Switching as a Verbal Strategy among Chinese in a Campus Setting in Taiwan. World Englishes 15(3): 267-280.
 * Basso, Keith H. 1970. To give up on words: Silence in western apache culture. Southwestern Journal of Anthropology Vol. 26, No. 3 (Autumn): 213-230.
 * Bailey, Benjamin. 1997. Communication of respect in interethnic service encounters. Language in Society 26:327-356.
+* Kiesling, Scott F. “Dude.” American Speech 79, no. 3 (September 21, 2004): 281–305.
+* Li, Wei. “New Chinglish and the Post-Multilingualism Challenge: Translanguaging ELF in China.” Journal of English as a Lingua Franca 5, no. 1 (2016): 1–25.
+* 史迪芬•平克. 2006. 「描繪天堂:生來就會說話的嬰兒」《語言本能》. Ed. 洪蘭 and . 台北: 商周出版.  
 * 大衛.克里斯托(David Crystal)作; 周蔚譯. Language Death 貓頭鷹出版 城邦文化發行.
-
 
 ## Course Info
 
