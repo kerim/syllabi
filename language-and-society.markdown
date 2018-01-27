@@ -10,53 +10,44 @@ notes: Undergraduate introduction to sociolinguistics and linguistic anthropolog
 
 Language and Society explores the relationships among language, thought, culture, and social structure. Intended to introduce students to the basic concepts and methods used in sociolinguistics and linguistic anthropology, the course will look at issues such as language variation, language change, language ideology, language policy, the relationship between language and gender.
 
-## 課堂大綱 Course Outline (104學年下學期)
+## 課堂大綱 Course Outline (106學年下學期)
 
-1. **Course Overview**
-* Introduction: What is linguistic anthropology?
-2. **Children**
+| Date | Topic | Reading | Group |
+| ---- | ----- | ------- | ----- |
+| 2/28/2018 | 和平紀念日(放假) |   |   |
+| 3/7/2018 | Intro | What is linguistic anthropology? |   |
+| 3/14/2018 | How Children Learn | 電影《無語的生活》& 平克 《描繪天堂:生來就會說話的嬰兒》 |   |
+| 3/21/2018 | Silence | Basso: To Give up on words | Group 1 |
+| 3/28/2018 | Code Switching | Chen: Code-switching as a verbal strategy  | Group 2 |
+| 4/4/2018 | 4/4兒童節(放假) |   |   |
+| 4/11/2018 | Language & Thought | Ahern: Language, Thought & Culture | Group 3 |
+| 4/18/2018 | Language Death & Revival | 克里斯托 《語言的死亡》 | Group 4 |
+| 4/25/2018 | Midterm Exams |   |   |
+| 5/2/2018 | Film | 《賣花女》 |   |
+| 5/9/2018 | Language and Gender | Ahern: Language and Gender | Group 5 |
+| 5/16/2018 | Masculinity | Kiesling: Dude | Group 1 |
+| 5/23/2018 | Language and Race | Ahern: Language, Race and Ethnicity | Group 2 |
+| 5/30/2018 | Film | 《街頭痞子》 | 街頭痞子" |
+| 6/6/2018 | Cross-talk | Bailey: Communication of Respect | Group 3 |
+| 6/13/2018 | Literacy Studies | Ahern: Literacy Practices | Group 4 |
+| 6/20/2018 | Translanguaging | Li: New Chinglish  | Group 5 |
+| 6/27/2018 | Final Exams |   |   |
+
+## 參考書目
 * 史迪芬•平克. 2006. 「描繪天堂:生來就會說話的嬰兒」《語言本能》. Ed. 洪蘭 and . 台北: 商周出版.  
-3. **Recursion**
 * 丹尼爾 艾佛列特. 2011. 「價值觀與談話:語言與文化的夥伴關係」。頁 287-306。《別睡,這裡有蛇:一個語言學家在亞馬遜叢林》。台北:大家出版社。
-4. **Langauge and Thought**
-* Ahern, Laura. 2012. "Language, Thought & Culture." Living Language: An Introduction to Linguistic Anthropology, London: Oxford, UK: Blackwell Publishing Ltd. 
-5. **Literacy Studies**
-* Ahern: Literacy Practices
-6. **Linguistic Facts**
-* Lippi-Green, Rosina. 1997. The linguistic facts of life (chapter 1). In English with An Accent: Language, Ideology, and Discrimination in the United States. Routledge.
-7. **Code Switching**
+* Ahern, Laura. 2012. Living Language: An Introduction to Linguistic Anthropology, London: Oxford, UK: Blackwell Publishing Ltd. 
 * Chen, Su-Chiao. 1996. Code-Switching as a Verbal Strategy among Chinese in a Campus Setting in Taiwan. World Englishes 15(3): 267-280.
-8. **Silence**
 * Basso, Keith H. 1970. To give up on words: Silence in western apache culture. Southwestern Journal of Anthropology Vol. 26, No. 3 (Autumn): 213-230.
-9. **Midterm Exams**
-10. **Film**
-* Pygmalion 賣花女
-11. **Language and Gender**
-* Ahern: Language and Gender
-12. **Performance**
-* Basso: Indian Models of "the Whiteman"
-13. **Language and Ethnicity**
-* Ahern: Language, Race and Ethnicity
-14. **Film**
-* 8-Mile 街頭痞子
-15. **Cross-talk**
 * Bailey, Benjamin. 1997. Communication of respect in interethnic service encounters. Language in Society 26:327-356.
-16. **Language Death & Revival**
 * 大衛.克里斯托(David Crystal)作; 周蔚譯. Language Death 貓頭鷹出版 城邦文化發行.
-17. **Guest Lecture**
-* Sifo Lakaw: Learning from New Zealand
-18. **Final Exams**
-
-
-[課堂大綱XLS檔案](https://docs.google.com/spreadsheets/d/1_h6gI8-dcV-Q030QZ5F_XdXmikiOdfLJYkYtpS-9POw/pubhtml?gid=0&single=true) ([下載PDF版本](https://docs.google.com/spreadsheets/d/1_h6gI8-dcV-Q030QZ5F_XdXmikiOdfLJYkYtpS-9POw/pub?gid=0&single=true&output=pdf))
-
 
 
 ## Course Info
 
 ### Time and Location 時間與地點
-* 時間：星期三, 2:10pm-5:00pm
-* 地點：原A***
+* 時間：星期三, 9:10am-12:00pm
+* 地點：原A213
 
 ### Requirements and Credits
 * 授課時數: 3
@@ -65,7 +56,7 @@ Language and Society explores the relationships among language, thought, culture
 {% include instructor.markdown %}
 
 ### TA 助教
-* 課程助教: Sifo Lakaw 鍾文觀 <sifolakaw@gmail.com>
+* 課程助教: 吳惠如 <610596001@gms.ndhu.edu.tw>
 
 
 {% include grading.markdown %}
