@@ -60,4 +60,3 @@ Language and Society explores the relationships among language, thought, culture
 
 
 {% include grading.markdown %}
-{% include cc.markdown %}
