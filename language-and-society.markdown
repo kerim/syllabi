@@ -25,12 +25,12 @@ Language and Society explores the relationships among language, thought, culture
 | 4/25/2018 | Midterm Exams |   |   |
 | 5/2/2018 | Film | 《賣花女》 |   |
 | 5/9/2018 | Language and Gender | Ahern: Language and Gender | Group 5 |
-| 5/16/2018 | Masculinity | Kiesling: Dude | Group 1 |
-| 5/23/2018 | Language and Race | Ahern: Language, Race and Ethnicity | Group 2 |
+| 5/16/2018 | Masculinity | Kiesling: Dude | Group 6 |
+| 5/23/2018 | Language and Race | Ahern: Language, Race and Ethnicity | Group 7 |
 | 5/30/2018 | Film | 《街頭痞子》 |  |
-| 6/6/2018 | Cross-talk | Bailey: Communication of Respect | Group 3 |
-| 6/13/2018 | Literacy Studies | Ahern: Literacy Practices | Group 4 |
-| 6/20/2018 | Translanguaging | Li: New Chinglish  | Group 5 |
+| 6/6/2018 | Cross-talk | Bailey: Communication of Respect | Group 8 |
+| 6/13/2018 | Literacy Studies | Ahern: Literacy Practices | Group 9 |
+| 6/20/2018 | Translanguaging | Li: New Chinglish  | Group 10 |
 | 6/27/2018 | Final Exams |   |   |
 
 ## 參考書目
