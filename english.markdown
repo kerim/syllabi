@@ -1,5 +1,5 @@
 ---
-layout: syllabi
+layout: files
 title: Teaching Method, Grading, and Assignments in English
 category: syllabi
 ---

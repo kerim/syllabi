@@ -1,5 +1,5 @@
 ---
-layout: syllabi
+layout: files
 title: Avoiding Plagiarism
 category: syllabi
 ---
