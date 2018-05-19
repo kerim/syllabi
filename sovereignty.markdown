@@ -4,26 +4,24 @@ title: PhD Seminar in Sovereignty Studies 106-2
 category: files
 ---
 
+This was a special one-time graduate seminar based on the research interests of my Ph.D. students.
+
 ## Part One: Political Theory
 
 ### Week 1: Hobbes !(2018-02-27) 
-*  Hobbes, T. 2011 (1651). *Leviathan* 
-*  霍布斯《利維坦》 
+*  Hobbes, T. 2011 (1651). *Leviathan*  霍布斯《利維坦》 
 
 ### Week 2: Discussion of Hobbes
 *  Springborg, P., ed. 2007. *The Cambridge Companion to Hobbes’s Leviathan*. (skip 5, 7, 11, 14, 17, 20, & 21)
 
 ### Week 3: Schmitt (明季）
-*  Schmitt, C. 1985 (1922). *Political Theology: Four Chapters on the Concept of Sovereignty*
-*   卡爾·施密特《政治神學：主權學說四論》
+*  Schmitt, C. 1985 (1922). *Political Theology: Four Chapters on the Concept of Sovereignty* 卡爾·施密特《政治神學：主權學說四論》
 
 ### Week 4: Foucault  
-*  Foucault, M. 2003.  *“Society Must Be Defended”: Lectures at the Collège de France*, 1975-1976. 
-*   米歇爾‧福柯《必須保衛社會》    
+*  Foucault, M. 2003.  *“Society Must Be Defended”: Lectures at the Collège de France*, 1975-1976. 米歇爾‧福柯《必須保衛社會》    
 
 ### Week 5: Agamben
-*   Agamben, G. 1998. *Homo Sacer*
-*   阿岡本 《神聖之人：主權權力與赤裸生命》
+*   Agamben, G. 1998. *Homo Sacer* 阿岡本 《神聖之人：主權權力與赤裸生命》
 
 ### Week 6: Discussion of Foucault/Agamben
 *  Jennings, R. 2011. “Sovereignty and Political Modernity: A Genealogy of Agamben’s Critique of Sovereignty.” *Anthropological Theory*. 11(1).
@@ -50,7 +48,7 @@ category: files
 
 ### Week 11: Awake
 * Myron Dewey's film *Awake, A Dream From Standing Rock*  
-*   [#StandingRockSyllabus – NYC Stands with Standing Rock](https://nycstandswithstandingrock.wordpress.com/standingrocksyllabus/)
+  * [#StandingRockSyllabus – NYC Stands with Standing Rock](https://nycstandswithstandingrock.wordpress.com/standingrocksyllabus/)
 
 ### Week 12: Graeber & Sahlins 
 *  Graeber, D. & M. Sahlins. 2017. *On Kings*. 
