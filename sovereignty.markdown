@@ -1,7 +1,7 @@
 ---
 layout: files
 title: PhD Seminar in Sovereignty Studies 106-2
-category: files
+category: syllabi
 ---
 
 This was a special one-time graduate seminar based on the research interests of my Ph.D. students.
