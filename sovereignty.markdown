@@ -8,13 +8,13 @@ This was a special one-time graduate seminar based on the research interests of 
 
 ## Part One: Political Theory
 
-### Week 1: Hobbes !(2018-02-27) 
+### Week 1: Hobbes 
 *  Hobbes, T. 2011 (1651). *Leviathan*  霍布斯《利維坦》 
 
 ### Week 2: Discussion of Hobbes
 *  Springborg, P., ed. 2007. *The Cambridge Companion to Hobbes’s Leviathan*. (skip 5, 7, 11, 14, 17, 20, & 21)
 
-### Week 3: Schmitt (明季）
+### Week 3: Schmitt
 *  Schmitt, C. 1985 (1922). *Political Theology: Four Chapters on the Concept of Sovereignty* 卡爾·施密特《政治神學：主權學說四論》
 
 ### Week 4: Foucault  
