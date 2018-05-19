@@ -1,5 +1,5 @@
 ---
-layout: files
+layout: syllabi
 title: PhD Seminar in Sovereignty Studies 106-2
 category: syllabi
 ---
