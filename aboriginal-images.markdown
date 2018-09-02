@@ -13,8 +13,8 @@ Indigenous Images has three goals: 1. To train students in the art of critical f
 
 ## 課堂大綱 Course Outline (107上)
 
-| 9/13/2018 | Course Overview | Introduce subject, texts, expectations, online tools. |   |   |
 | --------- | --------------- | ----------------------------------------------------- | --- | --- |
+| 9/13/2018 | Course Overview | Introduce subject, texts, expectations, online tools. |   |   |
 | 9/20/2018 | Narrative | P&W  4 | Pocahontas/風中奇緣 (81) |   |
 | 9/27/2018 | Mise en Scene | P&W 5 | The Searchers/搜索者 (119)  |   |
 | 10/4/2018 | Editing | P&W 7 | The Last Of The Mohicans/大地英豪 (117) |   |
@@ -35,31 +35,20 @@ Indigenous Images has three goals: 1. To train students in the art of critical f
 
 ## Bibliography
 
-Brown, Michael F. “The Missionary’s Photographs.” In Who Owns Native Culture?, 11–42. Harvard University Press, 2009.
-
-Chang, Anita Wen-Shin. “In the Realm of the Indigenous: Local, National, and Global Articulations in Fishing Luck.” Positions  17, no. 3 (December 21, 2009): 643–53.
-
-Friedman, P. Kerim. “Collaboration against Ethnography: How Colonial History Shaped the Making of an Ethnographic Film.” Critique of Anthropology 33, no. 4 (December 1, 2013): 390–411.
-
-Green, Rayna. “The Pocahontas Perplex: Images of American Indian Women in American Culture.” In Native American Voices: A Reader, edited by Susan Lobo and Steve Talbot, 203–12. New Jersy: Prentice Hall, 2000.
-
-Huhndorf, Shari. “Atanarjuat, The Fast Runner: Culture, History, and Politics in Inuit Media.” American Anthropologist 105, no. 4 (December 1, 2003): 822–26.
-
-Michaels, Eric. “For a Cultural Future: Francis Jupurrurla Makes TV at Yuendumu.” In Bad Aboriginal Art: Tradition, Media, and Technological Horizons, 99–126. Minneapolis: University of Minnesota Press, 1994.
-
-Nichols, Bill. “What Types of Documentary Are There?” In Introduction to Documentary, 99–138. Bloomington, IN: Indiana University Press, 2001.
-
-———. 紀錄片導論. Translated by 陳犀禾, 劉宇清, and 鄭潔. 北京: 中國電影出版社, 2007.
-
-Peterson, Nicolas. “The Changing Photographic Contract.” In Photography’s Other Histories, edited by Nicholas Thomas, Jo-Anne Driessens, Michael Aird, Christopher Pinney, and Nicolas Peterson, 119–45. Durham, NC: Duke University Press, 2003.
-
-Pramaggiore, Maria, and Tom Wallis, eds. “Editing.” In Film : A Critical Introduction, 191–232. Boston: Pearson, 2008.
-
-———. , eds. “Mise-En-Scene.” In Film : A Critical Introduction, 87–128. Boston: Pearson, 2008.
-
-———. , eds. “Narrative Form.” In Film: A Critical Introduction, 61–86. Boston: Pearson, 2008.
-
-Sterk, Darryl. “Ironic Indigenous Primitivism: Taiwan’s First ‘native Feature’ in an Era of Ethnic Tourism.” Journal of Chinese Cinemas 8, no. 3 (2014): 209–25.
+- Brown, Michael F. “The Missionary’s Photographs.” In Who Owns Native Culture?, 11–42. Harvard University Press, 2009.
+- Chang, Anita Wen-Shin. “In the Realm of the Indigenous: Local, National, and Global Articulations in Fishing Luck.” Positions  17, no. 3 (December 21, 2009): 643–53.
+- Friedman, P. Kerim. “Collaboration against Ethnography: How Colonial History Shaped the Making of an Ethnographic Film.” Critique of Anthropology 33, no. 4 (December 1, 2013): 390–411.
+- Green, Rayna. “The Pocahontas Perplex: Images of American Indian Women in American Culture.” In Native American Voices: A Reader, edited by Susan Lobo and Steve Talbot, 203–12. New Jersy: Prentice Hall, 2000.
+- Huhndorf, Shari. “Atanarjuat, The Fast Runner: Culture, History, and Politics in Inuit Media.” American Anthropologist 105, no. 4 (December 1, 2003): 822–26.
+- Michaels, Eric. “For a Cultural Future: Francis Jupurrurla Makes TV at Yuendumu.” In Bad Aboriginal Art: Tradition, Media, and Technological Horizons, 99–126. Minneapolis: University of Minnesota Press, 1994.
+- Nichols, Bill. “What Types of Documentary Are There?” In Introduction to Documentary, 99–138. Bloomington, IN: Indiana University Press, 2001.
+  - 紀錄片導論. Translated by 陳犀禾, 劉宇清, and 鄭潔. 北京: 中國電影出版社, 2007.
+- Peterson, Nicolas. “The Changing Photographic Contract.” In Photography’s Other Histories, edited by Nicholas Thomas, Jo-Anne Driessens, Michael Aird, Christopher Pinney, and Nicolas Peterson, 119–45. Durham, NC: Duke University Press, 2003.
+- Pramaggiore, Maria, and Tom Wallis, eds. 
+  - “Editing.” In Film : A Critical Introduction, 191–232. Boston: Pearson, 2008.
+  - “Mise-En-Scene.” In Film : A Critical Introduction, 87–128. Boston: Pearson, 2008.
+  - “Narrative Form.” In Film: A Critical Introduction, 61–86. Boston: Pearson, 2008.
+- Sterk, Darryl. “Ironic Indigenous Primitivism: Taiwan’s First ‘native Feature’ in an Era of Ethnic Tourism.” Journal of Chinese Cinemas 8, no. 3 (2014): 209–25.
 
 ## Course Info
 
