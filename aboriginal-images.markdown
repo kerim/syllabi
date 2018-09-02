@@ -6,7 +6,7 @@ notes: Undergraduate course exploring the representation of indigenous peoples i
 warn: "Fall 2018"
 ---
 
-Indigenous Images has three goals: 1. To train students in the art of critical film analysis. 2. Introduce students to the history and theory of ethnographic film. And, 3. To discuss issues pertaining to media produced by indigenous peoples. Wherever possible this course uses films relating to Taiwanese Aborigines, but we will also watch and discuss a wide range of films from around the world.
+Indigenous Images has three goals: 1. To train students in the art of critical film analysis. 2. Introduce students to the history and theory of ethnographic film. And, 3. To discuss issues pertaining to media produced by indigenous peoples. Wherever possible this course uses films relating to indigenous Taiwanese, but we will also watch and discuss a wide range of films from around the world.
 
 原住民影像有三個目標：1.訓練學生的批判影像分析能力 2.介紹學生認識民族誌電影的歷史與理論 3.討論原住民自己創作影像的議題 . 這門課所使用的電影跟台灣原住民相關, 但我們會從寬廣的角度來觀看與討論台灣原住民電影.
 
