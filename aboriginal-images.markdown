@@ -18,7 +18,7 @@ Indigenous Images has three goals: 1. To train students in the art of critical f
 | 9/20/2018 | Narrative | P&W  4 | Pocahontas/風中奇緣 (81) |   |
 | 9/27/2018 | Mise en Scene | P&W 5 | The Searchers/搜索者 (119)  |   |
 | 10/4/2018 | Editing | P&W 7 | The Last Of The Mohicans/大地英豪 (117) |   |
-| 10/11/2018 | Native Americans in Film | Kilpatrick "Native Americans" & Green "Pocahontas..." | Reel Injun/英雄本色 (51)   | Group 1 +2 |
+| 10/11/2018 | Native Americans in Film | Kilpatrick "Native Americans" <br>Green "Pocahontas..." | Reel Injun/英雄本色 (51)   | Group 1 +2 |
 | 10/18/2018 | Indigenous Narrative Film I | -- | The Fast Runner/冰原快跑人 (172) |   |
 | 10/25/2018 | Indigenous Narrative Film II | Chang "In the Realm ..." & Huhndorf "Atanarjuat" | Fishing Luck/等待飛魚 (96) | Group 3+4 |
 | 11/1/2018 | Indigenous Narrative Film III | Sterk “Ironic Indigenous Primitivism" | Finding Sayun/不一樣的月光 (100) | Group 5 |
