@@ -18,18 +18,18 @@ Indigenous Images has three goals: 1. To train students in the art of critical f
 | 9/20/2018 | Narrative | P&W  4 | Pocahontas/風中奇緣 (81) |   |
 | 9/27/2018 | Mise en Scene | P&W 5 | The Searchers/搜索者 (119)  |   |
 | 10/4/2018 | Editing | P&W 7 | The Last Of The Mohicans/大地英豪 (117) |   |
-| 10/11/2018 | Native Americans in Film | Kilpatrick "Native Americans" <br>Green "Pocahontas..." | Reel Injun/英雄本色 (51)   | Group 1 +2 |
+| 10/11/2018 | Native Americans in Film | Kilpatrick "Native Americans" <br>Green "Pocahontas Perplex" | Reel Injun/英雄本色 (51)   | Group 1 +2 |
 | 10/18/2018 | Indigenous Narrative Film I | -- | The Fast Runner/冰原快跑人 (172) |   |
-| 10/25/2018 | Indigenous Narrative Film II | Chang "In the Realm ..." & Huhndorf "Atanarjuat" | Fishing Luck/等待飛魚 (96) | Group 3+4 |
+| 10/25/2018 | Indigenous Narrative Film II | Chang "In the Realm of the Indigenous" <br>Huhndorf "Atanarjuat" | Fishing Luck/等待飛魚 (96) | Group 3+4 |
 | 11/1/2018 | Indigenous Narrative Film III | Sterk “Ironic Indigenous Primitivism" | Finding Sayun/不一樣的月光 (100) | Group 5 |
 | 11/8/2018 | 期中考試 |   |   |   |
 | 11/15/2018 | Guest Lecture: 楊鈞凱 |   | Path of Destiny/不得不上路 (71) |   |
 | 11/22/2018 | Documentary Ethics I | Nichols 1  | Nanook of the North/北方的南努克 (79) | Group 6 |
-| 11/29/2018 | Documentary Ethics II | Peterson  "The Changing Photographic Contract" | "Marangmotxingmo Mirang/伊邦小孩的影像信 (35); Born into Brothels/小小攝影師 (85)" | Group 7 |
-| 12/6/2018 | Tradition and Change | Michaels  "For a Cultural Future" | "The Stories of Rainbow/彩虹的故事 (55); Amis Hiphop/阿美嘻哈 (55） | Group 8 |
+| 11/29/2018 | Documentary Ethics II | Peterson  "The Changing Photographic Contract" | Marangmotxingmo Mirang/伊邦小孩的影像信 (35)<br>Born into Brothels/小小攝影師 (85) | Group 7 |
+| 12/6/2018 | Tradition and Change | Michaels  "For a Cultural Future" | "The Stories of Rainbow/彩虹的故事 (55)<br>Amis Hiphop/阿美嘻哈 (55） | Group 8 |
 | 12/13/2018 | Who Owns Native Culture? | Brown 1 | Returning Souls/讓靈魂回家 (85) | Group 9 |
 | 12/20/2018 | Documentary Film Genres | Nichols 6 | Voices of Orchid Island/蘭嶼觀點 (73) | Group 10 |
-| 12/27/2018 | Ethnographic Film I | Friedman - "Collaboration against Ethnography" | Please Don't Beat Me, Sir!/請別打我，長官！ (75) |   |
+| 12/27/2018 | Ethnographic Film I | Friedman "Collaboration against Ethnography" | Please Don't Beat Me, Sir!/請別打我，長官！ (75) |   |
 | 1/3/2019 | Ethnographic Film II | TBA |   |   |
 | 1/10/2019 | 學期考試 |   |   |   |
 
