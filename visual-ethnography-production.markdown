@@ -23,62 +23,34 @@ Students are encouraged to use their own equipment if they have any. There is al
 
 ## Course Outline
 
-1. Course Overview
-2. Image ethics
-- 閱讀： Nichols Ch 1 (中文)
-- 電影： "Voices of Orchid Island/蘭嶼觀點 (73)
-- 作業： Final Project (FP): Topic Statement
-3. Intro to Documentary & The Expository Mode
-- 閱讀： Nichols Ch 2 & 6 (中文)
-- 電影： Night & Fog/夜與霧 (32)
-4. Observational Mode
-- 閱讀： MacDougal - Ch. 4 (中文)
-- 電影： Umbrella/傘 (20min clip)
-- 作業： FP: Revised Statement
-5. Participatory Mode
-- 閱讀： Ruby-Speaking For, Speaking With
-- 電影： Chronique d'un été/夏日編年紀事 (85)
-6. Reflexive Mode
-- 閱讀： Siden - A Circle of Looks
-- 閱讀： 鄭明河 - 再一次集結（文字檔）
-- 電影： Reassemblage/再一次集結 (40)
-- 作業： Homework (HW): Observational
-7. Interviewing I
-- 閱讀： Rabinger - Ch. 24 (中文第8章)
-- 電影： Thin Blue Line/正義難伸 (103)
-8. Interviewing II
-- 閱讀： Bernard - Ch. 9 (210-227)
-- 作業： HW: Interview
-9. No class
-- 作業： FP: Finish principle shooting
-10. Editing I
-- 閱讀： Rabinger - Ch. 29-30 (中文第12-13章)
-- 電影： The Cutting Edge (98)
-- 作業： HW: Reflexive
-11. Editing II
-- 閱讀： Rabinger - Ch. 31-32 (中文第14-15章)
-- 作業： FP: Log Footage
-12. Editing III
-- 閱讀： Rabinger - Ch. 33-34 (中文第16-17章)
-13. Ethnographic Film I
-- 閱讀： Loizos—Chapters 1 & 2
-- 電影： Dead Birds/死鳥 (84)
-- 作業： FP: Transcribe Interviews
-14. Ethnographic Film II
-- 閱讀： Friedman - Collaborating Against Ethnography
-- 電影： Please Don't Beat Me, Sir!/請別打我，長官！ (75)
-15. Ethnographic Film III
-- 電影： TBA
-- 作業： FP: Paper Edit
-16. Workshop Final Projects
-- 作業： FP: Scene Selections
-17. Final Projects I
-- 作業： FP: First Cut
-18. Final Projects II
-- 作業： FP: Final Cut
+| 9/15/2018 | Course Overview |   |   |   |
+| 9/22/2018 | Image ethics | Nichols Ch 1 (中文) | Voices of Orchid Island/蘭嶼觀點 (73) | Final Project (FP): Topic Statement |
+| 9/29/2018 | The Expository Mode | Nichols Ch 2 & 6  (中文) | Night & Fog/夜與霧 (32) |   |
+| 10/6/2018 | Observational Mode | MacDougal - Ch. 4  (中文) | Umbrella/傘 (20min clip) | FP: Revised Statement |
+| 10/13/2018 | Participatory Mode | Ruby-Speaking For, Speaking With | Chronique d'un été/夏日編年紀事 (85) |   |
+| 10/20/2018 | Reflexive Mode | Siden - A Circle of Looks 鄭明河 - 再一次集結（文字檔）<br> | Reassemblage/再一次集結 (40) | Homework (HW): Observational |
+| 10/27/2018 | Interviewing I | Rabinger - Ch. 24  (中文第8章) | Thin Blue Line/正義難伸 (103) |   |
+| 11/3/2018 | Interviewing II | Bernard - Ch. 8 |   | HW: Interview |
+| 11/10/2018 | Project Reports |   |   | FP: Finish principle shooting |
+| 11/17/2018 | Editing I | Rabinger - Ch. 29-30 (中文第12-13章) | The Cutting Edge (98) | HW: Reflexive |
+| 11/24/2018 | Editing II | Rabinger - Ch. 31-32 (中文第14-15章) |   | FP: Log Footage |
+| 12/1/2018 | Editing III | Rabinger - Ch. 33-34 (中文第16-17章) |   |   |
+| 12/8/2018 | Ethnographic Film I | Loizos—Chapters 1 & 2 | Dead Birds/死鳥 (84) | FP: Transcribe Interviews |
+| 12/15/2018 | Ethnographic Film II | Friedman - Collaborating Against Ethnography | Please Don't Beat Me, Sir!/請別打我，長官！ (75) |   |
+| 12/22/2018 | Ethnographic Film III |   | TBA | FP: Paper Edit |
+| 12/29/2018 | Workshop Final Projects |   |   | FP: Scene Selections |
+| 1/5/2019 | Final Projects I |   |   | FP: First Cut |
+| 1/12/2019 | Final Projects II |   |   | FP: Final Cut |
 
+## Readings
+Nichols Ch 1, 2, & 6 (中文)
+MacDougal - Ch. 4 (中文)
+Ruby-Speaking For, Speaking With
+Rabinger - Ch. 24 (中文第8章), 29-30 (中文第12-13章), Ch. 31-32 (中文第14-15章), Ch. 33-34 (中文第16-17章)
+Bernard - Ch. 9 (210-227)
+Loizos—Chapters 1 & 2
+Friedman - Collaborating Against Ethnography
 
-* [課堂大綱 Outline](https://docs.google.com/spreadsheets/d/1ROvBzoLaua1e9djX7xAMrp58H0xC2AuApbhPYc3Cs20/pubhtml?gid=0&single=true) [[PDF](https://docs.google.com/spreadsheets/d/1ROvBzoLaua1e9djX7xAMrp58H0xC2AuApbhPYc3Cs20/pub?gid=0&single=true&output=pdf)]
 * [學生作品 Selected film projects]({{site.baseurl}}/student-films)
 * [多媒體器材 Equipment List](http://www.erc.ndhu.edu.tw/files/13-1048-37498.php)
 
