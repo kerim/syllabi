@@ -11,30 +11,28 @@ notes: "Core course teaching basic college survival skills to undergraduates. (C
 ## 課程描述
 幫助學生由以往老師帶領為主的學習方式，轉變為以自我動機為引導的學習態度。協助學生找到自我發展方向，讓老師以有效的教學策略協助學生達成自我期許。訓練問題發掘、思考邏輯、資料蒐集、歸納分析、報告撰寫、論文發表、團隊合作等各方面的能力。鼓勵學生體會學習過程中種種經驗，做為日後大學生活和學習的基礎。
 
-## 課堂大綱 Course Outline (106學年上學期)
+## 課堂大綱 Course Outline (108學年上學期)
 
 | 日期 | 課程內容 | 授課教師 | 說明 |
 | -- | ---- | ---- | -- |
-| 9/21 | What do I want from University?" "課程介紹：大學學什麼?你大學生了嗎? | 葉、傅 | 認識課程、同學與自己 |
-| 9/28 | 閱讀技巧：做個聰明的讀者 Reading Techniques: Be a Smart Reader | 葉、傅 | 作業 (1)說明Discuss article |
-| 10/5 | 如何與他人共學合作 Working with Others: Personal and Communication Skills | 葉 | "分組報告的技巧、原則與溝通藝術  / 確定分組名單 |
-| 10/12 | 研究技巧：圖書館導覽與資料蒐集 Research Skills: Making the Most of the Library | 葉、陳 | 協力教師：陳昱佐老師 |
-| 10/19 | 社會科學家思考的方式 How social scientists think | 傅 | 記得上課前先行閱讀指定教材 |
-| 10/26 | 繳交作業（一）+分組討論 | 葉、傅 | 繳交作業 (1) 作業 (2)說明 |
-| 11/2 | 如何避免抄襲與正確的引用文獻與書目 Plagiarism & References | 葉 |   |
-| 11/9 | 作業+分組討論（二） | 葉、傅 | 繳交作業 (2) |
-| 11/16 | PowerPoint Dos and Don'ts | 傅 | 作業 (3)說明 |
-| 11/23 | 運動會（停課） |   |   |
-| 11/30 | 作業+分組討論（三） | 葉、傅 | 繳交作業 (3) |
-| 12/7 | 口頭報告技巧 Mastering oral presentations | 葉 |   |
-| 12/14 | 小組時間 |   | 自我學習 |
-| 12/21 | 學生的生活小技巧 Lifehacking for Students  | 傅 |   |
-| 12/28 | 小組討論 |   |   |
-| 1/4 | 期末報告（一） | 葉、傅 |   |
-| 1/11 | 期末報告（二） | 葉、傅 |   |
-| 1/18 | 期末報告（三） | 葉、傅 |   |
-
-[課堂大綱XLS檔案](https://docs.google.com/spreadsheets/d/e/2PACX-1vSOPWokkBTGm99zMG9fhcad_s38A0RQoSctYSxkv9gUb39vydmf3GVulqgUDjAqsYIfwevJCkYmPiVr/pubhtml?gid=0&single=true) ([下載PDF版本](https://docs.google.com/spreadsheets/d/e/2PACX-1vSOPWokkBTGm99zMG9fhcad_s38A0RQoSctYSxkv9gUb39vydmf3GVulqgUDjAqsYIfwevJCkYmPiVr/pub?gid=0&single=true&output=pdf))
+| 9/13 | 課程介紹：大學學什麼?你大學生了嗎? <br>What do I want from University? | 葉、傅 | 認識課程、同學與自己 |
+| 9/20 | 社會科學家思考的方式 How social scientists think | 傅 | *確定分組名單 |
+| 9/27 | 閱讀技巧：做個聰明的讀者 Reading Techniques: Be a Smart Reader | 葉、傅 |   |
+| 10/4 | 指定閱讀講座 Lecture on assigned reading | 葉、傅 | 測驗一 (閱讀理解)   <br>繳交作業 (1) |
+| 10/11 | 研究技巧：圖書館導覽與資料蒐集 Research Skills: Making the Most of the Library | 葉、陳 | 協力教師：陳昱佐老師 |
+| 10/18 | 如何避免抄襲與正確的引用文獻與書目 Plagiarism & References | 葉 |   |
+| 10/25 | 如何與他人共學合作 Working with Others: Personal and Communication Skills | 葉 | 測驗二 (引用文獻與書目)           |
+| 11/1 | 作業+分組討論（一） | 葉、傅 |   |
+| 11/8 | 小組討論 |   |   |
+| 11/15 | 運動會（停課） |   |   |
+| 11/22 | PowerPoint Dos and Don'ts | 傅 | 作業(2)說明 |
+| 11/29 | 口頭報告技巧 Mastering oral presentations | 葉 |   |
+| 12/6 | 作業+分組討論（二） | 葉、傅 |   |
+| 12/13 | 學生的生活小技巧 Lifehacking for Students  | 傅 |   |
+| 12/20 | 小組討論 |   |   |
+| 12/27 | 期末報告（一） | 葉、傅 |   |
+| 1/3 | 期末報告（二） | 葉、傅 |   |
+| 1/10 | 期末報告（三） | 葉、傅 |   |
 
 ## Course Info
 * 中文科目名稱: 學習方法與技巧
@@ -42,8 +40,8 @@ notes: "Core course teaching basic college survival skills to undergraduates. (C
 * 科目代碼: CIS_11100
 
 ### Time and Location 時間與地點
-* 時間：星期三, 9:10pm-12:00pm
-* 地點：原A？？？
+* 時間：星期四, 2:10pm-5:00pm
+* 地點：原A215
 
 ### Requirements and Credits
 * 授課時數: 3
@@ -69,12 +67,6 @@ notes: "Core course teaching basic college survival skills to undergraduates. (C
 
 ### 授課方式：
 * 課堂講授。作業之資料蒐集、報告撰寫、口頭發表。分組報告與討論。
-
-## 評分方式：
-* 平時作業 30%
-* 期末口頭及書面報告 30%
-* 多元綜合評量 20%
-* 出缺席狀況 20%
 
 ## 注意事項：
 本課程作業與期末報告以小組為單位，以5-6人為一組，請自行組成小組並推選組長一名。分組原則：有男有女、有原有漢、有高有低（年級、身高…），以強調多元之融合性，以達本系設立之宗旨。本課程學期末以「合格」(satisfactory)以及「不合格」(unsatisfactory)兩種等級評分。請注意本課程為族文系必修課，不合格的學生無法授與學士學位。
