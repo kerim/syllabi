@@ -41,7 +41,7 @@ notes: "Core course teaching basic college survival skills to undergraduates. (C
 
 ### Time and Location 時間與地點
 * 時間：星期四, 2:10pm-5:00pm
-* 地點：原A215
+* 地點：原A213
 
 ### Requirements and Credits
 * 授課時數: 3
