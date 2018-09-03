@@ -28,7 +28,7 @@ Students are encouraged to use their own equipment if they have any. There is al
 | 9/29/2018 | The Expository Mode | Nichols Ch 2 & 6  (中文) | Night & Fog/夜與霧 (32) |   |
 | 10/6/2018 | Observational Mode | MacDougal - Ch. 4  (中文) | Umbrella/傘 (20min clip) | FP: Revised Statement |
 | 10/13/2018 | Participatory Mode | Ruby-Speaking For, Speaking With | Chronique d'un été/夏日編年紀事 (85) |   |
-| 10/20/2018 | Reflexive Mode | Siden - A Circle of Looks 鄭明河 - 再一次集結（文字檔）<br> | Reassemblage/再一次集結 (40) | Homework (HW): Observational |
+| 10/20/2018 | Reflexive Mode | Siden - A Circle of Looks <br>鄭明河 - 再一次集結（文字檔）<br> | Reassemblage/再一次集結 (40) | Homework (HW): Observational |
 | 10/27/2018 | Interviewing I | Rabinger - Ch. 24  (中文第8章) | Thin Blue Line/正義難伸 (103) |   |
 | 11/3/2018 | Interviewing II | Bernard - Ch. 8 |   | HW: Interview |
 | 11/10/2018 | Project Reports |   |   | FP: Finish principle shooting |
@@ -43,13 +43,16 @@ Students are encouraged to use their own equipment if they have any. There is al
 | 1/12/2019 | Final Projects II |   |   | FP: Final Cut |
 
 ## Readings
-Nichols Ch 1, 2, & 6 (中文)
-MacDougal - Ch. 4 (中文)
-Ruby-Speaking For, Speaking With
-Rabinger - Ch. 24 (中文第8章), 29-30 (中文第12-13章), Ch. 31-32 (中文第14-15章), Ch. 33-34 (中文第16-17章)
-Bernard - Ch. 9 (210-227)
-Loizos—Chapters 1 & 2
-Friedman - Collaborating Against Ethnography
+* Friedman, P. Kerim. “Collaboration against Ethnography: How Colonial History Shaped the Making of an Ethnographic Film.” Critique of Anthropology 33, no. 4 (December 1, 2013): 390–411.
+* Loizos, P. Innovation in Ethnographic Film : From Innocence to Self-Consciousness, 1955-85. Manchester: Manchester University Press, 1993.
+* Nichols, Bill. 紀錄片導論. Translated by 陳犀禾, 劉宇清, and 鄭潔. 北京: 中國電影出版社, 2007.
+* Rabiger, Michael. Directing the Documentary. 5 edition. Focal Press, 2009.
+  * 製作紀錄片. Translated by 王亞維. 台北: 遠流, 2011.
+* Ruby, J. “Speaking For, Speaking About, Speaking With, or Speaking Alongside— An Anthropological and Documentary Dilemma.” Visual Anthropology Review 7, no. 2 (1991): 50–67.
+* Russell Bernard, H. Research Methods in Anthropology: Qualitative and Quantitative Approaches. 5 edition. AltaMira Press, 2011.
+* Siden, Hannah. “A Circle of Looks: Reflexivity and Representation in Trinh T. Minh­ha’s Film, Reassemblage.” McGill University, 2012.
+* 大衛．馬杜格. “觀察超越式電影.” In 邁向跨文化電影：大衛．馬杜格的影像實踐. 台北: 麥田, 2006.
+* 鄭明河. “再一次集結,” 2013.
 
 * [學生作品 Selected film projects]({{site.baseurl}}/student-films)
 * [多媒體器材 Equipment List](http://www.erc.ndhu.edu.tw/files/13-1048-37498.php)
