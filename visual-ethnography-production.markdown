@@ -30,7 +30,7 @@ Students are encouraged to use their own equipment if they have any. There is al
 | 10/13/2018 | Participatory Mode | Ruby-Speaking For, Speaking With | Chronique d'un été/夏日編年紀事 (85) |   |
 | 10/20/2018 | Reflexive Mode | Siden - A Circle of Looks <br>鄭明河 - 再一次集結（文字檔）<br> | Reassemblage/再一次集結 (40) | Homework (HW): Observational |
 | 10/27/2018 | Interviewing I | Rabinger - Ch. 24  (中文第8章) | Thin Blue Line/正義難伸 (103) |   |
-| 11/3/2018 | Interviewing II | Bernard - Ch. 8 |   | HW: Interview |
+| 11/3/2018 | Interviewing II | Bernard - Ch. 9 |   | HW: Interview |
 | 11/10/2018 | Project Reports |   |   | FP: Finish principle shooting |
 | 11/17/2018 | Editing I | Rabinger - Ch. 29-30 (中文第12-13章) | The Cutting Edge (98) | HW: Reflexive |
 | 11/24/2018 | Editing II | Rabinger - Ch. 31-32 (中文第14-15章) |   | FP: Log Footage |
