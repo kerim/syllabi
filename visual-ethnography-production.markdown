@@ -49,7 +49,7 @@ Students are encouraged to use their own equipment if they have any. There is al
 * Rabiger, Michael. Directing the Documentary. 5 edition. Focal Press, 2009.
   * 製作紀錄片. Translated by 王亞維. 台北: 遠流, 2011.
 * Ruby, J. “Speaking For, Speaking About, Speaking With, or Speaking Alongside— An Anthropological and Documentary Dilemma.” Visual Anthropology Review 7, no. 2 (1991): 50–67.
-* Russell Bernard, H. Research Methods in Anthropology: Qualitative and Quantitative Approaches. 5 edition. AltaMira Press, 2011.
+* Russell Bernard, H. Research Methods in Anthropology: Qualitative and Quantitative Approaches. 5th edition. AltaMira Press, 2011.
 * Siden, Hannah. “A Circle of Looks: Reflexivity and Representation in Trinh T. Minh­ha’s Film, Reassemblage.” McGill University, 2012.
 * 大衛．馬杜格. “觀察超越式電影.” In 邁向跨文化電影：大衛．馬杜格的影像實踐. 台北: 麥田, 2006.
 * 鄭明河. “再一次集結,” 2013.
