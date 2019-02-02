@@ -3,7 +3,7 @@ layout: graduate_courses
 title: 語言人類學 Linguistic Anthropology
 category: graduate_courses
 notes: Introductory level graduate seminar on linguistic anthropology.
-warn: "Spring 2014"
+warn: "Spring 2019"
 ---
 
 本課程旨在向研究生介紹語言人類學使用的基本概念和方法。本課程將探討日常用語實作是如何反映和體現（被反映）在文化和認同議題，尤其聚焦在性別和族群性。學生將學習話語分析的基本工具和溝通民族誌，並會介紹當前語言人類學領域的議題。 
