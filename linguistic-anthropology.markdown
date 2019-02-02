@@ -32,6 +32,7 @@ This course seeks to introduce graduate students to the basic concepts and metho
 | 6/8/2019 | Endangered Languages | Ahearn, *Living Languages* (11) <br/>Errington, "Getting Language Rights"<br/>Jaffe, "Discourses of Endangerment"<br/>* Crystal, 《語言的死亡》|
 | 6/15/2019 | Presentations |   |
 | 6/22/2019 | Presentations |   |
+
 ( * = 推薦書籍 Recommended Readings)
 
 
