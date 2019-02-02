@@ -12,7 +12,7 @@ This course seeks to introduce graduate students to the basic concepts and metho
 
 ## 上課內容 Weekly Topics (107-2學年)
 
-| | | |
+| Date | Topic | Reading |
 | --------- | ------------ | --- |
 | 2/23/2019 | 補班日 No Class |   |
 | 3/2/2019 | Course Overview |   |
