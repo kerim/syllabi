@@ -11,6 +11,7 @@ warn: "Spring 2014"
 This course seeks to introduce graduate students to the basic concepts and methods used in linguistic anthropology. The course will explore how everyday speech practices reflect and are reflected in issues of culture and identity with a particular focus on gender and ethnicity. Students will learn the basic tools of discourse analysis and the ethnography of communication, and will be   introduced to current issues in the field of linguistic anthropology.
 
 ## 上課內容 Weekly Topics (102學年)
+
 | | | |
 | --------- | ------------ | --- |
 | 2/23/2019 | 補班日 No Class |   |
