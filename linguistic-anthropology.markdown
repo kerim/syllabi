@@ -11,66 +11,27 @@ warn: "Spring 2014"
 This course seeks to introduce graduate students to the basic concepts and methods used in linguistic anthropology. The course will explore how everyday speech practices reflect and are reflected in issues of culture and identity with a particular focus on gender and ethnicity. Students will learn the basic tools of discourse analysis and the ethnography of communication, and will be   introduced to current issues in the field of linguistic anthropology.
 
 ## 上課內容 Weekly Topics (102學年)
-(§ = 推薦書籍 Recommended Readings)
-
-- WEEK 1 Course Overview
-	- （課程內容介紹，課程要求和期望，兼談中英文寫作和書目格式。)
-- WEEK 2 和平紀念日(放假)
-- WEEK 3 Linguistics    
-	- Pinker 《語言本能》
--  WEEK 4 The Cultural Tool
-	- Everett, 《別睡，這裡有蛇！》
-	- § Everett, Language: The Cultural Tool 
-- WEEK 5 Discourse Analysis 1
-    - Cameron, Working with Spoken Discourse (1-7)
-- WEEK 6 Linguistic Relativity
-	- Deutcher, 《小心，別踩到我北方的腳！》
-	- Ahearn, Living Languages (4) 
-- WEEK 7 Spring Break (放假)
-- WEEK 8 Anthropological Linguistics
-	- Ahearn, Living Languages (1-2) 
-	- Basso "To Give up on words"
-	- Phillips  "Warm Springs"
-	- § Basso, Wisdom sits in high places
-	- Assignment 1
-- WEEK 9 Presentations
-- WEEK 10 Discourse Analysis 2
-	- Cameron, Working with Spoken Discourse (8-12)
-- WEEK 11 Communities and Multilingualism
-	- Ahearn, Living Languages (5 & 6) 
-	- Urciouli, "The Political Topography of Spanish and English"
-	- Wei, "Codeswitching in Campaigning Discourse"
-	- § Chiu, "Code-switching and Identity Constructions in Taiwan TV Commercials"
-	- § Chen, "Code switching between English and Mandarin…"
-- WEEK 12 Literacy and Socialization
-	- Ahearn, Living Languages (3 & 7) 
-	- Heath, "What no Bedtime Story Means"
-	- Akinnaso, "Literacy and Individual Consciousness"
-	- § Heath, Ways with Words
-- WEEK 13 Performativity
-	- Ahearn, Living Languages (8) 
-	- Frake, "How to ask for a drink in Subanun"
-	- Kiesling, "Dude"
-	- § Irvine, "Language and political Economy"
-  	- Assignment 2
-- WEEK 14 Gender & Power
-	- Ahearn, Living Languages (9 & 12) 
-	- Gal, "Peasant Men Can't Get Wives"
-	- Goodwin, "Exclusion in Girls’ Peer Groups"
-	- § Barret, "Indexing Polyphonous Identity in the Speech of AADQ"
-	- § Farris, "A semeiotic analysis of sajiao"
-- WEEK 15 Ethnicity
-	- Ahearn, Living Languages (10) 
-	- Baily, "Communication of Respect"
-	- Chun, "Ideologies of Legitimate Mockery"
-	- § Hill, "Mock Spanish"
-- WEEK 16 Endangered Languages
-	- Ahearn, Living Languages (11) 
-	- Errington, "Getting Language Rights"
-	- Jaffe, "Discourses of Endangerment"
-	- § Crystal, 《語言的死亡》
-- WEEK 17 Presentations
-- WEEK 18 Presentations
+| | | |
+| --------- | ------------ | --- |
+| 2/23/2019 | 補班日 No Class |   |
+| 3/2/2019 | Course Overview |   |
+| 3/9/2019 | Linguistics | Pinker 《語言本能》 |
+| 3/16/2019 | The Cultural Tool | Everett, 《別睡，這裡有蛇！》<br/>* Everett, *Language: The Cultural Tool* |
+| 3/23/2019 | Discourse Analysis 1 | Cameron, *Working with Spoken Discourse* |
+| 3/30/2019 | Linguistic Relativity | Deutscher, 《小心，別踩到我北方的腳！》<br/>Ahearn, *Living Languages* (4)|
+| 4/6/2019 | 電影 | 《無語的生活》 |
+| 4/13/2019 | Anthropological Linguistics | Ahearn, *Living Languages* (1-2) <br/>Basso "To Give up on words"<br/>Phillips  "Warm Springs"<br/>* Basso, *Wisdom sits in high places* |
+| 4/20/2019 | Assignment 1 |   |
+| 4/27/2019 | Communities & Multilingualism | Ahearn, *Living Languages* (5 & 6) <br/>Urciouli, "The Political Topography of Spanish and English"<br/>Wei, "Codeswitching in Campaigning Discourse"<br/>* Chiu, "Code-switching and Identity Constructions in Taiwan TV…"<br/>* Chen, "Code switching between English and Mandarin…" |
+| 5/4/2019 | Literacy and Socialization | Ahearn, *Living Languages* (3 & 7) <br/>Heath, "What no Bedtime Story Means"<br/>Akinnaso, "Literacy and Individual Consciousness"<br/>* Heath, *Ways with Words*|
+| 5/11/2019 | Performativity | Ahearn, *Living Languages* (8) <br/>Frake, "How to ask for a drink in Subanun"<br/>Kiesling, "Dude"<br/>* Irvine, "Language and political Economy"|
+| 5/18/2019 | Assignment 2 |   |
+| 5/25/2019 | Gender & Power | Ahearn, *Living Languages* (9 & 12) <br/>Gal, "Peasant Men Can't Get Wives"<br/>Goodwin, "Exclusion in Girls’ Peer Groups"<br/>* Barret, "Indexing Polyphonous Identity in the Speech of AADQ"<br/>* Farris, "A semeiotic analysis of sajiao" |
+| 6/1/2019 | Ethnicity | Ahearn, *Living Languages* (10) <br/>Baily, "Communication of Respect"<br/>Chun, "Ideologies of Legitimate Mockery"<br/>* Hill, "Mock Spanish" |
+| 6/8/2019 | Endangered Languages | Ahearn, *Living Languages* (11) <br/>Errington, "Getting Language Rights"<br/>Jaffe, "Discourses of Endangerment"<br/>* Crystal, 《語言的死亡》|
+| 6/15/2019 | Presentations |   |
+| 6/22/2019 | Presentations |   |
+( * = 推薦書籍 Recommended Readings)
 
 
 ## 閱讀書目 Readings
@@ -107,12 +68,10 @@ This course seeks to introduce graduate students to the basic concepts and metho
 
 § = 推薦書籍 Recommended Readings
 
-[課堂大綱XLS檔案][outline]([下載PDF版本][outline_pdf])
-
 ## Course Info
 
 ### Time and Location 時間與地點
-* 時間：星期
+* 時間：星期六 1:10-4:00
 * 地點：
 
 ### Requirements and Credits
@@ -124,6 +83,3 @@ This course seeks to introduce graduate students to the basic concepts and metho
 
 {% include grading-linguisticanthropology.markdown %}
 {% include cc.markdown %}
-
-[outline]:https://docs.google.com/spreadsheets/d/1FDGzNs-qgVdmlOSXqQL79rVkuqSf4VG6lrFkaBVk0O4/pubhtml?gid=0&single=true
-[outline_pdf]:hhttps://docs.google.com/spreadsheets/d/1FDGzNs-qgVdmlOSXqQL79rVkuqSf4VG6lrFkaBVk0O4/pub?gid=0&single=true&output=pdf
