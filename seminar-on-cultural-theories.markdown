@@ -136,7 +136,7 @@ Required course for Ph.D. students. 博士班學生必修.
 	- 1999 *Gender and Anthropology*. Waveland Pr Inc.
 - Rubin, G
 	- 2006 "The traffic in women: Notes on the political economy of sex.". *Feminist Anthropology: A Reader*. E. Lewin ed. Oxford: Wiley-Blackwell.
-	- 中文：張娟芬譯，1999〈交易女人：性的「政治經濟學」〉，收錄於顧燕翎、鄭至慧編，《女性主義經典》，頁167-177，台北：女書。
+		- 中文：張娟芬譯，1999〈交易女人：性的「政治經濟學」〉，收錄於顧燕翎、鄭至慧編，《女性主義經典》，頁167-177，台北：女書。
 
 ### WEEK 12 - Gramsci
 - Sperber, Nathan, and George Hoare
@@ -157,7 +157,7 @@ Required course for Ph.D. students. 博士班學生必修.
 	- 1991 "Questions of method." in *The Foucault Effect: Studies in Governmental Nationality : With Two Lectures by and An Interview with Michel Foucault*. G Burchell, C Gordon, and P M Miller eds. 1991. London: Harvester Wheatsheaf. pp. 73-86.
 - *Suggested Readings*
 	- 2007 [1972] "The discourse on language." Appendix: *Archaeology of Knowledge*. London ; New York: Routledge. pp 215-37.
-	- 中文：許寶強、袁偉選編2001《語言與翻譯的政治》，北京：中央編譯出版社。（英譯版本"The Order of Discourse" in Untying the Text, edited by Robert Young. London: RKP, 1981)
+		- 中文：許寶強、袁偉選編2001《語言與翻譯的政治》，北京：中央編譯出版社。（英譯版本"The Order of Discourse" in Untying the Text, edited by Robert Young. London: RKP, 1981)
 		
 ### WEEK 14 - Latour (李宜澤）
 - Latour, Bruno. 
