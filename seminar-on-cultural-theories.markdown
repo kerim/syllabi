@@ -30,10 +30,10 @@ Required course for Ph.D. students. 博士班學生必修.
 | 12/10/2019 | Latour (李宜澤） | 1. 拉圖爾 《我們從未現代過》<br/>2. 洪廣冀與何俊頤 〈自然資源治理與原住民部落發展〉 |
 | 12/17/2019 | Post-Colonialism | Williams & Chrisman, eds. 《Colonial Discourse and Post-Colonial Theory: A Reader》（指定章節） |
 | 12/24/2019 | Neoliberalism | 1. Ong 《Neoliberalism as Exception》<br/>2. Ortner  "On Neoliberalism" <br/>3. Harvey "Neoliberalism as Creative Destruction" |
-| 12/31/2019 | Cultural Sovereignty | 1. Coulthard 《Red Skin, White Masks》<br/>2. Kauanui: "Sovereignty: An Introduction" <br/>3. Hansen, &  Finn "Sovereignty Revisited" |
+| 12/31/2019 | Cultural Sovereignty | 1. Coulthard 《Red Skin, White Masks》<br/>2. Kauanui: "Sovereignty: An Introduction" <br/>3. Hansen &  Finn "Sovereignty Revisited" |
 | 1/7/2020 | Final Debate |   |
 
-## 課堂大綱 Course Outline (106-1)
+## 課堂大綱 Course Outline (108-1)
 
 ### WEEK 1 - Introduction
 - （課程內容介紹，課程要求和期望，兼談中英文寫作和書目格式。)
