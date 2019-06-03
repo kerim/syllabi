@@ -21,7 +21,7 @@ Required course for Ph.D. students. 博士班學生必修.
 | 10/8/2019 | Weber | 1. 韋伯《新教與資本主義精神》<br/>2. 韋伯《社會學的基本概念》（第一章）<br/>3. 韋伯: 〈學術作為一種志業〉 |
 | 10/15/2019 | Functionalism | 1. 馬凌諾斯基 《南海舡人》（指定章節）<br/>2. 伊凡-普理查, 《努爾人》（指定章節） |
 | 10/22/2019 | Structuralism  | 1. 李維史陀《結構人類學》（指定章節）<br/>2. Leach: "Genesis as myth"<br/>3. Leach: "Structuralism in Social Anthropology" |
-| 10/29/2019 | Post-Structuralism | 1. 布迪厄《一種關於實踐的理論》（指定章節）<br/>2. Thompson:  "Introduction"  <br/>3. Ortner: "Theory in Anthropology since the Sixties" |
+| 10/29/2019 | Post-Structuralism | 1. 布迪厄《一種關於實踐的理論》（指定章節）<br/>2. Thompson:  "Introduction"  <br/>3. Ortner: 〈20世紀60年代以來的人類學理論〉 |
 | 11/5/2019 | Midterm Debate |   |
 | 11/12/2019 | 全校運動會(停課一天) |   |
 | 11/19/2019 | Gender | 1. Mascia-Lee & Black《Gender and Anthropology》<br/>2. Rubin 〈交易女人〉 |
@@ -43,7 +43,7 @@ Required course for Ph.D. students. 博士班學生必修.
 	- 2006 "Writing against culture." *Feminist Anthropology: A Reader* 8:153.
 - Asad, T
 	- 1986 "The concept of cultural translation in british social anthropology." *Writing Culture: The Poetics and Politics of Ethnography* 1:141-164.
-	- 中文：Asad, T. ，2006，〈英國社會人類學中的文化翻譯概念〉，《寫文化: 民族志的詩學與政治學》，頁 182-208，北京市：商務印書館。
+		- 中文：Asad, T. ，2006，〈英國社會人類學中的文化翻譯概念〉，《寫文化: 民族志的詩學與政治學》，頁 182-208，北京市：商務印書館。
 - Sahlins, M
 	- 1999 "Two or three things that I know about culture." *The Journal of the Royal Anthropological Institute* 5 (3): 399-421.
 - Gupta, Akhil, and James Ferguson.
@@ -55,8 +55,9 @@ Required course for Ph.D. students. 博士班學生必修.
 
 ### WEEK 3 - Political Economy I: Durkheim
 - Durkheim, Emile
-	- 1995 *The Elementary Forms of Religious Life.*  Karen E Fields trans. New York: Simon & Schuster. [指定章節 : Book I: Chapter 1. Book II: Chapters 6 & 7. Book III: Chapter 3 & Conclusion]
-	- 中文：芮傳明 譯 1992 《宗教生活的基本方式》，台北：桂冠。
+	- 1995 *The Elementary Forms of Religious Life.*  Karen E Fields trans. New York: Simon & Schuster. 
+		- 中文：芮傳明 譯 1992 《宗教生活的基本方式》，台北：桂冠。
+		- **指定章節** : Book I: Chapter 1. Book II: Chapters 6 & 7. Book III: Chapter 3 & Conclusion
 - *Suggested Readings* (Strongly recommended, but students are not required to discuss these works.)
 	- Thompson, Ken
 		- 2002 *Emile Durkheim*. New York: Routledge.
@@ -64,43 +65,49 @@ Required course for Ph.D. students. 博士班學生必修.
 ### WEEK 4 -Political Economy II: Weber
 - Weber, Max
 	- 1985 *The Protestant Ethic and the Spirit of Capitalism*. London ; Boston: Unwin Paperbacks.
-	- 中文：于曉 譯 2005《新教倫理與資本主義精神》，台北：左岸文化。
-	- 1947 "The fundamental concepts of sociology." *The Theory of Social and Economic Organization*. 87-157. 《科層（官僚）組織理論》(Chapter 1)
-	- 中文：顧忠華 譯 2002 《社會學的基本概念》，台北：桂冠。
+		- 中文：于曉 譯 2005《新教倫理與資本主義精神》，台北：左岸文化。
+	- 1947 "The fundamental concepts of sociology." *The Theory of Social and Economic Organization*. 87-157. 
+		- 中文：《科層（官僚）組織理論》		- 中文：顧忠華 譯 2002 《社會學的基本概念》，台北：桂冠。
+		- **指定章節** : Chapter 1
 	- 1958 "Science as a vocation." *Daedalus* 87 (1): 111-134. 《學術作為一種志業》
-	- 中文：錢永祥 譯 1991 《學術與政治：韋伯選集 I》，台北：桂冠。
+		- 中文：錢永祥 譯 1991 《學術與政治：韋伯選集 I》，台北：桂冠。
 - *Suggested Readings*
 	- Poggi, Gianfranco
 		- 2005 *Weber: A Short Introduction*. London: Polity Press
 
 ### WEEK 5 - Political Economy III: Marx
 - Marx
-	- 1977 *Capital: A Critique of Political Economy*. New York: Vintage Books. (Volume 1) [指定章節: Preface 1st edition & Postface 2nd edition, Chapter 1 (Sec. 1,2 & 4), Chapter 4, Chapters 6 & 7,  Chapter 10, Chapter 25 Sec. 1-4, Part 8 (Chs. 26-33). Appendix sections: "formal subsumption of labor under capital" and "real subsumption of labor under capital."]
-	- 中文：馬克思 2004 《資本論第一卷》，上海：人民出版社。 [中文指定章節跟英文稍微不一樣: Part 8， Chapters 26-32 = 第七篇 第二十四章 所謂原始積累 & chapter 33 = 二十五章 現代殖民理論] 
+	- 1977 *Capital: A Critique of Political Economy*. New York: Vintage Books. (Volume 1) 
+		- 中文：馬克思 2004 《資本論第一卷》，上海：人民出版社。 
+		- **指定章節:** Preface 1st edition & Postface 2nd edition, Chapter 1 (Sec. 1,2 & 4), Chapter 4, Chapters 6 & 7,  Chapter 10, Chapter 25 Sec. 1-4, Part 8 (Chs. 26-33). Appendix sections: "formal subsumption of labor under capital" and "real subsumption of labor under capital." [中文指定章節跟英文稍微不一樣: Part 8， Chapters 26-32 = 第七篇 第二十四章 所謂原始積累 & chapter 33 = 二十五章 現代殖民理論] 
 - *Suggested Readings*
 	- Mandel, Ernest.
 		- 2002 *An Introduction to Marxist Economic Theory*. Chippendale, N.S.W.: Resistance Books.
-		- 中文：張乃烈譯《馬克思主義經濟學簡論》臺灣社會研究叢刊：7。台北：台研季刊社
+			- 中文：張乃烈譯《馬克思主義經濟學簡論》臺灣社會研究叢刊：7。台北：台研季刊社
 		- 簡體字版：http://goo.gl/PeKfSN
 	- Harvey, David
 		- 2014《A Companion to Marx's Capital》
-		- 中文：《跟大衛。哈維讀《資本論》》簡體版
+			- 中文：《跟大衛。哈維讀《資本論》》簡體版
 
 ### WEEK 6 - Functionalism
 - Malinowski, B.
-	- *Argonauts of the Western Pacific*. Waveland Pr Inc, 1984.[指定章節: Introduction, Chs. 2-4, 6, 11-12, 14-17, & 22]
-	- 中文：馬凌諾斯基。 于嘉雲 譯。 《南海舡人》遠流
+	- *Argonauts of the Western Pacific*. Waveland Pr Inc, 1984.
+		- 中文：馬凌諾斯基。 于嘉雲 譯。 《南海舡人》遠流
+		- **指定章節:** Introduction, Chs. 2-4, 6, 11-12, 14-17, & 22
+
 - Evans-Pritchard, Edward Evan
-	- 1969 *The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People*. Cambridge, UK: Oxford University Press. [指定章節: Introduction, Chs. 1, 3, & 5]
-	- 中文：褚建芳譯 2002 《努爾人-對尼羅河畔一個人群的生活方式和政治制度的描述》現代人類學經典譯叢。上海：華夏。
+	- 1969 *The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People*. Cambridge, UK: Oxford University Press.
+		- 中文：褚建芳譯 2002 《努爾人-對尼羅河畔一個人群的生活方式和政治制度的描述》現代人類學經典譯叢。上海：華夏。
+		-  **指定章節:** Introduction, Chs. 1, 3, & 5
 - *Suggested Readings*
 	- Stocking, George W.
 		-  "The Ethnographer's Magic." In *The Ethnographer's Magic and Other Essay's in the History of Anthropology*, edited by George W. Stocking, 12–59. Wisconsin University Press, 1992.
 
 ### WEEK 7 - Structuralism
 - Levi-Strauss, Claude
-	- 1963 *Structural Anthropology*. New York: Basic Books. [指定章節: Chapters 1-2, 7, 9-13.]
-	- 中文：張祖建譯 2006《列維-斯特勞斯文集: 結構人類學 1-2 》上海：中國人民大學出版社。
+	- 1963 *Structural Anthropology*. New York: Basic Books. 
+		- 中文：張祖建譯 2006《列維-斯特勞斯文集: 結構人類學 1-2 》上海：中國人民大學出版社。
+		- **指定章節:** Chapters 1-2, 7, 9-13.
 - Leach, Edmund.
 	- 1973 "Structuralism in Social Anthropology." *Structuralism: An Introduction*, 37–56.
 	- 1969 "Genesis as Myth." In *Genesis as Myth and Other Essays*, edited by Edmund Leach, 7–25. London: Cape.
@@ -110,14 +117,15 @@ Required course for Ph.D. students. 博士班學生必修.
 		
 ### WEEK 8 - Post-Structuralism: Bourdieu
 - Bourdieu, Pierre
-	- 1977 *Outline of a Theory of Practice*. New York: Cambridge University Press. [指定章節: Chs.1, 2, & 4]
-	- 中文：宋偉航譯2004《實作理論綱要》。台北：城邦。
+	- 1977 *Outline of a Theory of Practice*. New York: Cambridge University Press. 
+		- 中文：宋偉航譯2004《實作理論綱要》。台北：城邦。
+		- **指定章節:** Chs.1, 2, & 4
 - Thompson, John B.
 	- 1991 "Introduction" *Language and Symbolic Power*, John B. Thompson Ed. & Trans.. Cambridge: Polity Press.
-	- 中文參考資料：http://goo.gl/i6eu9v
+		- 中文參考資料：http://goo.gl/i6eu9v
 - Ortner, Sherry B.
 	- 1984 "Theory in Anthropology since the Sixties," in *Culture/Power/History: A Reader in Contemporary Social Theory*. Kirks, Nicholas, G. Eley, S. B. Ortner eds. Princeton: Princeton University. pp372-411.
-	- 中文：莊孔韶主編2008《人類學經典導讀》，上海：中國人民大學出版社
+		- 中文：雪莉·奧特納〈20世紀60年代以來的人類學理論〉 莊孔韶主編2008《人類學經典導讀》，上海：中國人民大學出版社
 	
 ### WEEK 9 - **Midterm Debate**
 
@@ -143,8 +151,9 @@ Required course for Ph.D. students. 博士班學生必修.
 - Foucault, M.
 	- 1979 *Discipline and Punish: The Birth of the Prison*. New York: Vintage Books. Web.
 		- 中文：劉北成譯1992 《規訓與懲罰--監獄的誕生》，台北：桂冠
-	- 2012 *The History of Sexuality: An Introduction* Vintage, [指定章節: Parts 1 & 2]
+	- 2012 *The History of Sexuality: An Introduction* Vintage, 
 		- 中文：傅柯 《性經驗史第一卷》.
+		- **指定章節:** Parts 1 & 2
 	- 1991 "Questions of method." in *The Foucault Effect: Studies in Governmental Nationality : With Two Lectures by and An Interview with Michel Foucault*. G Burchell, C Gordon, and P M Miller eds. 1991. London: Harvester Wheatsheaf. pp. 73-86.
 - *Suggested Readings*
 	- 2007 [1972] "The discourse on language." Appendix: *Archaeology of Knowledge*. London ; New York: Routledge. pp 215-37.
@@ -153,7 +162,7 @@ Required course for Ph.D. students. 博士班學生必修.
 ### WEEK 14 - Latour (李宜澤）
 - Latour, Bruno. 
 	- 2012 . *We Have Never Been Modern.* Harvard University Press.
-	- 中文: 拉圖爾 《我們從未現代過》
+		- 中文: 拉圖爾 《我們從未現代過》
 - 洪廣冀, and 何俊頤. 
 	- 2018 . “自然資源治理與原住民部落發展：後發展與後人類的視角.” 考古人類學刊, no. 89: 93–141.
 
