@@ -84,7 +84,7 @@ Required course for Ph.D. students. 博士班學生必修.
 	- Mandel, Ernest.
 		- 2002 *An Introduction to Marxist Economic Theory*. Chippendale, N.S.W.: Resistance Books.
 			- 中文：張乃烈譯《馬克思主義經濟學簡論》臺灣社會研究叢刊：7。台北：台研季刊社
-		- 簡體字版：http://goo.gl/PeKfSN
+		- [簡體字版](https://www.marxists.org/chinese/ernest-mandel/1964book/marxist.org-chinese-mandel-1964.htm)
 	- Harvey, David
 		- 2014《A Companion to Marx's Capital》
 			- 中文：《跟大衛。哈維讀《資本論》》簡體版
@@ -122,7 +122,7 @@ Required course for Ph.D. students. 博士班學生必修.
 		- **指定章節:** Chs.1, 2, & 4
 - Thompson, John B.
 	- 1991 "Introduction" *Language and Symbolic Power*, John B. Thompson Ed. & Trans.. Cambridge: Polity Press.
-		- 中文參考資料：http://goo.gl/i6eu9v
+		- [中文參考資料](http://goo.gl/i6eu9v)
 - Ortner, Sherry B.
 	- 1984 "Theory in Anthropology since the Sixties," in *Culture/Power/History: A Reader in Contemporary Social Theory*. Kirks, Nicholas, G. Eley, S. B. Ortner eds. Princeton: Princeton University. pp372-411.
 		- 中文：雪莉·奧特納〈20世紀60年代以來的人類學理論〉 莊孔韶主編2008《人類學經典導讀》，上海：中國人民大學出版社
