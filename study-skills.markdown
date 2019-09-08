@@ -17,7 +17,7 @@ notes: "Core course teaching basic college survival skills to undergraduates. (C
 | 9/11 | "課程介紹：大學學什麼?你大學生了嗎? What do I want from University?" | 葉、傅 | 認識課程、同學與自己 |
 | 9/18 | 閱讀技巧：做個聰明的讀者 Reading Techniques: Be a Smart Reader | 葉、傅 | *確定分組名單 |
 | 9/25 | 指定閱讀講座 Lecture on assigned reading | 葉、傅 |   |
-| 10/2 | 研究技巧：圖書館導覽與資料蒐集 Research Skills: Making the Most of the Library | 葉、陳 | 測驗一 (閱讀理解) \| 繳交作業 (1) |
+| 10/2 | 研究技巧：圖書館導覽與資料蒐集 Research Skills: Making the Most of the Library | 葉、陳 | 測驗一 (閱讀理解)<br>繳交作業 (1) |
 | 10/9 | 如何避免抄襲與正確的引用文獻與書目 Plagiarism & References | 葉 | 協力教師：陳昱佐老師 |
 | 10/16 | 社會科學家思考的方式 How social scientists think | 傅 |   |
 | 10/23 | 如何與他人共學合作 Working with Others: Personal and Communication Skills | 葉 | 測驗二 (引用文獻與書目)           |
