@@ -16,17 +16,17 @@ notes: "Core course teaching basic college survival skills to undergraduates. (C
 | 日期 | 課程內容 | 授課教師 | 說明 |
 | 9/11 | "課程介紹：大學學什麼?你大學生了嗎? What do I want from University?" | 葉、傅 | 認識課程、同學與自己 |
 | 9/18 | 閱讀技巧：做個聰明的讀者 Reading Techniques: Be a Smart Reader | 葉、傅 | *確定分組名單 |
-| 9/25 | 指定閱讀講座 Lecture on assigned reading | 葉、傅 |   |
-| 10/2 | 研究技巧：圖書館導覽與資料蒐集 Research Skills: Making the Most of the Library | 葉、陳 | 測驗一 (閱讀理解)<br>繳交作業 (1) |
-| 10/9 | 如何避免抄襲與正確的引用文獻與書目 Plagiarism & References | 葉 | 協力教師：陳昱佐老師 |
+| 9/25 | 指定閱讀講座 Lecture on assigned reading | 葉、傅 | 測驗一 (閱讀理解) \| 繳交作業 (1) |
+| 10/2 | 研究技巧：圖書館導覽與資料蒐集 Research Skills: Making the Most of the Library | 葉、陳 | 陳昱佐老師協力 |
+| 10/9 | 如何避免抄襲與正確的引用文獻與書目 Plagiarism & References | 葉 | 繳交小組主要閱讀文本 |
 | 10/16 | 社會科學家思考的方式 How social scientists think | 傅 |   |
-| 10/23 | 如何與他人共學合作 Working with Others: Personal and Communication Skills | 葉 | 測驗二 (引用文獻與書目)           |
-| 10/30 | 作業+分組討論（一） | 葉、傅 |   |
-| 11/6 | PowerPoint Dos and Don'ts | 傅 |   |
-| 11/13 | 口頭報告技巧 Mastering oral presentations | 葉 | 作業(2)說明 |
+| 10/23 | 作業+分組討論（一） | 葉、傅 |   |
+| 10/30 | 如何與他人共學合作 Working with Others: Personal and Communication Skills | 葉 | 測驗二 (引用文獻與書目) |
+| 11/6 | PowerPoint Dos and Don'ts | 傅 | 作業(2)說明 |
+| 11/13 | 口頭報告技巧 Mastering oral presentations | 葉 |   |
 | 11/20 | 小組討論 | 葉、傅 |   |
 | 11/27 | 作業+分組討論（二） | 葉、傅 |   |
-| 12/4 | 學生的生活小技巧 Lifehacking for Students  | 傅 |   |
+| 12/4 | 學生的生活小技巧 Lifehacking for Students | 傅 |   |
 | 12/11 | 小組討論 | 葉、傅 |   |
 | 12/18 | 期末報告（一） | 葉、傅 |   |
 | 12/25 | 期末報告（二） | 葉、傅 |   |
