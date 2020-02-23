@@ -10,7 +10,7 @@ Indigenous Images has three goals: 1. To train students in the art of critical f
 
 原住民影像有三個目標：1.訓練學生的批判影像分析能力 2.介紹學生認識民族誌電影的歷史與理論 3.討論原住民自己創作影像的議題 . 這門課所使用的電影跟台灣原住民相關, 但我們會從寬廣的角度來觀看與討論台灣原住民電影.
 
-## 課堂大綱 Course Outline (107上)
+## 課堂大綱 Course Outline (108下)
 
 | --------- | --------------- | ----------------------------------------------------- | --- | --- |
 | 3/3/2020 | Course Overview | Introduce subject, texts, expectations, online tools. |   |   |

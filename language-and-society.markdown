@@ -10,7 +10,7 @@ notes: Undergraduate introduction to sociolinguistics and linguistic anthropolog
 
 Language and Society explores the relationships among language, thought, culture, and social structure. Intended to introduce students to the basic concepts and methods used in sociolinguistics and linguistic anthropology, the course will look at issues such as language variation, language change, language ideology, language policy, the relationship between language and gender.
 
-## 課堂大綱 Course Outline (106學年下學期)
+## 課堂大綱 Course Outline (108下)
 
 | Date | Topic | Reading | Group |
 | ---- | ----- | ------- | ----- |
@@ -34,8 +34,8 @@ Language and Society explores the relationships among language, thought, culture
 ## 兩週彈性補充教學說明
 因為延後開學。
 看完電影要寫心得。
-* 期中考前看《冰原快跑人》（172）
-* 台灣國際民族誌影展 4/24-5/2，《來自密克羅尼西亞的美軍》之外，另外選一部電影。
+* 期中考前看《無語的生活》
+* 期末考前看《抱歉打擾你》
 
 ## 參考書目
 * Ahern, Laura. 2012. *Living Language: An Introduction to Linguistic Anthropology*, London: Oxford, UK: Blackwell Publishing Ltd. 
