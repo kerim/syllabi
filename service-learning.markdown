@@ -1,8 +1,8 @@
 ---
 layout: undergraduate_courses
-title: 服務學習(二) Service Learning (2)
+title: 服務學習 Service Learning
 category: undergraduate_courses
-notes: “Service Learning”
+notes: Undergraduate course for students completing their service learning requirement.
 ---
 
 本課程旨在「做中學」，結合「服務」與「學習」的精神，讓學生獲得更多元的知識與經驗，並藉由服務社區、部落、機構或NGO組織，體驗社會服務的價值。同學需完成12小時之服務，並對其服務活動進行反思，作公開的分享，希冀將本系所學的知識和技能學以致用，從中培養服務精神、敬業態度和職業倫理。
