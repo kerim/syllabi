@@ -21,7 +21,7 @@ Indigenous Images has three goals: 1. To train students in the art of critical f
 | 4/7/2020 | Indigenous Narrative Film II | Chang - ""In the Realm of the Indigenous"<br/>Huhndorf - Atanarjuat | Fishing Luck/等待飛魚 (96) | Group 2 |
 | 4/14/2020 | Indigenous Narrative Film III | Sterk - “Ironic Indigenous Primitivism" | Finding Sayun/不一樣的月光 (100) | Group 3 |
 | 4/21/2020 | 期中考試 |   |   |   |
-| 4/28/2020 | 《來自密克羅尼西亞的美軍》 |   |   |   |
+| 4/28/2020 | 台灣國際民族誌影展 4/24-5/2 |   | 《來自密克羅尼西亞的美軍》  |   |
 | 5/5/2020 | Documentary Ethics I | Nichols 1  | Nanook of the North/北方的南努克 (79) | Group 4 |
 | 5/12/2020 | Documentary Ethics II | Peterson - The Changing Photographic Contract | Marangmotxingmo Mirang/伊邦小孩的影像信 (35)<br/>Born into Brothels/小小攝影師 (85) | Group 5 |
 | 5/19/2020 | Tradition and Change | Michaels - For a Cultural Future | The Stories of Rainbow/彩虹的故事 (55)<br/>Amis Hiphop/阿美嘻哈 (55） | Group 6 |
