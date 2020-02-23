@@ -50,7 +50,7 @@ Language and Society explores the relationships among language, thought, culture
 ## Course Info
 
 ### Time and Location 時間與地點
-* 時間：星期三, 9:10am-12:00pm
+* 時間：星期三, 2:10am-5:00pm
 * 地點：原A213
 
 ### Requirements and Credits
@@ -60,7 +60,7 @@ Language and Society explores the relationships among language, thought, culture
 {% include instructor.markdown %}
 
 ### TA 助教
-* 課程助教: 吳惠如 610596001@gms.ndhu.edu.tw
+* 課程助教: 拉比•馬沙 41064e022@gms.ndhu.edu.tw 
 
 
 {% include grading.markdown %}
