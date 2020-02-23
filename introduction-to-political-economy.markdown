@@ -38,7 +38,6 @@ This course draws on economic anthropology, development studies, social history,
 * 5/2在花蓮市區看《本南人無盡的抵抗之歌》（電影）
 * 期末考前看《大賣空》（電影）
 * 課外與助教（谷拉斯•吾木代課）討論「當代台灣原住民議題」 
-*
 
 ## 參考書目
 * Wolfe, Patrick. “Race and Citizenship.” *OAH Magazine of History* 18, no. 5 (2004): 66–71.

@@ -13,24 +13,28 @@ Indigenous Images has three goals: 1. To train students in the art of critical f
 ## 課堂大綱 Course Outline (107上)
 
 | --------- | --------------- | ----------------------------------------------------- | --- | --- |
-| 9/13/2018 | Course Overview | Introduce subject, texts, expectations, online tools. |   |   |
-| 9/20/2018 | Narrative | P&W  4 | Pocahontas/風中奇緣 (81) |   |
-| 9/27/2018 | Mise en Scene | P&W 5 | The Searchers/搜索者 (119)  |   |
-| 10/4/2018 | Editing | P&W 7 | The Last Of The Mohicans/大地英豪 (117) |   |
-| 10/11/2018 | Native Americans in Film | Kilpatrick "Native Americans" <br>Green "Pocahontas Perplex" | Reel Injun/英雄本色 (51)   | Group 1 +2 |
-| 10/18/2018 | Indigenous Narrative Film I | -- | The Fast Runner/冰原快跑人 (172) |   |
-| 10/25/2018 | Indigenous Narrative Film II | Chang "In the Realm of the Indigenous" <br>Huhndorf "Atanarjuat" | Fishing Luck/等待飛魚 (96) | Group 3+4 |
-| 11/1/2018 | Indigenous Narrative Film III | Sterk “Ironic Indigenous Primitivism" | Finding Sayun/不一樣的月光 (100) | Group 5 |
-| 11/8/2018 | 期中考試 |   |   |   |
-| 11/15/2018 | Guest Lecture: 楊鈞凱 |   | Path of Destiny/不得不上路 (71) |   |
-| 11/22/2018 | Documentary Ethics I | Nichols 1  | Nanook of the North/北方的南努克 (79) | Group 6 |
-| 11/29/2018 | Documentary Ethics II | Peterson  "The Changing Photographic Contract" | Marangmotxingmo Mirang/伊邦小孩的影像信 (35)<br>Born into Brothels/小小攝影師 (85) | Group 7 |
-| 12/6/2018 | Tradition and Change | Michaels  "For a Cultural Future" | "The Stories of Rainbow/彩虹的故事 (55)<br>Amis Hiphop/阿美嘻哈 (55） | Group 8 |
-| 12/13/2018 | Who Owns Native Culture? | Brown 1 | Returning Souls/讓靈魂回家 (85) | Group 9 |
-| 12/20/2018 | Documentary Film Genres | Nichols 6 | Voices of Orchid Island/蘭嶼觀點 (73) | Group 10 |
-| 12/27/2018 | Ethnographic Film I | Friedman "Collaboration against Ethnography" | Please Don't Beat Me, Sir!/請別打我，長官！ (75) |   |
-| 1/3/2019 | Ethnographic Film II | TBA |   |   |
-| 1/10/2019 | 學期考試 |   |   |   |
+| 3/3/2020 | Course Overview | Introduce subject, texts, expectations, online tools. |   |   |
+| 3/10/2020 | Narrative | Pramaggiore & Wallis - Chapter  4 | Pocahontas/風中奇緣 (81) |   |
+| 3/17/2020 | Mise en Scene | Pramaggiore & Wallis - Chapter 5 | The Searchers/搜索者 (119)  |   |
+| 3/24/2020 | Editing | Pramaggiore & Wallis - Chapter 7 | The Last Of The Mohicans/大地英豪 (117) |   |
+| 3/31/2020 | Native Americans in Film | Kilpatrick - Native Americans<br/>Green - The Pocahontas Perplex | Reel Injun/英雄本色 (51)   | Group 1 |
+| 4/7/2020 | Indigenous Narrative Film II | Chang - ""In the Realm of the Indigenous"<br/>Huhndorf - Atanarjuat | Fishing Luck/等待飛魚 (96) | Group 2 |
+| 4/14/2020 | Indigenous Narrative Film III | Sterk - “Ironic Indigenous Primitivism" | Finding Sayun/不一樣的月光 (100) | Group 3 |
+| 4/21/2020 | 期中考試 |   |   |   |
+| 4/28/2020 | Film Festival Screening |   |   |   |
+| 5/5/2020 | Documentary Ethics I | Nichols 1  | Nanook of the North/北方的南努克 (79) | Group 4 |
+| 5/12/2020 | Documentary Ethics II | Peterson - The Changing Photographic Contract | Marangmotxingmo Mirang/伊邦小孩的影像信 (35)<br/>Born into Brothels/小小攝影師 (85) | Group 5 |
+| 5/19/2020 | Tradition and Change | Michaels - For a Cultural Future | The Stories of Rainbow/彩虹的故事 (55)<br/>Amis Hiphop/阿美嘻哈 (55） | Group 6 |
+| 5/26/2020 | Who Owns Native Culture? | Brown - Who owns native culture 1 | Returning Souls/讓靈魂回家 (85) | Group 7 |
+| 6/2/2020 | Documentary Film Genres | Nichols 6 | Voices of Orchid Island/蘭嶼觀點 (73) | Group 8 |
+| 6/9/2020 | Ethnographic Film I | Friedman - "Collaboration against Ethnography" | Please Don't Beat Me, Sir!/請別打我，長官！ (75) |   |
+| 6/16/2020 | 學期考試 |   |   |   |
+
+## 兩週彈性補充教學說明
+因為延後開學。
+看完電影要寫心得。
+* 期中考前看《冰原快跑人》（172）
+* 台灣國際民族誌影展 4/24-5/2，課堂上的影片之外另外選一部電影。
 
 ## Bibliography
 
