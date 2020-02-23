@@ -16,18 +16,18 @@ Language and Society explores the relationships among language, thought, culture
 | ---- | ----- | ------- | ----- |
 | 3/4/2020 | 解釋語言人類學的特色 | 《活出語言來》導讀 |   |
 | 3/11/2020 | ​小孩子學語言為什麼那麼快？ | 平克 《描繪天堂:生來就會說話的嬰兒》 |   |
-| 3/18/2020 | 語言社會化與沈默 | 《活出語言來》第四章「語言習得與社會化」<br/>Basso: To Give up on words | Group 1 |
-| 3/25/2020 | 讀寫能力 | 《活出語言來》第八章「讀寫能力的實踐」<br/>Heath, “What no Bedtime Story Means” | Group 2 |
-| 4/1/2020 | 語碼轉換 | 《活出語言來》第七章 「多語主義與全球化」<br/>Chen: Code-switching as a verbal strategy  | Group 3 |
-| 4/8/2020 | 語言、思想與文化 | 《活出語言來》第五章 「語言、思想與文化」<br/>《小心，別踩到我北方的腳！》第七章 「太陽不從東方升起的地方」 | Group 4 |
+| 3/18/2020 | 語言社會化與沈默 | 《活出語言來》第四章「語言習得與社會化」<br/>* Basso: To Give up on words | Group 1 |
+| 3/25/2020 | 讀寫能力 | 《活出語言來》第八章「讀寫能力的實踐」<br/>* Heath, “What no Bedtime Story Means” | Group 2 |
+| 4/1/2020 | 語碼轉換 | 《活出語言來》第七章 「多語主義與全球化」<br/>* Chen: Code-switching as a verbal strategy  | Group 3 |
+| 4/8/2020 | 語言、思想與文化 | 《活出語言來》第五章 「語言、思想與文化」<br/>* 《小心，別踩到我北方的腳！》第七章 「太陽不從東方升起的地方」 | Group 4 |
 | 4/15/2020 | Translanguaging | Li: New Chinglish  | Group 5 |
 | 4/22/2020 | Midterm Exams |   |   |
 | 4/29/2020 | 電影 | 《賣花女》 |   |
-| 5/6/2020 | 語言與性別（一） | 《活出語言來》第十章 「語言與性別」<br/>Goodwin, “Exclusion in Girls’ Peer Groups” | Group 1 |
+| 5/6/2020 | 語言與性別（一） | 《活出語言來》第十章 「語言與性別」<br/>* Goodwin, “Exclusion in Girls’ Peer Groups” | Group 1 |
 | 5/13/2020 | 語言與性別（二） | Kiesling: Dude | Group 2 |
-| 5/20/2020 | 語言、種族與族群性（一） | 《活出語言來》第十一章 「語言、種族與族群性」<br/>Goodwin, “Exclusion in Girls’ Peer Groups” | Group 3 |
+| 5/20/2020 | 語言、種族與族群性（一） | 《活出語言來》第十一章 「語言、種族與族群性」<br/>* Goodwin, “Exclusion in Girls’ Peer Groups” | Group 3 |
 | 5/27/2020 | 語言、種族與族群性（二） | Bailey: Communication of Respect | Group 4 |
-| 6/3/2020 | 語言滅絕與復振 （一） | 《活出語言來》第十二章 「語言滅絕與復振」<br/>《語言的死亡》第一章 「何謂語言死亡？」 | Group 5 |
+| 6/3/2020 | 語言滅絕與復振 （一） | 《活出語言來》第十二章 「語言滅絕與復振」<br/>* 《語言的死亡》第一章 「何謂語言死亡？」 | Group 5 |
 | 6/10/2020 | 語言滅絕與復振 （二） | Guest Lecture: Sifo |   |
 | 6/17/2020 | Final Exams |   |   |
 
