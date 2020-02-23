@@ -14,24 +14,28 @@ Language and Society explores the relationships among language, thought, culture
 
 | Date | Topic | Reading | Group |
 | ---- | ----- | ------- | ----- |
-| 2/28/2018 | 和平紀念日(放假) |   |   |
-| 3/7/2018 | Intro | What is linguistic anthropology? |   |
-| 3/14/2018 | How Children Learn | 電影《無語的生活》& 平克 《描繪天堂:生來就會說話的嬰兒》 |   |
-| 3/21/2018 | Silence | Basso: To Give up on words | Group 1 |
-| 3/28/2018 | Code Switching | Chen: Code-switching as a verbal strategy  | Group 2 |
-| 4/4/2018 | 4/4兒童節(放假) |   |   |
-| 4/11/2018 | Language & Thought | Ahern: Language, Thought & Culture | Group 3 |
-| 4/18/2018 | Language Death & Revival | 克里斯托 《語言的死亡》第一章與第二章 | Group 4 |
-| 4/25/2018 | Midterm Exams |   |   |
-| 5/2/2018 | Film | 《賣花女》 |   |
-| 5/9/2018 | Language and Gender | Ahern: Language and Gender | Group 5 |
-| 5/16/2018 | Masculinity | Kiesling: Dude | Group 6 |
-| 5/23/2018 | Language and Race | Ahern: Language, Race and Ethnicity | Group 7 |
-| 5/30/2018 | Film | 《街頭痞子》 |  |
-| 6/6/2018 | Cross-talk | Bailey: Communication of Respect | Group 8 |
-| 6/13/2018 | Literacy Studies | Ahern: Literacy Practices | Group 9 |
-| 6/20/2018 | Translanguaging | Li: New Chinglish  | Group 10 |
-| 6/27/2018 | Final Exams |   |   |
+| 3/4/2020 | 解釋語言人類學的特色 | 《活出語言來》導讀 |   |
+| 3/11/2020 | ​小孩子學語言為什麼那麼快？ | 平克 《描繪天堂:生來就會說話的嬰兒》 |   |
+| 3/18/2020 | 語言社會化與沈默 | 《活出語言來》第四章「語言習得與社會化」<br/>Basso: To Give up on words | Group 1 |
+| 3/25/2020 | 讀寫能力 | 《活出語言來》第八章「讀寫能力的實踐」<br/>Heath, “What no Bedtime Story Means” | Group 2 |
+| 4/1/2020 | 語碼轉換 | 《活出語言來》第七章 「多語主義與全球化」<br/>Chen: Code-switching as a verbal strategy  | Group 3 |
+| 4/8/2020 | 語言、思想與文化 | 《活出語言來》第五章 「語言、思想與文化」<br/>《小心，別踩到我北方的腳！》第七章 「太陽不從東方升起的地方」 | Group 4 |
+| 4/15/2020 | Translanguaging | Li: New Chinglish  | Group 5 |
+| 4/22/2020 | Midterm Exams |   |   |
+| 4/29/2020 | 電影 | 《賣花女》 |   |
+| 5/6/2020 | 語言與性別（一） | 《活出語言來》第十章 「語言與性別」<br/>Goodwin, “Exclusion in Girls’ Peer Groups” | Group 1 |
+| 5/13/2020 | 語言與性別（二） | Kiesling: Dude | Group 2 |
+| 5/20/2020 | 語言、種族與族群性（一） | 《活出語言來》第十一章 「語言、種族與族群性」<br/>Goodwin, “Exclusion in Girls’ Peer Groups” | Group 3 |
+| 5/27/2020 | 語言、種族與族群性（二） | Bailey: Communication of Respect | Group 4 |
+| 6/3/2020 | 語言滅絕與復振 （一） | 《活出語言來》第十二章 「語言滅絕與復振」<br/>《語言的死亡》第一章 「何謂語言死亡？」 | Group 5 |
+| 6/10/2020 | 語言滅絕與復振 （二） | Guest Lecture: Sifo |   |
+| 6/17/2020 | Final Exams |   |   |
+
+## 兩週彈性補充教學說明
+因為延後開學。
+看完電影要寫心得。
+* 期中考前看《冰原快跑人》（172）
+* 台灣國際民族誌影展 4/24-5/2，《來自密克羅尼西亞的美軍》之外，另外選一部電影。
 
 ## 參考書目
 * Ahern, Laura. 2012. *Living Language: An Introduction to Linguistic Anthropology*, London: Oxford, UK: Blackwell Publishing Ltd. 
