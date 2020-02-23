@@ -51,7 +51,7 @@ Language and Society explores the relationships among language, thought, culture
 
 ### Time and Location 時間與地點
 * 時間：星期三, 2:10am-5:00pm
-* 地點：原A213
+* 地點：原A206
 
 ### Requirements and Credits
 * 授課時數: 3
