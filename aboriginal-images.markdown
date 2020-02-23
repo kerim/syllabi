@@ -56,7 +56,7 @@ Indigenous Images has three goals: 1. To train students in the art of critical f
 ## Course Info
 
 ### Time and Location 時間與地點
-* 時間：星期四, 9:10am-12:00pm
+* 時間：星期二, 1:10pm-5:00pm
 * 地點：原B106
 
 ### Requirements and Credits
@@ -66,7 +66,7 @@ Indigenous Images has three goals: 1. To train students in the art of critical f
 {% include instructor.markdown %}
 
 ### TA 助教
-* 課程助教: 鄭元戎 610498005@gms.ndhu.edu.tw
+* 課程助教: 拉比•馬沙 41064e022@gms.ndhu.edu.tw 
 
 
 {% include grading.markdown %}
