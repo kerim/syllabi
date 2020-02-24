@@ -37,7 +37,7 @@ This course draws on economic anthropology, development studies, social history,
 * 期中考前看《棉花》（電影）
 * 5/2在花蓮市區看《本南人無盡的抵抗之歌》（電影）
 * 期末考前看《大賣空》（電影）
-* 課外與助教（谷拉斯•吾木代課）討論「當代台灣原住民議題」 
+* 5/11之後，課外與助教（谷拉斯•吾木代課）討論「當代台灣原住民議題」 (參考：〈原住民經濟困境與地方文化產業發展之可能-以桃竹苗地區為例〉）
 
 ## 參考書目
 * Wolfe, Patrick. “Race and Citizenship.” *OAH Magazine of History* 18, no. 5 (2004): 66–71.
@@ -48,6 +48,7 @@ This course draws on economic anthropology, development studies, social history,
 * 楊美惠 Yang, Mayfair M. 《禮物,關係學,與國家》 Gifts, Favors, and Banquets: The Art of Social Relationships in China. Ithica: Cornell University Press, 1994. (Chapter 3)
 * Lan, P C. Global Cinderellas: Migrant Domestics and Newly Rich Employers in Taiwan. Durham: Duke Univ. Press, 2006. 藍佩嘉 《跨國灰姑娘》第二章與第三章
 * 《資本主義沒告訴你》
+* 陳芬苓，2008，〈原住民經濟困境與地方文化產業發展之可能-以桃竹苗地區為例〉，《國家與社會》，No.4，1-42.pdf
 
 ## Course Info
 
