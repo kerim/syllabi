@@ -50,4 +50,4 @@ notes: Undergraduate course for students completing their service learning requi
    * 課程助教: 拉比•馬沙 41064e022@gms.ndhu.edu.tw 
    * 請假請事先告之、email或電話連絡。
 
-{% include grading.markdown %}
+{% include grading-service-learning.markdown %}
