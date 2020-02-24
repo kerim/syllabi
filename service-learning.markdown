@@ -29,6 +29,9 @@ notes: Undergraduate course for students completing their service learning requi
 | 6/9/2020 | 分享與回饋  |
 | 6/16/2020 | 課程回饋與建議 |
 
+## 兩週彈性補充教學說明（因為延後開學）。
+Because service learning 
+
 ## Course Info
 * 中文科目名稱: 服務學習（二）
 * 英文科目名稱: Service Learning (2)
