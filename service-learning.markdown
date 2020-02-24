@@ -39,29 +39,15 @@ notes: Undergraduate course for students completing their service learning requi
 * 地點：原A206
 
 ### Requirements and Credits
-* 授課時數: 3
-* 開課班級: 一年級
+* 授課時數: 1
+* 開課班級: 校核心
 * 修別: 必修
-* 學分數: 3
+* 學分數: 1
 
-### 授課教師
-* 葉秀燕（族文系副教授）
-    * joyceyeh@gms.mail.ndhu.edu.tw
-    * 研究室：原A406
-    * 分機:5802
-    * 晤談時間: 周三 1-3pm
-* 傅可恩（族文系副教授）
-    * fulaoshi@oxus.net 
-    * 研究室：原A404
-    * 分機:5795
-    * 晤談時間: 周三 12-2pm
+{% include instructor.markdown %}
    
 ### TA 助教
-   * 課程助教: 芳青 q290815@gmail.com
+   * 課程助教: 拉比•馬沙 41064e022@gms.ndhu.edu.tw 
    * 請假請事先告之、email或電話連絡。
 
-### 授課方式：
-* 課堂講授。作業之資料蒐集、報告撰寫、口頭發表。分組報告與討論。
-
-## 注意事項：
-本課程作業與期末報告以小組為單位，以5-6人為一組，請自行組成小組並推選組長一名。分組原則：有男有女、有原有漢、有高有低（年級、身高…），以強調多元之融合性，以達本系設立之宗旨。本課程學期末以「合格」(satisfactory)以及「不合格」(unsatisfactory)兩種等級評分。請注意本課程為族文系必修課，不合格的學生無法授與學士學位。
+{% include grading.markdown %}
