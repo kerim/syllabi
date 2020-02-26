@@ -1,5 +1,6 @@
 ## 教學方法
-In service learning, service and learning are equally important. For this reason it is not enough to simply complete the minimum 12 hours of service required by the program. Students must also engage in “critical reflection” before, during, and after they engage in this service. For that reason class participation, blogs, and the final report are an essential part of the the class. During the semester a number of assignments will be handed out to help facilitate this process. Students are encouraged to work together as groups, but students who wish to work on their own may do so as well. Attendance during all class sessions is mandatory. Because there are so few sessions held in the classroom, and because discussion is so important to this class, students who miss more than two required sessions without a doctor’s note run the risk of failing the class. Because class is held during lunch time, students are welcome to eat in class.
+服務學習的意涵是服務及學習相對的重要。鑒於此；在課程中僅僅滿 足12小時的服務時數是不足夠的，也應在執行服務前、中、後都具備“批判性反思”。因此課程的參與、評析及期末報告也是學習中不可缺少的，除了建議同學以分組進行之外，單獨活動也是允許的。由於課堂討論對這門課程來說非常重要，而我們能在課堂上分組討論的時間也很有限，所以請同學務必出席課程，倘若兩次未出席課程或者未提供病假診斷書，都有可能會有不及格的風險。本課程因為是午餐時段，所以也歡迎同學攜帶餐點來上課。
+
 
 ### 分數比例
 * 出席率、討論（30%）
