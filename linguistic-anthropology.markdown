@@ -10,30 +10,30 @@ warn: "Spring 2019"
 
 This course seeks to introduce graduate students to the basic concepts and methods used in linguistic anthropology. The course will explore how everyday speech practices reflect and are reflected in issues of culture and identity with a particular focus on gender and ethnicity. Students will learn the basic tools of discourse analysis and the ethnography of communication, and will be   introduced to current issues in the field of linguistic anthropology.
 
-## 上課內容 Weekly Topics (107-2學年)
+## 上課內容 Weekly Topics 109學年，上學期
 
-| Date | Book | Selection | Assignments |
-| ---- | ---- | --------- | ----------- |
-| 9/19/2020 | 解釋語言人類學的特色 | 《活出語言來》導讀 |   |
-| 9/26/2020 | 語言學 | ⋯⋯ Pinker 《語言本能》<br/>⋯⋯ Everett 《別睡，這裡有蛇！》 |   |
-| 10/3/2020 | 語言、思想與文化 | 《活出語言來》第五章 「語言、思想與文化」<br/>⋯⋯  Deutscher 《小心，別踩到我北方的腳！》 |   |
-| 10/10/2020 | 國慶日(放假) |   |   |
-| 10/17/2020 | 語言的社會性生活 | 《活出語言來》第一章 「語言的社會性生活」<br/>Basso "To Give up on words"<br/>Phillips  ""Warm Springs"<br/>*** Basso 《Wisdom sits in high places》 |   |
-| 10/24/2020 | 語言人類學的研究歷程 | 《活出語言來》第三章 「語言人類學的研究歷程」<br/>Cameron 《Working with Spoken Discourse》 | 小組 1&2 |
-| 10/31/2020 | 電影 | 《無語的生活》<br/>《活出語言來》第二章 p.64-67  「手語」 | 小組 3&4 |
-| 11/7/2020 | 語言社會化與讀寫能力 | 《活出語言來》第四章 「語言習得與社會化」與第八章 「讀寫能力的實踐」<br/>Akinnaso, "Literacy and Individual Consciousness"<br/>*** Heath, Ways with Words | 小組 5&6 |
-| 11/14/2020 | 功課一 |   |   |
-| 11/21/2020 | 語言使用者的社群與多語主義 | 《活出語言來》第六章 「語言使用者的社群」與第六章 「多語主義與全球化」<br/>Urciouli, "The Political Topography of Spanish and English"<br/>Wei, "Codeswitching in Campaigning Discourse"<br/>*** Chiu, "Code-switching and Identity Constructions in Taiwan TV…"<br/>*** Chen, "Code switching between English and Mandarin…" |   |
-| 11/28/2020 | 電影 | Sorry to Bother You?<br/>《活出語言來》第十一章 「語言，種族與族群性」 | 小組 1 |
-| 12/5/2020 | 語言，種族與族群性 | Baily, "Communication of Respect"<br/>*** Chun, "Ideologies of Legitimate Mockery"<br/>*** Hill, "Mock Spanish" | 小組 2 |
-| 12/12/2020 | 功課二 |   | 小組 3 |
-| 12/19/2020 | 性別與權力 | 《活出語言來》第十章 「語言與性別」與第十三章 「結論：語言，權力與能動性」<br/>Gal, "Peasant Men Can't Get Wives"<br/>Goodwin, "Exclusion in Girls’ Peer Groups"<br/>*** Farris, "A semeiotic analysis of sajiao" | 小組 4 |
-| 12/26/2020 | 展演性 | 《活出語言來》第九章 「展演，展演性與社群構成」<br/>Frake, "How to ask for a drink in Subanun"<br/>Kiesling, "Dude"<br/>*** Barret, "Indexing Polyphonous Identity in the Speech of AADQ"<br/>*** Irvine, "Language and political Economy" | 小組 5&6 |
-| 1/2/2021 | 語言滅絕與復振 | 《活出語言來》第十二章 「語言滅絕與復振」<br/>Crystal, 《語言的死亡》<br/>*** Errington, "Getting Language Rights"<br/>*** Jaffe, ""Discourses of Endangerment" |   |
-| 1/9/2021 | 期末報告一 |   |   |
-| 1/16/2021 | 期末報告二 |   |   |
+| Date | Book | Selection |
+| ---- | ---- | --------- |
+| 9/19/2020 | 解釋語言人類學的特色 | 《活出語言來》導讀 |
+| 9/26/2020 | 語言學 | ⋯⋯ Pinker 《語言本能》<br/>⋯⋯ Everett 《別睡，這裡有蛇！》 |
+| 10/3/2020 | 語言、思想與文化 | 《活出語言來》第五章 「語言、思想與文化」<br/>⋯⋯  Deutscher 《小心，別踩到我北方的腳！》 |
+| 10/10/2020 | 國慶日(放假) |   |
+| 10/17/2020 | 語言的社會性生活 | 《活出語言來》第一章 「語言的社會性生活」<br/>Basso "To Give up on words"<br/>Phillips  ""Warm Springs"<br/>‡‡‡ Basso 《Wisdom sits in high places》 |
+| 10/24/2020 | 語言人類學的研究歷程 | 《活出語言來》第三章 「語言人類學的研究歷程」<br/>Cameron 《Working with Spoken Discourse》 |
+| 10/31/2020 | 電影 | 《無語的生活》<br/>《活出語言來》第二章 p.64-67  「手語」 |
+| 11/7/2020 | 語言社會化與讀寫能力 | 《活出語言來》第四章 「語言習得與社會化」與第八章 「讀寫能力的實踐」<br/>Akinnaso, "Literacy and Individual Consciousness"<br/>‡‡‡ Heath, Ways with Words |
+| 11/14/2020 | 功課一 |   |
+| 11/21/2020 | 語言使用者的社群與多語主義 | 《活出語言來》第六章 「語言使用者的社群」與第六章 「多語主義與全球化」<br/>Urciouli, "The Political Topography of Spanish and English"<br/>Wei, "Codeswitching in Campaigning Discourse"<br/>‡‡‡ Chiu, "Code-switching and Identity Constructions in Taiwan TV…"<br/>‡‡‡ Chen, "Code switching between English and Mandarin…" |
+| 11/28/2020 | 電影 | Sorry to Bother You?<br/>《活出語言來》第十一章 「語言，種族與族群性」 |
+| 12/5/2020 | 語言，種族與族群性 | Baily, "Communication of Respect"<br/>‡‡‡ Chun, "Ideologies of Legitimate Mockery"<br/>‡‡‡ Hill, "Mock Spanish" |
+| 12/12/2020 | 功課二 |   |
+| 12/19/2020 | 性別與權力 | 《活出語言來》第十章 「語言與性別」與第十三章 「結論：語言，權力與能動性」<br/>Gal, "Peasant Men Can't Get Wives"<br/>Goodwin, "Exclusion in Girls’ Peer Groups"<br/>‡‡‡ Farris, "A semeiotic analysis of sajiao" |
+| 12/26/2020 | 展演性 | 《活出語言來》第九章 「展演，展演性與社群構成」<br/>Frake, "How to ask for a drink in Subanun"<br/>Kiesling, "Dude"<br/>‡‡‡ Barret, "Indexing Polyphonous Identity in the Speech of AADQ"<br/>‡‡‡ Irvine, "Language and political Economy" |
+| 1/2/2021 | 語言滅絕與復振 | 《活出語言來》第十二章 「語言滅絕與復振」<br/>Crystal, 《語言的死亡》<br/>‡‡‡ Errington, "Getting Language Rights"<br/>‡‡‡ Jaffe, ""Discourses of Endangerment" |
+| 1/9/2021 | 期末報告一 |   |
+| 1/16/2021 | 期末報告二 |   |
 
-(⋯⋯ 建議閱讀, *** = 博士生必須閱讀，碩士生不必，算「建議閱讀」而已)
+(⋯⋯ 建議閱讀, ‡‡‡ = 博士生必須閱讀，碩士生不必，算「建議閱讀」而已)
 
 
 ## 閱讀書目 Readings
