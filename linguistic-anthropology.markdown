@@ -38,7 +38,7 @@ This course seeks to introduce graduate students to the basic concepts and metho
 
 ## 閱讀書目 Readings
 
-- Ahearn, L M. *Living Language: An Introduction to Linguistic Anthropology*. Vol. 7. N.p.: Wiley-Blackwell, 2011. 
+- Ahearn, L M. 《活出語言來：語言人類學導論》. *Living Language: An Introduction to Linguistic Anthropology*. 台北市: 群學. 2020.
 - Akinnaso, F Niyi. "Literacy and Individual Consciousness." *Literate systems and individual lives: Perspectives on literacy and schooling* (1991): 73-94. 
 - Bailey, Benjamin. "Communicative Behavior and Conflict Between African-American Customers and Korean Immigrant Retailers in Los Angeles." *Discourse & Society* 11.1 (2000): 86-108.
 - Basso, Keith H. "To Give Up on Words": Silence in Western Apache Culture." *Southwestern Journal of Anthropology* (1970): 213-230.
