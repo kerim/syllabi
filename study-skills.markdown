@@ -11,27 +11,28 @@ notes: "Core course teaching basic college survival skills to undergraduates. (C
 ## 課程描述
 幫助學生由以往老師帶領為主的學習方式，轉變為以自我動機為引導的學習態度。協助學生找到自我發展方向，讓老師以有效的教學策略協助學生達成自我期許。訓練問題發掘、思考邏輯、資料蒐集、歸納分析、報告撰寫、論文發表、團隊合作等各方面的能力。鼓勵學生體會學習過程中種種經驗，做為日後大學生活和學習的基礎。
 
-## 課堂大綱 Course Outline (108學年上學期)
+## 課堂大綱 Course Outline (109學年上學期)
 
 | 日期 | 課程內容 | 授課教師 | 說明 |
-| 9/11 | "課程介紹：大學學什麼?你大學生了嗎? What do I want from University?" | 葉、傅 | 認識課程、同學與自己 |
-| 9/18 | 閱讀技巧：做個聰明的讀者 Reading Techniques: Be a Smart Reader | 葉、傅 | *確定分組名單 |
-| 9/25 | 指定閱讀講座 Lecture on assigned reading | 葉、傅 | 測驗一 (閱讀理解) \| 作業（1）説明 |
-| 10/2 | 研究技巧：圖書館導覽與資料蒐集 Research Skills: Making the Most of the Library | 葉、陳 | 陳昱佐老師協力 |
-| 10/9 | 如何避免抄襲與正確的引用文獻與書目 Plagiarism & References | 葉 | 繳交小組主要閱讀文本 |
-| 10/16 | 社會科學家思考的方式 How social scientists think | 傅 |   |
-| 10/23 | 作業+分組討論（一） | 葉、傅 | 繳交作業（1） |
-| 10/30 | 如何與他人共學合作 Working with Others: Personal and Communication Skills | 葉 | 測驗二 (引用文獻與書目) |
-| 11/6 | PowerPoint Dos and Don'ts | 傅 | 作業(2)說明 |
-| 11/13 | 口頭報告技巧 Mastering oral presentations | 葉 |   |
-| 11/20 | 小組討論 | 葉、傅 |各組選擇閲讀文本討論 |
-| 11/27 | 作業+分組討論（二） | 葉、傅 |   |
-| 12/4 | 學生的生活小技巧 Lifehacking for Students | 傅 |   |
-| 12/11 | 小組討論 | 葉、傅 |各組與老師約時間討論期末報告|
-| 12/18 | 期末報告（一） | 葉、傅 |   |
-| 12/25 | 期末報告（二） | 葉、傅 |   |
-| 1/1 | 開國紀念日(放假) |   |   |
-| 1/8 | 期末報告（三） | 葉、傅 |   |
+| -- | ---- | ---- | -- |
+| 9/17 | 課程介紹：大學學什麼?你大學生了嗎? What do I want from University? | 葉、傅 | 認識課程、同學與自己 |
+| 9/24 | 閱讀技巧：做個聰明的讀者 Reading Techniques: Be a Smart Reader | 葉、傅 | *確定分組名單 |
+| 10/1 | 10/1中秋節 (放假) |   |   |
+| 10/8 | 如何與他人共學合作 Working with Others: Personal and Communication Skills | 葉 |   |
+| 10/15 | 指定閱讀講座 Lecture on assigned reading | 葉、傅 | 測驗一 (閱讀理解)<br/>作業(1)說明 |
+| 10/22 | 研究技巧：圖書館導覽與資料蒐集 Research Skills: Making the Most of the Library | 葉、陳 | 陳昱佐老師協力 |
+| 10/29 | 如何避免抄襲與正確的引用文獻與書目 Plagiarism & References | 葉 | 繳交小組主要閱讀文本 |
+| 11/5 | 社會科學家思考的方式 How social scientists think | 傅 |   |
+| 11/12 | 交作業 (1)+分組討論 | 葉、傅 |   |
+| 11/19 | PowerPoint Dos and Don'ts | 傅 | 測驗二 (書目及引用) |
+| 11/26 | 口頭報告技巧 Mastering oral presentations | 葉 | 作業(2)說明 |
+| 12/3 | 小組討論 | 葉、傅 |   |
+| 12/10 | 作業+分組討論（二） | 葉、傅 |   |
+| 12/17 | 學生的生活小技巧 Lifehacking for Students  | 傅 |   |
+| 12/24 | 小組討論 | 葉、傅 |   |
+| 12/31 | 期末報告（一） | 葉、傅 |   |
+| 1/7 | 期末報告（二） | 葉、傅 |   |
+| 1/14 | 期末報告（三） | 葉、傅 |   |
 
 ## Course Info
 * 中文科目名稱: 學習方法與技巧
@@ -39,7 +40,7 @@ notes: "Core course teaching basic college survival skills to undergraduates. (C
 * 科目代碼: CIS_11100
 
 ### Time and Location 時間與地點
-* 時間：星期三, 9:10am-12:00pm
+* 時間：星期四, 2:10pm-5:00pm
 * 地點：原A213
 
 ### Requirements and Credits
@@ -61,7 +62,7 @@ notes: "Core course teaching basic college survival skills to undergraduates. (C
     * 晤談時間: 周三 12-2pm
    
 ### TA 助教
-   * 課程助教: 芳青 q290815@gmail.com
+   * 課程助教: 王尹孜 410696018@gms.ndhu.edu.tw 
    * 請假請事先告之、email或電話連絡。
 
 ### 授課方式：
