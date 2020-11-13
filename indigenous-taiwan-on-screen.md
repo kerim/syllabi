@@ -1,3 +1,9 @@
+---
+layout: syllabi
+title: Indigenous Taiwan on Screen
+category: syllabi
+---
+
 # Indigenous Taiwan on Screen
 
 EC-5 BA Course for the 2021 Spring Semester
