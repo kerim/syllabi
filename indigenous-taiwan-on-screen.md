@@ -73,7 +73,7 @@ Week 6: Traditional Culture and Religion II: Repatriation
 Week 7: Traditional Culture and Religion III: Music and Dance
 
 -  **Film**: Amis Hip-Hop (2007)
--  **Reading**: Tsai, Futuru C. L. 2006. "'Amis Hip Hop': The Body Exhibitions of Contemporary Amis Youth in Taiwan." Tsing Hua Anthropological & Area Studies Paper Series 2. http://www.oz.nthu.edu.tw/~d929802/amishiphop/paper.htm.
+-  **Reading**: Tsai, Futuru C. L. 2006. "'Amis Hip Hop': The Body Exhibitions of Contemporary Amis Youth in Taiwan." Tsing Hua Anthropological & Area Studies Paper Series 2. <http://www.oz.nthu.edu.tw/~d929802/amishiphop/paper.htm>.
 
 Week 8: Contemporary Social Issues I: Urban Migration
 
