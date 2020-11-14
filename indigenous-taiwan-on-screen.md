@@ -9,7 +9,7 @@ Leiden University, International Institute for Asian Studies (IIAS)
 
 ## Instructor
 
-P. Kerim Friedman is the 2021 Chair of Taiwan Studies at IIAS. He lives and teaches in Taiwan where he is an associate professor in the Department of Ethnic Relations and Cultures (within the College of Indigenous Studies), at National Dong Hwa University in Hualien. More information about Kerim can be found on his webpage: http://kerim.oxus.net/
+P. Kerim Friedman is the 2021 Chair of Taiwan Studies at IIAS. He lives and teaches in Taiwan where he is an associate professor in the Department of Ethnic Relations and Cultures (within the College of Indigenous Studies), at National Dong Hwa University in Hualien. More information about Kerim can be found on his webpage: [http://kerim.oxus.net/](http://kerim.oxus.net/)
 
 ## Course description
 
@@ -63,7 +63,7 @@ Week 4: The Japanese Colonial Experience III: Tattoos
 Week 5: Traditional Culture and Religion I: Shamanism
 
 -  **Film**: Paths of Destiny (2017)
--  **Reading**: Pi-chen, Liu. 2020. "From Superstition to Cultural Heritage: The Politics of Taiwan's Indigenous Shamanism." In *Entre Sciences et Croyances*, edited by Salomé Deboos, 143--52. Éditions de l'Ill. https://editionsdelill.com/entre-sciences-et-croyances
+-  **Reading**: Pi-chen, Liu. 2020. "From Superstition to Cultural Heritage: The Politics of Taiwan's Indigenous Shamanism." In *Entre Sciences et Croyances*, edited by Salomé Deboos, 143--52. Éditions de l'Ill. <https://editionsdelill.com/entre-sciences-et-croyances>
 
 Week 6: Traditional Culture and Religion II: Repatriation
 
