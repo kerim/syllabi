@@ -23,7 +23,7 @@ This course seeks to introduce graduate students to the basic concepts and metho
 | 10/31/2020 | 電影 | 《無語的生活》<br/>《活出語言來》第二章 p.64-67  「手語」 |
 | 11/7/2020 | 語言社會化與讀寫能力 | 《活出語言來》第四章 「語言習得與社會化」與第八章 「讀寫能力的實踐」<br/>Akinnaso, "Literacy and Individual Consciousness"<br/>‡‡‡ Heath, Ways with Words |
 | 11/14/2020 | 功課一 |   |
-| 11/21/2020 | 語言使用者的社群與多語主義 | 《活出語言來》第六章 「語言使用者的社群」與第六章 「多語主義與全球化」<br/>Urciouli, "The Political Topography of Spanish and English"<br/>Wei, "Codeswitching in Campaigning Discourse"<br/>‡‡‡ Chiu, "Code-switching and Identity Constructions in Taiwan TV…"<br/>‡‡‡ Chen, "Code switching between English and Mandarin…" |
+| 11/21/2020 | 語言使用者的社群與多語主義 | 《活出語言來》第六章 「語言使用者的社群」與第七章 「多語主義與全球化」<br/>Urciouli, "The Political Topography of Spanish and English"<br/>Wei, "Codeswitching in Campaigning Discourse"<br/>‡‡‡ Chiu, "Code-switching and Identity Constructions in Taiwan TV…"<br/>‡‡‡ Chen, "Code switching between English and Mandarin…" |
 | 11/28/2020 | 電影 | Sorry to Bother You?<br/>《活出語言來》第十一章 「語言，種族與族群性」 |
 | 12/5/2020 | 語言，種族與族群性 | Baily, "Communication of Respect"<br/>‡‡‡ Chun, "Ideologies of Legitimate Mockery"<br/>‡‡‡ Hill, "Mock Spanish" |
 | 12/12/2020 | 功課二 |   |
